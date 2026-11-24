@@ -1,0 +1,685 @@
+[
+  {
+    "templateVersion": "pm-werkkaart-2",
+    "revision": 0,
+    "status": "draft",
+    "grade": "PrO 2",
+    "phase": "Kennismaken",
+    "year": "1",
+    "level": "Basis",
+    "direction": "Keuken",
+    "sourceStatus": "Gebaseerd op aangeleverde werkkaart",
+    "sourceText": "",
+    "linkedLesson": "",
+    "id": "voorbeeld-hbr",
+    "sector": "hbr",
+    "title": "Aardappelschijfjes uit de oven",
+    "description": "Je maakt een bijgerecht voor 4 personen. Kijk naar de foto en doe de stap.",
+    "duration": "15 minuten voorbereiden · 35–45 minuten bakken",
+    "source": "Aangeleverde werkkaart Aardappelschijfjes_visuele_opdracht_PRO_met taal en rekendoelen.docx",
+    "overviewImage": "asset:hbr-1",
+    "overviewAlt": "Aardappelschijfjes uit de oven",
+    "goals": {
+      "practice": "Ik snijd gelijke schijfjes en werk veilig.",
+      "language": "Ik lees de stappen en benoem wat ik doe.",
+      "math": "Ik weeg af, meet de dikte en bereken de oventijd."
+    },
+    "materials": [
+      {
+        "name": "Vastkokende aardappelen",
+        "amount": "800 g"
+      },
+      {
+        "name": "Olie",
+        "amount": "2 eetlepels"
+      },
+      {
+        "name": "Mild paprikapoeder",
+        "amount": "1 theelepel"
+      },
+      {
+        "name": "Tijm of rozemarijn",
+        "amount": "1 theelepel"
+      },
+      {
+        "name": "Zout en peper",
+        "amount": "Een klein beetje"
+      }
+    ],
+    "tools": "Weegschaal, kom, snijplank, mes, liniaal, lepels, borstel, theedoek, bakplaat, bakpapier, spatel, vork, ovenwanten en timer.",
+    "precautions": [
+      "Was je handen, doe een schort aan en bind lang haar vast.",
+      "Gebruik stevige aardappelen zonder groene plekken. Laat de docent de oven kiezen: 200 °C hetelucht of 220 °C boven- en onderwarmte."
+    ],
+    "steps": [
+      {
+        "title": "Weeg en was",
+        "text": "Zet de lege kom op de weegschaal en zet hem op 0.\nWeeg 800 g aardappelen af.\nWas en borstel ze schoon. Laat de schil zitten.",
+        "image": "asset:hbr-2",
+        "alt": "Weeg en was",
+        "check": ""
+      },
+      {
+        "title": "Snijd schijfjes",
+        "text": "Laat de docent het voordoen.\nLeg de aardappel op een platte kant. Buig je vingers naar binnen.\nSnijd schijfjes van ongeveer 5 mm dik.",
+        "image": "asset:hbr-3",
+        "alt": "Snijd schijfjes",
+        "check": "Leg je mes neer. Meet een schijfje: ____ mm dik."
+      },
+      {
+        "title": "Droog en meng",
+        "text": "Dep de schijfjes droog en doe ze in de kom.\nVoeg de olie, kruiden, zout en peper toe.\nMeng alles door elkaar.",
+        "image": "asset:hbr-4",
+        "alt": "Droog en meng",
+        "check": ""
+      },
+      {
+        "title": "Verdeel de schijfjes",
+        "text": "Leg bakpapier op de bakplaat.\nVerdeel de schijfjes in één laag. Laat ze niet overlappen.\nGebruik zo nodig een tweede bakplaat.",
+        "image": "asset:hbr-5",
+        "alt": "Verdeel de schijfjes",
+        "check": ""
+      },
+      {
+        "title": "Bak en schep om",
+        "text": "Bak ongeveer 35–45 minuten.\nZet de timer op 20 minuten. Schep dan om. Gebruik ovenwanten.\nZet de timer op 15 minuten. Wissel bij twee platen de hoogte om.",
+        "image": "asset:hbr-6",
+        "alt": "Bak en schep om",
+        "check": "Start ____:____  Omscheppen na 20 min ____:____"
+      },
+      {
+        "title": "Controleer en proef",
+        "text": "Controleer na 35 minuten: goudbruin en makkelijk door te prikken?\nLaat de docent kijken. Bak zo nodig langer.\nLaat afkoelen, proef en ruim je werkplek op.",
+        "image": "asset:hbr-7",
+        "alt": "Controleer en proef",
+        "check": "Eerste controle na 35 min ____:____  Na 45 min ____:____"
+      }
+    ],
+    "words": [
+      {
+        "word": "Afwegen",
+        "definition": "De hoeveelheid met een weegschaal bepalen."
+      },
+      {
+        "word": "Verdelen",
+        "definition": "De schijfjes over de bakplaat verspreiden."
+      },
+      {
+        "word": "Omscheppen",
+        "definition": "De schijfjes met een spatel omdraaien."
+      }
+    ],
+    "oral": {
+      "question": "Waarom snijd je de schijfjes ongeveer even dik?",
+      "start": "Ik snijd ze even dik, omdat",
+      "answer": "Ze worden ongeveer tegelijk gaar."
+    },
+    "math": {
+      "title": "Voor meer personen",
+      "items": [
+        {
+          "question": "Voor 4 personen gebruik je 800 g aardappelen. Hoeveel gram heb je nodig voor 8 personen?",
+          "answer": "2 × 800 g = 1.600 g."
+        },
+        {
+          "question": "Voor 4 personen gebruik je 2 eetlepels olie. Hoeveel gebruik je voor 8 personen?",
+          "answer": "2 × 2 = 4 eetlepels."
+        }
+      ],
+      "hint": "8 personen is twee keer zoveel. Tel de hoeveelheid twee keer op.",
+      "extra": "1 cm = 10 mm. Hoeveel cm is 5 mm?",
+      "extraAnswer": "5 ÷ 10 = 0,5 cm."
+    },
+    "reflection": [
+      "Ik heb zorgvuldig en veilig gewerkt.",
+      "Ik heb mijn taal- en rekenwerk gecontroleerd.",
+      "Ik heb mijn werkplek opgeruimd."
+    ],
+    "teacher": {
+      "before": "Doe veilig snijden voor. Begeleid bij de hete oven en bakplaten. Controleer vanaf 35 minuten de gaarheid; de baktijd is een richttijd.",
+      "support": "Lees één stap tegelijk. Laat de leerling de foto aanwijzen en de handeling noemen.",
+      "challenge": "Reken de kruiden om naar 8 personen: van iedere soort 2 theelepels. Bespreek de ruimte op de bakplaten.",
+      "images": "AI-foto-illustraties. Exacte aantallen, maten en instructies staan in de tekst."
+    }
+  },
+  {
+    "templateVersion": "pm-werkkaart-2",
+    "revision": 0,
+    "status": "draft",
+    "grade": "PrO 2",
+    "phase": "Kennismaken",
+    "year": "1",
+    "level": "Basis",
+    "direction": "",
+    "sourceStatus": "Voorbeeld · te controleren",
+    "sourceText": "",
+    "linkedLesson": "",
+    "id": "voorbeeld-eco",
+    "sector": "eco",
+    "title": "Vul het winkelschap aan",
+    "description": "Je telt oefenflessen en vult het schap volgens een voorraadlijst.",
+    "duration": "30 minuten",
+    "source": "Praktijkvoorbeeld; oefengegevens. Controleer materialen en werkwijze.",
+    "overviewImage": "asset:eco-1",
+    "overviewAlt": "Vul het winkelschap aan",
+    "goals": {
+      "practice": "Ik vul een schap netjes aan en controleer de voorraad.",
+      "language": "Ik gebruik de woorden voorraad, aanvullen en schap.",
+      "math": "Ik bereken hoeveel flessen ontbreken en hoeveel er overblijven."
+    },
+    "materials": [
+      {
+        "name": "Flessen in de voorraadkrat",
+        "amount": "18"
+      },
+      {
+        "name": "Flessen in het schap bij de start",
+        "amount": "6"
+      },
+      {
+        "name": "Gewenste voorraad in het schap",
+        "amount": "15"
+      }
+    ],
+    "tools": "Voorraadlijst, potlood en een krat.",
+    "precautions": [
+      "Zet de krat stabiel en houd het looppad vrij.",
+      "Controleer met de docent of je veilig bij het schap kunt."
+    ],
+    "steps": [
+      {
+        "title": "Bekijk de opdracht",
+        "text": "Bekijk de voorraadlijst.\nIn het schap moeten 15 flessen staan.\nWijs het juiste schap aan.",
+        "image": "asset:eco-1",
+        "alt": "Bekijk de opdracht",
+        "check": ""
+      },
+      {
+        "title": "Tel de voorraad",
+        "text": "Tel de flessen in het schap.\nEr staan 6 flessen.\nNoteer het aantal op de lijst.",
+        "image": "asset:eco-2",
+        "alt": "Tel de voorraad",
+        "check": "Er staan bij de start ____ flessen."
+      },
+      {
+        "title": "Bereken de aanvulling",
+        "text": "Vergelijk het doel van 15 met de 6 aanwezige flessen.\nBereken hoeveel ontbreken.\nVertel je berekening aan je maatje.",
+        "image": "asset:eco-2",
+        "alt": "Bereken de aanvulling",
+        "check": "15 − 6 = ____ flessen aanvullen."
+      },
+      {
+        "title": "Pak de flessen",
+        "text": "Pak het berekende aantal uit de krat met 18 flessen.\nZet ze klaar.\nControleer je telling.",
+        "image": "asset:eco-1",
+        "alt": "Pak de flessen",
+        "check": ""
+      },
+      {
+        "title": "Vul het schap",
+        "text": "Zet de flessen netjes in het schap.\nLaat de etiketten dezelfde kant op wijzen.\nTel opnieuw: staan er 15?",
+        "image": "asset:eco-3",
+        "alt": "Vul het schap",
+        "check": ""
+      },
+      {
+        "title": "Controleer en ruim op",
+        "text": "Tel hoeveel flessen in de krat overblijven.\nVul de voorraadlijst aan.\nRuim op en meld dat je klaar bent.",
+        "image": "asset:eco-3",
+        "alt": "Controleer en ruim op",
+        "check": "In de krat blijven ____ flessen over."
+      }
+    ],
+    "words": [
+      {
+        "word": "Voorraad",
+        "definition": "De artikelen die beschikbaar zijn."
+      },
+      {
+        "word": "Aanvullen",
+        "definition": "Artikelen erbij zetten tot het gewenste aantal."
+      },
+      {
+        "word": "Schap",
+        "definition": "De plank waarop artikelen staan."
+      }
+    ],
+    "oral": {
+      "question": "Waarom tel je na het aanvullen nog een keer?",
+      "start": "Ik tel nog een keer, omdat",
+      "answer": "Zo controleer ik of het gewenste aantal van 15 klopt."
+    },
+    "math": {
+      "title": "Hoeveel vul je aan?",
+      "items": [
+        {
+          "question": "Er moeten 15 flessen staan. Er staan er 6. Hoeveel vul je aan?",
+          "answer": "15 − 6 = 9 flessen."
+        },
+        {
+          "question": "Je pakt 9 flessen uit een krat met 18. Hoeveel blijven over?",
+          "answer": "18 − 9 = 9 flessen."
+        }
+      ],
+      "hint": "Teken 15 vakjes en streep de 6 aanwezige flessen af.",
+      "extra": "Een tweede schap moet 12 flessen hebben en bevat er 8. Kun je het aanvullen met de restvoorraad? Hoeveel blijven over?",
+      "extraAnswer": "12 − 8 = 4 nodig; er zijn 9. Het kan. 9 − 4 = 5 over."
+    },
+    "reflection": [
+      "Ik heb zorgvuldig en veilig gewerkt.",
+      "Ik heb mijn taal- en rekenwerk gecontroleerd.",
+      "Ik heb mijn werkplek opgeruimd."
+    ],
+    "teacher": {
+      "before": "Leg 18 oefenflessen klaar in een krat en 6 in een schap. De voorraadlijst heeft doel 15. De aantallen in de tekst zijn leidend.",
+      "support": "Laat tellen met losse voorwerpen en gebruik een getallenlijn.",
+      "challenge": "Laat ook een tweede schap aanvullen en het restant verantwoorden.",
+      "images": "AI-foto-illustraties. Exacte aantallen, maten en instructies staan in de tekst."
+    }
+  },
+  {
+    "templateVersion": "pm-werkkaart-2",
+    "revision": 0,
+    "status": "draft",
+    "grade": "PrO 2",
+    "phase": "Kennismaken",
+    "year": "1",
+    "level": "Basis",
+    "direction": "",
+    "sourceStatus": "Voorbeeld · te controleren",
+    "sourceText": "",
+    "linkedLesson": "",
+    "id": "voorbeeld-zw",
+    "sector": "zw",
+    "title": "Maak handdoeksets klaar",
+    "description": "Je vouwt schone oefenhanddoeken en verdeelt ze in gelijke sets.",
+    "duration": "30 minuten",
+    "source": "Praktijkvoorbeeld; oefengegevens. Controleer materialen en werkwijze.",
+    "overviewImage": "asset:zw-1",
+    "overviewAlt": "Maak handdoeksets klaar",
+    "goals": {
+      "practice": "Ik vouw handdoeken netjes en maak gelijke sets.",
+      "language": "Ik leg uit wat vouwen, set en controleren betekenen.",
+      "math": "Ik verdeel 12 handdoeken over 4 gelijke sets."
+    },
+    "materials": [
+      {
+        "name": "Schone oefenhanddoeken",
+        "amount": "12"
+      },
+      {
+        "name": "Opbergbakken of manden",
+        "amount": "4"
+      },
+      {
+        "name": "Kaartjes voor de bakken",
+        "amount": "4"
+      }
+    ],
+    "tools": "Schone werktafel en potlood.",
+    "precautions": [
+      "Was je handen en maak de tafel schoon.",
+      "Houd schone en gebruikte handdoeken gescheiden."
+    ],
+    "steps": [
+      {
+        "title": "Maak je werkplek klaar",
+        "text": "Maak de tafel leeg en schoon.\nZet 4 bakken klaar.\nLeg de schone handdoeken op tafel.",
+        "image": "asset:zw-1",
+        "alt": "Maak je werkplek klaar",
+        "check": ""
+      },
+      {
+        "title": "Tel de handdoeken",
+        "text": "Tel de 12 handdoeken.\nLeg ze overzichtelijk neer.\nControleer samen het aantal.",
+        "image": "asset:zw-1",
+        "alt": "Tel de handdoeken",
+        "check": ""
+      },
+      {
+        "title": "Vouw netjes",
+        "text": "Leg een handdoek vlak.\nVouw de randen op elkaar.\nVouw alle handdoeken op dezelfde manier.",
+        "image": "asset:zw-2",
+        "alt": "Vouw netjes",
+        "check": ""
+      },
+      {
+        "title": "Bereken de sets",
+        "text": "Verdeel 12 handdoeken eerlijk over 4 bakken.\nLeg eerst één handdoek in iedere bak.\nGa door tot alles verdeeld is.",
+        "image": "asset:zw-2",
+        "alt": "Bereken de sets",
+        "check": "12 ÷ 4 = ____ handdoeken per set."
+      },
+      {
+        "title": "Maak de sets klaar",
+        "text": "Leg de gevouwen handdoeken in de bakken.\nZet op ieder kaartje het aantal.\nControleer of elke set evenveel bevat.",
+        "image": "asset:zw-3",
+        "alt": "Maak de sets klaar",
+        "check": ""
+      },
+      {
+        "title": "Controleer en ruim op",
+        "text": "Tel de handdoeken van alle sets samen.\nVertel de docent dat de sets klaar zijn.\nRuim je werkplek op.",
+        "image": "asset:zw-3",
+        "alt": "Controleer en ruim op",
+        "check": "Alle sets samen bevatten ____ handdoeken."
+      }
+    ],
+    "words": [
+      {
+        "word": "Vouwen",
+        "definition": "Stof dubbelleggen met de randen op elkaar."
+      },
+      {
+        "word": "Set",
+        "definition": "Een groep spullen die bij elkaar hoort."
+      },
+      {
+        "word": "Controleren",
+        "definition": "Nakijken of het werk klopt."
+      }
+    ],
+    "oral": {
+      "question": "Waarom vouw je de handdoeken op dezelfde manier?",
+      "start": "Ik vouw ze hetzelfde, omdat",
+      "answer": "Dan zijn de sets netjes en passen ze goed op elkaar."
+    },
+    "math": {
+      "title": "Hoeveel per set?",
+      "items": [
+        {
+          "question": "Je verdeelt 12 handdoeken over 4 gelijke sets. Hoeveel zitten in elke set?",
+          "answer": "12 ÷ 4 = 3 handdoeken."
+        },
+        {
+          "question": "Er zijn 3 sets van 3 klaar. Hoeveel handdoeken zijn nog nodig voor de vierde set?",
+          "answer": "3 × 3 = 9 klaar; 12 − 9 = 3 handdoeken."
+        }
+      ],
+      "hint": "Leg om de beurt één handdoek bij iedere set.",
+      "extra": "Je wilt 6 sets van 3 maken. Je hebt 12 handdoeken. Hoeveel extra heb je nodig?",
+      "extraAnswer": "6 × 3 = 18 nodig; 18 − 12 = 6 extra."
+    },
+    "reflection": [
+      "Ik heb zorgvuldig en veilig gewerkt.",
+      "Ik heb mijn taal- en rekenwerk gecontroleerd.",
+      "Ik heb mijn werkplek opgeruimd."
+    ],
+    "teacher": {
+      "before": "Gebruik schone oefenhanddoeken. Bespreek de lokale hygiëneafspraken. Dit is een oefentaak, geen zorgprotocol.",
+      "support": "Laat eerst concreet uitdelen en daarna de deelsom noteren.",
+      "challenge": "Laat de leerling vooruitrekenen voor zes sets.",
+      "images": "AI-foto-illustraties. Exacte aantallen, maten en instructies staan in de tekst."
+    }
+  },
+  {
+    "templateVersion": "pm-werkkaart-2",
+    "revision": 0,
+    "status": "draft",
+    "grade": "PrO 2",
+    "phase": "Kennismaken",
+    "year": "1",
+    "level": "Basis",
+    "direction": "Plantenteelt",
+    "sourceStatus": "Voorbeeld · te controleren",
+    "sourceText": "",
+    "linkedLesson": "",
+    "id": "voorbeeld-groen",
+    "sector": "groen",
+    "title": "Pot kleine plantjes op",
+    "description": "Je zet kleine plantjes in passende potten en maakt twee gelijke rijen klaar.",
+    "duration": "40 minuten",
+    "source": "Praktijkvoorbeeld; oefengegevens. Controleer materialen en werkwijze.",
+    "overviewImage": "asset:groen-1",
+    "overviewAlt": "Pot kleine plantjes op",
+    "goals": {
+      "practice": "Ik zet een plant voorzichtig in een passende pot.",
+      "language": "Ik benoem kluit, potrand en aandrukken.",
+      "math": "Ik tel potten en verdeel 8 planten in 2 gelijke rijen."
+    },
+    "materials": [
+      {
+        "name": "Kleine oefenplantjes",
+        "amount": "8"
+      },
+      {
+        "name": "Passende potten",
+        "amount": "8"
+      },
+      {
+        "name": "Geschikte potgrond",
+        "amount": "Volgens aanwijzing docent"
+      },
+      {
+        "name": "Tray of stevige ondergrond",
+        "amount": "1"
+      }
+    ],
+    "tools": "Plantschepje, gieter en stoffer.",
+    "precautions": [
+      "Laat de docent geschikte planten, grond en potten kiezen.",
+      "Werk voorzichtig met de wortels. Was je handen na het werk."
+    ],
+    "steps": [
+      {
+        "title": "Zet de materialen klaar",
+        "text": "Tel 8 plantjes en 8 passende potten.\nZet de tray op een vlakke tafel.\nLeg je gereedschap klaar.",
+        "image": "asset:groen-1",
+        "alt": "Zet de materialen klaar",
+        "check": ""
+      },
+      {
+        "title": "Doe grond in de pot",
+        "text": "Doe wat potgrond in een pot.\nHoud ruimte voor de kluit.\nLaat de docent de juiste plantdiepte voordoen.",
+        "image": "asset:groen-2",
+        "alt": "Doe grond in de pot",
+        "check": ""
+      },
+      {
+        "title": "Zet de plant in de pot",
+        "text": "Haal de plant voorzichtig uit het oude potje.\nOndersteun de kluit.\nZet de plant recht in de nieuwe pot.",
+        "image": "asset:groen-2",
+        "alt": "Zet de plant in de pot",
+        "check": ""
+      },
+      {
+        "title": "Vul aan en druk aan",
+        "text": "Vul de ruimte rond de kluit met grond.\nDruk voorzichtig aan.\nHoud volgens de aanwijzing ruimte onder de potrand.",
+        "image": "asset:groen-3",
+        "alt": "Vul aan en druk aan",
+        "check": ""
+      },
+      {
+        "title": "Maak twee rijen",
+        "text": "Pot de andere planten op.\nZet 8 planten in 2 gelijke rijen.\nLaat de docent de watergift aangeven.",
+        "image": "asset:groen-3",
+        "alt": "Maak twee rijen",
+        "check": "8 ÷ 2 = ____ planten per rij."
+      },
+      {
+        "title": "Controleer en ruim op",
+        "text": "Controleer of alle planten recht staan.\nTel samen het aantal potten.\nRuim grond en gereedschap op en was je handen.",
+        "image": "asset:groen-1",
+        "alt": "Controleer en ruim op",
+        "check": ""
+      }
+    ],
+    "words": [
+      {
+        "word": "Kluit",
+        "definition": "De wortels met de grond die eraan vastzit."
+      },
+      {
+        "word": "Potrand",
+        "definition": "De bovenste rand van de pot."
+      },
+      {
+        "word": "Aandrukken",
+        "definition": "De grond voorzichtig steviger maken."
+      }
+    ],
+    "oral": {
+      "question": "Waarom ondersteun je de kluit bij het oppotten?",
+      "start": "Ik ondersteun de kluit, omdat",
+      "answer": "Zo blijven de wortels en de grond zoveel mogelijk bij elkaar."
+    },
+    "math": {
+      "title": "Verdeel de potten",
+      "items": [
+        {
+          "question": "Je maakt van 8 planten 2 gelijke rijen. Hoeveel planten staan in iedere rij?",
+          "answer": "8 ÷ 2 = 4 planten."
+        },
+        {
+          "question": "Er zijn 5 potten klaar. Hoeveel moet je nog oppotten om 8 klaar te hebben?",
+          "answer": "8 − 5 = 3 potten."
+        }
+      ],
+      "hint": "Verdeel om de beurt één plant over iedere rij.",
+      "extra": "Je maakt 3 rijen van 4. Hoeveel planten zijn dat? Hoeveel meer dan 8?",
+      "extraAnswer": "3 × 4 = 12 planten; 12 − 8 = 4 extra."
+    },
+    "reflection": [
+      "Ik heb zorgvuldig en veilig gewerkt.",
+      "Ik heb mijn taal- en rekenwerk gecontroleerd.",
+      "Ik heb mijn werkplek opgeruimd."
+    ],
+    "teacher": {
+      "before": "Kies geschikte planten en potten. Demonstreer plantdiepte en aandrukken. Bepaal zelf de watergift.",
+      "support": "Werk met twee gemarkeerde rijen. Laat uitdelen en tellen.",
+      "challenge": "Laat de voorraad voor drie rijen plannen.",
+      "images": "AI-foto-illustraties. Exacte aantallen, maten en instructies staan in de tekst."
+    }
+  },
+  {
+    "templateVersion": "pm-werkkaart-2",
+    "revision": 0,
+    "status": "draft",
+    "grade": "PrO 2",
+    "phase": "Kennismaken",
+    "year": "1",
+    "level": "Basis",
+    "direction": "",
+    "sourceStatus": "Voorbeeld · te controleren",
+    "sourceText": "",
+    "linkedLesson": "",
+    "id": "voorbeeld-techniek",
+    "sector": "techniek",
+    "title": "Meet een plank en controleer of hij past",
+    "description": "Je meet een plank, noteert de maat en controleert de ruimte. Je gaat niet zagen.",
+    "duration": "30 minuten",
+    "source": "Praktijkvoorbeeld; oefengegevens. Controleer materialen en werkwijze.",
+    "overviewImage": "asset:techniek-1",
+    "overviewAlt": "Meet een plank en controleer of hij past",
+    "goals": {
+      "practice": "Ik meet vanaf het begin van de plank en noteer de maat.",
+      "language": "Ik gebruik lengte, centimeter en verschil in een uitleg.",
+      "math": "Ik zet 1 m 20 cm om in cm en bereken de vrije ruimte."
+    },
+    "materials": [
+      {
+        "name": "Plank voor de oefening",
+        "amount": "90 cm lang"
+      },
+      {
+        "name": "Gemarkeerde vrije ruimte",
+        "amount": "1 m 20 cm"
+      }
+    ],
+    "tools": "Rolmaat, potlood, papier en stabiele werkbank.",
+    "precautions": [
+      "Laat de docent een plank zonder scherpe splinters kiezen.",
+      "Leg de plank stabiel. Gebruik de rolmaat volgens de uitleg."
+    ],
+    "steps": [
+      {
+        "title": "Bekijk de werkplek",
+        "text": "Leg de plank op de werkbank.\nBekijk de gemarkeerde vrije ruimte.\nDe vrije ruimte is 1 m 20 cm.",
+        "image": "asset:techniek-1",
+        "alt": "Bekijk de werkplek",
+        "check": ""
+      },
+      {
+        "title": "Leg de rolmaat aan",
+        "text": "Leg het begin van de rolmaat bij het begin van de plank.\nTrek de band recht langs de plank.\nLaat je maatje de positie controleren.",
+        "image": "asset:techniek-2",
+        "alt": "Leg de rolmaat aan",
+        "check": ""
+      },
+      {
+        "title": "Lees en noteer",
+        "text": "Lees de maat bij het einde van de plank.\nNoteer de lengte met de eenheid cm.\nControleer of je 90 cm meet.",
+        "image": "asset:techniek-2",
+        "alt": "Lees en noteer",
+        "check": "Mijn gemeten lengte is ____ cm."
+      },
+      {
+        "title": "Zet de maten gelijk",
+        "text": "Zet 1 m 20 cm om in centimeters.\nSchrijf beide lengtes onder elkaar.\nVergelijk 120 cm met 90 cm.",
+        "image": "asset:techniek-3",
+        "alt": "Zet de maten gelijk",
+        "check": "1 m 20 cm = ____ cm."
+      },
+      {
+        "title": "Bereken het verschil",
+        "text": "Bereken hoeveel ruimte overblijft.\nVertel of de plank past.\nNoem de overblijvende ruimte in centimeters.",
+        "image": "asset:techniek-3",
+        "alt": "Bereken het verschil",
+        "check": "120 cm − 90 cm = ____ cm."
+      },
+      {
+        "title": "Controleer en ruim op",
+        "text": "Meet de plank nog een keer.\nVergelijk met je eerste meting.\nBerg de rolmaat en het potlood op.",
+        "image": "asset:techniek-1",
+        "alt": "Controleer en ruim op",
+        "check": ""
+      }
+    ],
+    "words": [
+      {
+        "word": "Lengte",
+        "definition": "De afstand van het begin tot het einde."
+      },
+      {
+        "word": "Centimeter",
+        "definition": "Een maateenheid: 100 centimeter is 1 meter."
+      },
+      {
+        "word": "Verschil",
+        "definition": "Hoeveel de ene maat groter of kleiner is."
+      }
+    ],
+    "oral": {
+      "question": "Waarom zet je beide maten eerst in centimeters?",
+      "start": "Ik gebruik dezelfde eenheid, omdat",
+      "answer": "Ik de maten dan eerlijk kan vergelijken en van elkaar aftrekken."
+    },
+    "math": {
+      "title": "Past de plank?",
+      "items": [
+        {
+          "question": "De ruimte is 1 m 20 cm. Hoeveel centimeter is dit?",
+          "answer": "100 cm + 20 cm = 120 cm."
+        },
+        {
+          "question": "De plank is 90 cm. Past hij in 120 cm? Hoeveel ruimte is over?",
+          "answer": "Ja. 120 cm − 90 cm = 30 cm."
+        }
+      ],
+      "hint": "1 meter is 100 centimeter. Schrijf beide maten in cm.",
+      "extra": "Een andere plank is 125 cm. Past die in dezelfde ruimte? Hoeveel is tekort?",
+      "extraAnswer": "Nee. 125 cm − 120 cm = 5 cm tekort."
+    },
+    "reflection": [
+      "Ik heb zorgvuldig en veilig gewerkt.",
+      "Ik heb mijn taal- en rekenwerk gecontroleerd.",
+      "Ik heb mijn werkplek opgeruimd."
+    ],
+    "teacher": {
+      "before": "Leg een plank van 90 cm en een vrije ruimte van 120 cm klaar. Demonstreer aflezen en terugrollen. Deze opdracht bevat geen zaaghandeling.",
+      "support": "Markeer het beginpunt en maak 1 meter zichtbaar met een strook.",
+      "challenge": "Vergelijk ook een plank van 125 cm en laat de conclusie onderbouwen.",
+      "images": "AI-foto-illustraties. Exacte aantallen, maten en instructies staan in de tekst."
+    }
+  }
+]

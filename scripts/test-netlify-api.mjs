@@ -1,0 +1,48 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {PGlite} from '@electric-sql/pglite';
+import {createDatabase,initializeSchema} from '../netlify/lib/database.mjs';
+import {createHandler,administrator,OWNER_ID} from '../netlify/lib/handler.mjs';
+import core from '../netlify/generated/api-core.mjs';
+const pg=new PGlite();await pg.waitReady;
+const query=async(text,values=[])=>{const r=await pg.query(text,values);return {rows:r.rows,rowCount:r.affectedRows??r.rows.length};};
+const pool={query,connect:async()=>({query,release(){}})};
+await initializeSchema(pool);const db=createDatabase(pool);
+let user=null;
+const variables={REKENSTART_ADMIN_EMAIL:'beheerder@example.test',AI_PROVIDER:'gemini'};
+const handler=createHandler({core,getUser:async()=>user,getDatabase:()=>db,environment:()=>variables});
+const send=async(path,{method='GET',body,origin='https://rekenstart.netlify.app',forgedUser}={})=>{
+ const headers={origin};if(forgedUser)headers['oai-authenticated-user-id']=forgedUser;
+ if(body)headers['content-type']='application/json';
+ const result=await handler(new Request('https://rekenstart.netlify.app'+path,{method,headers,body:body?JSON.stringify(body):undefined}));
+ assert.equal(result.headers.get('cache-control'),'no-store');return {status:result.status,data:await result.json()};
+};
+try{
+ let r=await send('/api/state',{forgedUser:OWNER_ID});assert.equal(r.status,200);assert.equal(r.data.signedIn,false);assert.equal(r.data.canEdit,false);
+ assert.equal(await db.prepare('SELECT owner_id,revision,payload FROM rekenstart_plan WHERE id=1').first(),null,'Anonymous visitors cannot claim planning ownership');
+ user={id:'teacher-one',email:'docent@example.test',roles:[]};
+ r=await send('/api/state',{forgedUser:OWNER_ID});assert.equal(r.data.canEdit,false);assert.equal(r.data.signedIn,true);
+ assert.equal(await db.prepare('SELECT owner_id,revision,payload FROM rekenstart_plan WHERE id=1').first(),null,'The first teacher cannot become administrator');
+ user={id:'owner-account',email:'BEHEERDER@example.test',roles:[]};
+ r=await send('/api/state');assert.equal(r.data.canEdit,true);assert.equal(r.data.shared,true);let settings=r.data.settings;
+ assert.equal((await db.prepare('SELECT owner_id,revision,payload FROM rekenstart_plan WHERE id=1').first()).owner_id,OWNER_ID);
+ settings={...settings,cancelled:['1-ma']};
+ r=await send('/api/state',{method:'PUT',body:{settings,revision:0}});assert.equal(r.status,200);assert.equal(r.data.revision,1);
+ user=null;r=await send('/api/state');assert.equal(r.data.revision,1);assert.deepEqual(r.data.settings.cancelled,['1-ma'],'Public lessons use the administrator’s published planning');
+ user={id:'teacher-one',email:'docent@example.test',roles:[]};
+ assert.equal((await send('/api/state',{method:'PUT',body:{settings,revision:1},forgedUser:OWNER_ID})).status,403,'A forged header cannot grant administrator rights');
+ const examples=JSON.parse(await readFile(new URL('../src/workcard-examples.json',import.meta.url),'utf8'));
+ const card={...structuredClone(examples[0]),id:'kaart-netlify-isolation',revision:0};
+ r=await send('/api/cards',{method:'POST',body:{card,expectedRevision:0}});assert.equal(r.status,200);
+ assert.equal((await send('/api/cards')).data.cards.length,1);
+ user={id:'teacher-two',email:'andere@example.test',roles:[]};assert.equal((await send('/api/cards')).data.cards.length,0);
+ assert.equal((await send('/api/cards/'+card.id,{forgedUser:'teacher-one'})).status,404);
+ user=null;assert.equal((await send('/api/cards',{forgedUser:'teacher-one'})).status,403);
+ user={id:'owner-account',email:'beheerder@example.test',roles:[]};
+ assert.equal((await send('/api/state',{method:'PUT',body:{settings,revision:1},origin:'https://another.example'})).status,403);
+ assert(administrator({id:'role-owner',roles:['admin']},{}));assert(!administrator(null,variables));
+ const unavailable=createHandler({core,getUser:async()=>user,getDatabase:()=>{throw Error('private connection detail');},environment:()=>variables});
+ const offline=await unavailable(new Request('https://rekenstart.netlify.app/api/state'));const state=await offline.json();
+ assert.equal(state.canEdit,false);assert.equal(state.shared,false);assert.equal(state.setupRequired,true);assert(!JSON.stringify(state).includes('private connection'));
+ console.log('PASS: Netlify identity boundary, administrator bootstrap, public shared planning, private workcards, CSRF and storage failure behavior.');
+}finally{await pg.close();}

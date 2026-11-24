@@ -1,0 +1,654 @@
+[
+  [
+    {
+      "week": 1,
+      "theme": "Tellen en noteren tot 100",
+      "goals": [
+        "Tel een voorraad in groepjes van tien.",
+        "Tel de losse stuks erbij en noteer het totaal.",
+        "Tel een praktijkvoorraad en vergelijk je telling met de lijst."
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "Aantallen vergelijken",
+      "goals": [
+        "Plaats twee aantallen op een getallenlijn.",
+        "Bereken het verschil tussen twee aantallen.",
+        "Bepaal welke voorraad groter is en hoeveel stuks het scheelt."
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Aantallen optellen",
+      "goals": [
+        "Tel twee aantallen op met tientallen en losse stuks.",
+        "Tel op met een tussenstap naar een tiental.",
+        "Bereken hoeveel materiaal je in totaal klaarzet voor twee groepen."
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Aantallen aftrekken",
+      "goals": [
+        "Bereken hoeveel er overblijft als je stuks weghaalt.",
+        "Reken terug in twee korte sprongen op een getallenlijn.",
+        "Bereken hoeveel voorraad er over is na gebruik."
+      ]
+    },
+    {
+      "week": 5,
+      "theme": "Gelijke groepen maken",
+      "goals": [
+        "Tel gelijke groepjes op en schrijf de keersom erbij.",
+        "Verdeel een aantal eerlijk over een gegeven aantal bakken.",
+        "Bereken hoeveel stuks er in elke bak komen bij gelijke verdeling."
+      ]
+    },
+    {
+      "week": 6,
+      "theme": "Herhalen met voorraad",
+      "goals": [
+        "Tel en noteer een aantal in tientallen en losse stuks.",
+        "Bereken hoeveel stuks je moet aanvullen tot een doelvoorraad.",
+        "Verdeel de aangevulde voorraad over even grote sets."
+      ]
+    },
+    {
+      "week": 7,
+      "theme": "Lengte meten in cm en m",
+      "goals": [
+        "Leg de nul van de meetlat goed en lees hele centimeters af.",
+        "Zet een maat in meters en centimeters om naar centimeters.",
+        "Zet de maten in dezelfde eenheid en bepaal of het voorwerp past en hoeveel ruimte overblijft."
+      ]
+    },
+    {
+      "week": 8,
+      "theme": "Wegen in gram en kilogram",
+      "goals": [
+        "Lees het aantal gram op een weegschaal af.",
+        "Gebruik 1 kg = 1.000 g om maten te vergelijken.",
+        "Bereken hoeveel gram je moet aanvullen tot 1 kg."
+      ]
+    },
+    {
+      "week": 9,
+      "theme": "Inhoud meten in ml en liter",
+      "goals": [
+        "Lees het aantal ml af op een maatbeker.",
+        "Gebruik 1 liter = 1.000 ml om maten te vergelijken.",
+        "Bereken hoeveel ml je nog moet toevoegen tot 1 liter."
+      ]
+    },
+    {
+      "week": 10,
+      "theme": "Een maateenheid kiezen",
+      "goals": [
+        "Schat een lengte en kies cm of m.",
+        "Schat een gewicht en kies g of kg.",
+        "Schat een inhoud, kies ml of liter en controleer door te meten."
+      ]
+    },
+    {
+      "week": 11,
+      "theme": "Temperatuur aflezen",
+      "goals": [
+        "Lees een temperatuur in hele graden Celsius af.",
+        "Vergelijk twee positieve temperaturen en bereken het verschil.",
+        "Controleer of een gemeten temperatuur binnen de opgegeven grenzen ligt."
+      ]
+    },
+    {
+      "week": 12,
+      "theme": "Herhalen met meten",
+      "goals": [
+        "Vergelijk twee lengtes nadat je ze in cm hebt gezet.",
+        "Vergelijk twee gewichten nadat je ze in gram hebt gezet.",
+        "Kies de passende hoeveelheid nadat je liters in ml hebt gezet."
+      ]
+    },
+    {
+      "week": 13,
+      "theme": "Bedragen in euro en cent",
+      "goals": [
+        "Lees een prijs in euro en cent hardop.",
+        "Maak een bedrag met een combinatie van munten.",
+        "Kies de munten waarmee je een aankoop gepast betaalt."
+      ]
+    },
+    {
+      "week": 14,
+      "theme": "Prijzen optellen",
+      "goals": [
+        "Tel twee prijzen in hele euro’s bij elkaar op.",
+        "Tel twee prijzen met euro’s en centen bij elkaar op.",
+        "Bereken het totaal van twee artikelen en vergelijk het met je schatting."
+      ]
+    },
+    {
+      "week": 15,
+      "theme": "Wisselgeld",
+      "goals": [
+        "Tel door van de prijs naar het betaalbedrag.",
+        "Controleer of prijs plus wisselgeld gelijk is aan het betaalbedrag.",
+        "Bereken het wisselgeld bij een praktijkaankoop."
+      ]
+    },
+    {
+      "week": 16,
+      "theme": "Kloktijden aflezen",
+      "goals": [
+        "Lees hele en halve uren op een klok.",
+        "Lees een tijd op vijf minuten nauwkeurig en koppel die aan digitale notatie.",
+        "Vind de juiste starttijd in een eenvoudige werkplanning."
+      ]
+    },
+    {
+      "week": 17,
+      "theme": "Rekenen met tijdsduur",
+      "goals": [
+        "Bereken hoeveel minuten er tussen twee tijden zitten binnen één uur.",
+        "Tel via het hele uur bij een tijdsduur die over het uur heen gaat.",
+        "Bereken de eindtijd als je de begintijd en duur weet."
+      ]
+    },
+    {
+      "week": 18,
+      "theme": "Herhalen met geld en tijd",
+      "goals": [
+        "Bereken de totaalprijs van twee artikelen.",
+        "Bereken het wisselgeld bij een gegeven betaalbedrag.",
+        "Bereken hoeveel minuten er voor een taak beschikbaar zijn."
+      ]
+    },
+    {
+      "week": 19,
+      "theme": "Verdubbelen en halveren",
+      "goals": [
+        "Verdubbel een hoeveelheid door er hetzelfde aantal bij te tellen.",
+        "Halveer een even aantal en controleer door te verdubbelen.",
+        "Bereken hoeveel je nodig hebt voor half zoveel sets."
+      ]
+    },
+    {
+      "week": 20,
+      "theme": "Halven en kwarten",
+      "goals": [
+        "Wijs een halve en een kwart aan in een beeld met gelijke delen.",
+        "Bereken een kwart van een aantal door het eerlijk in vieren te verdelen.",
+        "Bepaal hoeveel stuks een kwart van een praktijkvoorraad is."
+      ]
+    },
+    {
+      "week": 21,
+      "theme": "Rekenen met ‘per’",
+      "goals": [
+        "Leg uit hoeveel stuks er per set nodig zijn.",
+        "Bereken het totaal voor drie gelijke sets.",
+        "Bereken hoeveel stuks je moet klaarzetten voor een gegeven aantal sets."
+      ]
+    },
+    {
+      "week": 22,
+      "theme": "Een verhoudingstabel gebruiken",
+      "goals": [
+        "Lees in een tabel hoeveel materiaal bij één set hoort.",
+        "Vul de rij aan voor twee en vier sets.",
+        "Bereken met de verhoudingstabel de juiste hoeveelheid voor een klus."
+      ]
+    },
+    {
+      "week": 23,
+      "theme": "50% en 25%",
+      "goals": [
+        "Koppel 50% aan een helft en 25% aan een kwart.",
+        "Bereken 50% of 25% van een eenvoudig aantal.",
+        "Bereken hoeveel stuks je apart legt als je 25% moet reserveren."
+      ]
+    },
+    {
+      "week": 24,
+      "theme": "Herhalen met verhoudingen",
+      "goals": [
+        "Halveer een hoeveelheid voor een kleinere groep.",
+        "Bereken het totaal voor meerdere gelijke sets.",
+        "Bereken een afgesproken kwart van een voorraad."
+      ]
+    },
+    {
+      "week": 25,
+      "theme": "Routes op een raster",
+      "goals": [
+        "Lees een beginpunt en geef een staprichting aan.",
+        "Volg een route en tel hoeveel vakjes je verplaatst.",
+        "Kies uit twee routes de kortste op basis van het aantal afgelegde vakjes."
+      ]
+    },
+    {
+      "week": 26,
+      "theme": "Plattegrond met een legenda",
+      "goals": [
+        "Lees de legenda ‘één vakje is één meter’.",
+        "Bepaal de afstand in meters door de afgelegde vakjes te tellen.",
+        "Controleer of je route binnen een gegeven afstand blijft."
+      ]
+    },
+    {
+      "week": 27,
+      "theme": "Omtrek van een rechthoek",
+      "goals": [
+        "Wijs de rand aan en lees de maten van de vier zijden.",
+        "Tel de vier lengtes op in dezelfde eenheid.",
+        "Bereken hoeveel materiaal je langs de hele rand nodig hebt."
+      ]
+    },
+    {
+      "week": 28,
+      "theme": "Oppervlakte van een rechthoek",
+      "goals": [
+        "Tel vierkante meters op een rooster.",
+        "Bereken de oppervlakte met lengte × breedte in hele meters.",
+        "Bereken hoeveel vierkante meter je moet bedekken."
+      ]
+    },
+    {
+      "week": 29,
+      "theme": "Omtrek of oppervlakte kiezen",
+      "goals": [
+        "Kies bij een plaatje tussen de rand en het vlak.",
+        "Kies voor een vraag de juiste berekening en eenheid.",
+        "Bereken de benodigde lengte of oppervlakte en leg je keuze uit."
+      ]
+    },
+    {
+      "week": 30,
+      "theme": "Herhalen met ruimte",
+      "goals": [
+        "Lees een korte route op een plattegrond en bereken de afstand.",
+        "Bereken de totale lengte van een rechthoekige rand.",
+        "Bereken hoeveel vierkante meter je nodig hebt om een vlak te bedekken."
+      ]
+    },
+    {
+      "week": 31,
+      "theme": "Turven en totalen",
+      "goals": [
+        "Maak turfgroepjes van vijf.",
+        "Tel turfgroepjes en losse streepjes op.",
+        "Turf, tel en noteer hoeveel stuks van één soort er zijn."
+      ]
+    },
+    {
+      "week": 32,
+      "theme": "Een tabel lezen",
+      "goals": [
+        "Vind het juiste getal met een rij en een kolom.",
+        "Vergelijk twee waarden in dezelfde kolom.",
+        "Gebruik twee tabelwaarden om te bepalen welk aantal groter is en hoeveel het scheelt."
+      ]
+    },
+    {
+      "week": 33,
+      "theme": "Een staafdiagram lezen",
+      "goals": [
+        "Lees een staaf af als elk streepje één eenheid is.",
+        "Bereken het verschil tussen twee staven.",
+        "Kies op basis van het diagram welke groep het kleinste aantal heeft."
+      ]
+    },
+    {
+      "week": 34,
+      "theme": "Van tabel naar staafdiagram",
+      "goals": [
+        "Koppel een tabelwaarde aan de hoogte van een staaf.",
+        "Teken één ontbrekende staaf bij een gegeven tabelwaarde.",
+        "Controleer een getekende staaf door hem te vergelijken met de tabel."
+      ]
+    },
+    {
+      "week": 35,
+      "theme": "Een voorraadlijst gebruiken",
+      "goals": [
+        "Zoek de voorraad van één artikel in de tabel.",
+        "Bereken het verschil tussen voorraad en benodigd aantal.",
+        "Bepaal hoeveel stuks je moet bijbestellen volgens de voorraadlijst."
+      ]
+    },
+    {
+      "week": 36,
+      "theme": "Afronding van jaar 1",
+      "goals": [
+        "Bereken de totale kosten van twee artikelen.",
+        "Zet twee lengtes in dezelfde eenheid en bepaal of iets past.",
+        "Bereken met een tabel hoeveel materiaal je voor meerdere sets nodig hebt."
+      ]
+    }
+  ],
+  [
+    {
+      "week": 1,
+      "theme": "Aantallen en tekorten",
+      "goals": [
+        "Tel aantallen uit twee groepen bij elkaar op.",
+        "Vergelijk de totale voorraad met het benodigde aantal.",
+        "Bereken hoeveel je moet aanvullen om de opdracht uit te voeren."
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "Afronden en schatten",
+      "goals": [
+        "Rond aantallen af op tientallen met een getallenlijn.",
+        "Schat een totaal met afgeronde getallen en bereken het daarna precies.",
+        "Bepaal met een schatting of de voorraad ongeveer toereikend is en controleer het precieze totaal."
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Kommagetallen vergelijken",
+      "goals": [
+        "Leg met een meetlat of getallenlijn uit waarom 1,5 en 1,50 gelijk zijn.",
+        "Vergelijk twee kommagetallen met dezelfde eenheid.",
+        "Kies welke maat binnen de opgegeven maximummaat valt."
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Voorraad in twee stappen",
+      "goals": [
+        "Bereken de voorraad na een levering.",
+        "Bereken de voorraad na een levering en na gebruik.",
+        "Bereken de eindvoorraad en beslis of aanvullen nodig is."
+      ]
+    },
+    {
+      "week": 5,
+      "theme": "Delen met een rest",
+      "goals": [
+        "Verdeel stuks over even grote verpakkingen en bepaal de rest.",
+        "Bepaal hoeveel verpakkingen je nodig hebt als alle stuks mee moeten.",
+        "Kies het aantal volledige sets of het aantal benodigde verpakkingen en leg uit wat je met de rest doet."
+      ]
+    },
+    {
+      "week": 6,
+      "theme": "Herhalen met aantallen",
+      "goals": [
+        "Schat een totaal en controleer het met een precieze berekening.",
+        "Bereken een voorraad na aanvullen en gebruik.",
+        "Bereken het aantal verpakkingen dat nodig is, inclusief de rest."
+      ]
+    },
+    {
+      "week": 7,
+      "theme": "Meter en centimeter omrekenen",
+      "goals": [
+        "Zet een decimale maat in m om in cm.",
+        "Vergelijk twee lengtes door ze in dezelfde eenheid te zetten.",
+        "Bereken de resterende ruimte als de beschikbare maat in m en de voorwerpmaat in cm staat."
+      ]
+    },
+    {
+      "week": 8,
+      "theme": "Kilogram en gram omrekenen",
+      "goals": [
+        "Zet een decimale hoeveelheid in kg om in gram.",
+        "Vergelijk twee gewichten in dezelfde eenheid.",
+        "Bereken hoeveel gram je moet aanvullen tot het gewenste gewicht."
+      ]
+    },
+    {
+      "week": 9,
+      "theme": "Liter en milliliter omrekenen",
+      "goals": [
+        "Zet een decimale hoeveelheid in liter om in ml.",
+        "Tel twee hoeveelheden op nadat je beide in ml hebt gezet.",
+        "Controleer of de totale hoeveelheid in een gegeven bak of kan past."
+      ]
+    },
+    {
+      "week": 10,
+      "theme": "Centimeter en millimeter omrekenen",
+      "goals": [
+        "Gebruik 1 cm = 10 mm om een maat om te rekenen.",
+        "Vergelijk twee kleine maten in dezelfde eenheid.",
+        "Bereken in mm hoeveel een voorwerp korter of langer is dan de benodigde maat."
+      ]
+    },
+    {
+      "week": 11,
+      "theme": "Met ruimte over rekenen",
+      "goals": [
+        "Tel de benodigde vrije ruimte op bij de maat van een voorwerp.",
+        "Vergelijk de totale benodigde maat met de beschikbare ruimte.",
+        "Kies een voorwerp dat past én de opgegeven ruimte overlaat."
+      ]
+    },
+    {
+      "week": 12,
+      "theme": "Herhalen met maateenheden",
+      "goals": [
+        "Reken m en cm om en controleer een pasmaat.",
+        "Reken kg en g om en bereken hoeveel er ontbreekt.",
+        "Reken liters en ml om en bereken hoeveel er nog bij kan."
+      ]
+    },
+    {
+      "week": 13,
+      "theme": "Aantal × prijs per stuk",
+      "goals": [
+        "Lees de prijs per stuk af en maak de keersom.",
+        "Bereken de totaalprijs van meerdere gelijke artikelen met centen.",
+        "Bereken de kosten van een bestelling op basis van aantal en stukprijs."
+      ]
+    },
+    {
+      "week": 14,
+      "theme": "Binnen een budget blijven",
+      "goals": [
+        "Tel twee kostenposten op.",
+        "Vergelijk de totale kosten met een budget en bereken wat overblijft.",
+        "Kies een combinatie die binnen het budget past en noem het restbedrag."
+      ]
+    },
+    {
+      "week": 15,
+      "theme": "Twee aanbiedingen vergelijken",
+      "goals": [
+        "Lees de kostenposten van twee aanbiedingen voor dezelfde bestelling.",
+        "Bereken per aanbieding de totaalprijs inclusief een extra kostenpost.",
+        "Kies de goedkoopste aanbieding en bereken het prijsverschil."
+      ]
+    },
+    {
+      "week": 16,
+      "theme": "Werkduur van meerdere stappen",
+      "goals": [
+        "Tel de duur van twee werkstappen in minuten op.",
+        "Bereken vanaf een begintijd de eindtijd van twee stappen.",
+        "Controleer of de stappen plus opruimtijd in de geplande tijd passen."
+      ]
+    },
+    {
+      "week": 17,
+      "theme": "Terugplannen vanaf een eindtijd",
+      "goals": [
+        "Bepaal de begintijd van één taak met een vaste eindtijd.",
+        "Bereken de begintijd van twee opeenvolgende taken.",
+        "Bepaal de laatste begintijd met de opgegeven voorbereidingstijd erbij."
+      ]
+    },
+    {
+      "week": 18,
+      "theme": "Herhalen met kosten en planning",
+      "goals": [
+        "Bereken het restbedrag bij twee kostenposten.",
+        "Vergelijk twee totaalprijzen en bereken het verschil.",
+        "Bereken hoe laat een opdracht uiterlijk moet beginnen."
+      ]
+    },
+    {
+      "week": 19,
+      "theme": "Hoeveelheden vergroten en verkleinen",
+      "goals": [
+        "Verdubbel alle hoeveelheden in een werklijst.",
+        "Halveer alle hoeveelheden en controleer de verhouding.",
+        "Pas twee materiaalhoeveelheden aan voor drie keer zoveel sets."
+      ]
+    },
+    {
+      "week": 20,
+      "theme": "Rekenen via één",
+      "goals": [
+        "Bereken vanuit meerdere sets de hoeveelheid per set.",
+        "Reken vanuit de hoeveelheid per set door naar een nieuw aantal.",
+        "Bereken de benodigde hoeveelheid voor een nieuw aantal met twee korte stappen."
+      ]
+    },
+    {
+      "week": 21,
+      "theme": "Eenheidsprijzen vergelijken",
+      "goals": [
+        "Bereken de prijs per stuk in een verpakking.",
+        "Bereken de stukprijs van twee verpakkingen met verschillende aantallen.",
+        "Kies de voordeligste per stuk en leg uit met beide stukprijzen."
+      ]
+    },
+    {
+      "week": 22,
+      "theme": "10% en 20% berekenen",
+      "goals": [
+        "Bereken 10% door te delen door tien.",
+        "Bereken 20% door 10% te verdubbelen.",
+        "Bereken hoeveel stuks je voor een reserve van 20% apart zet."
+      ]
+    },
+    {
+      "week": 23,
+      "theme": "Prijs na korting",
+      "goals": [
+        "Lees het percentage en het oorspronkelijke bedrag af.",
+        "Bereken het kortingsbedrag bij 10% of 20%.",
+        "Trek de korting af en bereken de prijs die je betaalt."
+      ]
+    },
+    {
+      "week": 24,
+      "theme": "Herhalen met verhoudingen",
+      "goals": [
+        "Reken via één set door naar een nieuw aantal sets.",
+        "Vergelijk twee prijzen per stuk.",
+        "Bereken het bedrag dat je na 20% korting betaalt."
+      ]
+    },
+    {
+      "week": 25,
+      "theme": "Een eenvoudige schaal gebruiken",
+      "goals": [
+        "Lees een schaal waarbij één centimeter op de kaart twee meter in het echt is.",
+        "Zet een lengte op de tekening om naar de werkelijke lengte.",
+        "Controleer een echte afstand met de schaal en de tekening."
+      ]
+    },
+    {
+      "week": 26,
+      "theme": "Afstand van een route berekenen",
+      "goals": [
+        "Lees de aangegeven lengtes van twee routegedeelten op de tekening af.",
+        "Reken de stukken om met de schaal en tel de afstanden op.",
+        "Vergelijk twee routes op schaal en kies de kortste afstand."
+      ]
+    },
+    {
+      "week": 27,
+      "theme": "Omtrek met een onderbreking",
+      "goals": [
+        "Bereken de volledige omtrek in meters.",
+        "Trek de lengte van een opening af van de omtrek.",
+        "Bereken de lengte materiaal voor de rand met een open doorgang."
+      ]
+    },
+    {
+      "week": 28,
+      "theme": "Oppervlakte met een halve maat",
+      "goals": [
+        "Lees lengte en breedte af in meters, inclusief een halve meter.",
+        "Bereken lengte × breedte en schrijf de eenheid m².",
+        "Bereken hoeveel vierkante meter bedekking je nodig hebt."
+      ]
+    },
+    {
+      "week": 29,
+      "theme": "Verpakkingen op basis van dekking",
+      "goals": [
+        "Lees hoeveel vierkante meter één verpakking dekt.",
+        "Bereken hoeveel verpakkingen je volledig gebruikt en hoeveel m² dan overblijft.",
+        "Bepaal het aantal verpakkingen dat je bestelt. Reken bij een restvlak één extra verpakking."
+      ]
+    },
+    {
+      "week": 30,
+      "theme": "Herhalen met ruimte en materiaal",
+      "goals": [
+        "Bereken een werkelijke lengte met de schaal.",
+        "Bereken de randlengte met een opening.",
+        "Bereken het aantal verpakkingen uit de oppervlakte en de dekking per verpakking."
+      ]
+    },
+    {
+      "week": 31,
+      "theme": "Een tabel met meerdere kolommen lezen",
+      "goals": [
+        "Kies de juiste kolom en controleer de eenheid.",
+        "Vergelijk begin- en eindwaarden en bereken het verschil.",
+        "Bepaal met twee tabelkolommen waar een aanvulling nodig is."
+      ]
+    },
+    {
+      "week": 32,
+      "theme": "Staafdiagram met stappen van vijf of tien",
+      "goals": [
+        "Lees hoeveel eenheden er tussen twee streepjes op de as zitten.",
+        "Lees twee staven af en bereken het verschil.",
+        "Gebruik twee staven en dezelfde doelvoorraad om te bepalen waar de grootste aanvulling nodig is."
+      ]
+    },
+    {
+      "week": 33,
+      "theme": "Een lijndiagram lezen",
+      "goals": [
+        "Lees op een aangegeven tijdstip de waarde af.",
+        "Bereken de stijging of daling tussen twee meetpunten.",
+        "Bepaal in welk van twee tijdvakken de waarde het meest veranderde."
+      ]
+    },
+    {
+      "week": 34,
+      "theme": "Een gemiddelde berekenen",
+      "goals": [
+        "Tel drie hele meetwaarden op.",
+        "Deel het totaal door drie en controleer de eenheid.",
+        "Bereken en gebruik een gemiddelde bij een eenvoudige praktijkkeuze."
+      ]
+    },
+    {
+      "week": 35,
+      "theme": "Een beslissing onderbouwen met gegevens",
+      "goals": [
+        "Kies de tabel- of diagramwaarden die bij de vraag horen.",
+        "Bereken hoeveel het gemeten aantal afwijkt van het doel.",
+        "Kies een actie en onderbouw die met de berekende afwijking."
+      ]
+    },
+    {
+      "week": 36,
+      "theme": "Afronding van jaar 2",
+      "goals": [
+        "Controleer een pasmaat met omrekenen én een opgegeven marge.",
+        "Reken via één een materiaalhoeveelheid om naar een nieuw aantal sets.",
+        "Gebruik gegevens uit een tabel om een besluit te nemen en laat je berekening zien."
+      ]
+    }
+  ]
+]

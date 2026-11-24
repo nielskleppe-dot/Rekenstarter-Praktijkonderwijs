@@ -1,0 +1,4479 @@
+{
+  "format": "ustar+gzip",
+  "bytes": 26840749,
+  "sha256": "f0a89555859e360434dbe49dceaf115a36a73f11900560d453a58eb2309869a6",
+  "parts": [
+    {
+      "file": "beroepsbeelden-001.part",
+      "bytes": 2097152,
+      "sha256": "1f2249416a8fa012b5e53e7f27b7e63dd6c51c878b7b3a0b4b4a174f828fe608"
+    },
+    {
+      "file": "beroepsbeelden-002.part",
+      "bytes": 2097152,
+      "sha256": "5b890348f8d211cb7998b356d3182ff949c568e5787df123b0a87881c0932597"
+    },
+    {
+      "file": "beroepsbeelden-003.part",
+      "bytes": 2097152,
+      "sha256": "d9ad6317f4537471706786edc70da494046824553f7b8985af7d0933b5e2e49e"
+    },
+    {
+      "file": "beroepsbeelden-004.part",
+      "bytes": 2097152,
+      "sha256": "8a438f3604bd9e2681b2254dddf75cb3ef260ae9a8c37d4b0bfc6ba593901809"
+    },
+    {
+      "file": "beroepsbeelden-005.part",
+      "bytes": 2097152,
+      "sha256": "c8e9a6b6911847b54f1f976451c0ad7d80735edd262c1e33806abafdf08deb8c"
+    },
+    {
+      "file": "beroepsbeelden-006.part",
+      "bytes": 2097152,
+      "sha256": "b7a0c9c8e263548157d0035a8aba130e5ac1ae9cf8998a01128d241a10b8e758"
+    },
+    {
+      "file": "beroepsbeelden-007.part",
+      "bytes": 2097152,
+      "sha256": "488ad48cae953671d9d3bfe6fd18b38e83555f094e124da50bd6b9273467c1a5"
+    },
+    {
+      "file": "beroepsbeelden-008.part",
+      "bytes": 2097152,
+      "sha256": "752a94b2bb8c791589680c748e74e29e500e92d5cdc51905aba5fc21edc334fd"
+    },
+    {
+      "file": "beroepsbeelden-009.part",
+      "bytes": 2097152,
+      "sha256": "5b8b45b02722a77cc1925b7c220191a888a057170b7ab1a4767f8e48be80e1c1"
+    },
+    {
+      "file": "beroepsbeelden-010.part",
+      "bytes": 2097152,
+      "sha256": "e0181a457092c4bc125386e4b6507a80997b46013838e9e08f50ec43b2ecd652"
+    },
+    {
+      "file": "beroepsbeelden-011.part",
+      "bytes": 2097152,
+      "sha256": "03262ee2fdd38b1f291b4d6dbad6c302e82e8fb86c96bca2788346298f1a8491"
+    },
+    {
+      "file": "beroepsbeelden-012.part",
+      "bytes": 2097152,
+      "sha256": "f5698d4fb072a8c7eb4b73a96fe5ad5f2e404b0d42c762011104654c15db0031"
+    },
+    {
+      "file": "beroepsbeelden-013.part",
+      "bytes": 1674925,
+      "sha256": "2708c0b52b00791eb5ced9f3fb733b37592c6771fad6c8ae47d1b89a8b0084e1"
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/career-openings/images/start-eco-biscuits.webp",
+      "bytes": 32568,
+      "sha256": "c7cf601e6101a9fd1bb09727024a0052cb0b038a1c169a91f6e947716cd2da80"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-coffee.webp",
+      "bytes": 36566,
+      "sha256": "f430cd79c4a0636d9d7929cba36b01b5b9b0a46ea4259c7751da56ac19df7df9"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-giftbags.webp",
+      "bytes": 28946,
+      "sha256": "63a6abf40506284b96b2afe0901b30fe41b4cd7721462ae277d03a5705b0fd6a"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-mailbags.webp",
+      "bytes": 27444,
+      "sha256": "43a2c8805195f679c8b18576953e86745e8ebce6d3ce94234f4097a04cfe746d"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-planning.webp",
+      "bytes": 31730,
+      "sha256": "36245b3de3999e6733f7a7040fe096c8ad8815072f2d3d378328091449b39d3c"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-pricecards.webp",
+      "bytes": 29712,
+      "sha256": "aac450e05f603d6ae1959d207b8909f24b022b9eb21421207d9da132b784bd19"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-shelfstrip.webp",
+      "bytes": 31422,
+      "sha256": "8b3847796ddffc7dee8f5272d162b0d6f207c57b6831affccbaedb1aca4eb116"
+    },
+    {
+      "path": "assets/career-openings/images/start-eco-waterbox.webp",
+      "bytes": 31296,
+      "sha256": "14d5725d701f585267fe7c8babe69a34908a4cf83fda75d1d1dfa8e79375bc6f"
+    },
+    {
+      "path": "assets/career-openings/images/start-groen-beans.webp",
+      "bytes": 35456,
+      "sha256": "5aca61d6ca16a51fe211280553da3799a62271fb677d036515bec80a1d2a990f"
+    },
+    {
+      "path": "assets/career-openings/images/start-groen-labels.webp",
+      "bytes": 31296,
+      "sha256": "cab37e20b2530bd88e59d1e46b86a70ef409ee7def113413d348a2a8511eaced"
+    },
+    {
+      "path": "assets/career-openings/images/start-groen-planning.webp",
+      "bytes": 31168,
+      "sha256": "17fef503ae94d7864eae50ba12e0cfedfb95da7ef69dfc8598aa92c0a2449ac6"
+    },
+    {
+      "path": "assets/career-openings/images/start-groen-strawberries.webp",
+      "bytes": 37994,
+      "sha256": "6c5ac16e5bf4048c207ea65a5e39a0386eba0b9afc8cb2457106f64583fb3ecb"
+    },
+    {
+      "path": "assets/career-openings/images/start-groen-waterbox.webp",
+      "bytes": 156514,
+      "sha256": "9ba1db886f3c6265cdb6591a93de0c24bddd09e30d927fe2b3080bcd115bc621"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-coasters.webp",
+      "bytes": 24538,
+      "sha256": "c15df6ad716082c8cfc3889d5b9716140a04ad1bbc46144422598245038b057c"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-foodbox.webp",
+      "bytes": 106202,
+      "sha256": "5eec4dedca6200e14ec89f6ef1f69e9c34871f2f1fc4cf1cdb37aef435d2512c"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-menus.webp",
+      "bytes": 32058,
+      "sha256": "65d9fddc15e68501f90a196fbca95606253d6620b94ac0fa8fab595a8d9d5d7a"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-napkins.webp",
+      "bytes": 32948,
+      "sha256": "1c421d2ccd011a3744e751fc6131b0d591f74d3ef16edbcace8d974c417aa3f6"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-planning.webp",
+      "bytes": 31926,
+      "sha256": "340515e949255be4ea2a095a1a536bc638da8024e22a71d5192757e96bdd572a"
+    },
+    {
+      "path": "assets/career-openings/images/start-hbr-tablerunner.webp",
+      "bytes": 34140,
+      "sha256": "8ee9a84a07527dbc14664c20f93460933b89c2b42b3c047aee7da7011bd83c26"
+    },
+    {
+      "path": "assets/career-openings/images/start-techniek-planning.webp",
+      "bytes": 26014,
+      "sha256": "fd9d914d1f62cb204747b824be84ef9316e3b4f7e4c9c6bf364e9474c71c2072"
+    },
+    {
+      "path": "assets/career-openings/images/start-techniek-toolcabinet.webp",
+      "bytes": 31090,
+      "sha256": "d07482075f8afc695460551b7a9b9e45fb92e532c456833f48cc89ee48028e10"
+    },
+    {
+      "path": "assets/career-openings/images/start-techniek-waterbox.webp",
+      "bytes": 33226,
+      "sha256": "0330e1488001cadd90beac4bd5c735fe3b3b64f778ed4384e463dead4c1dc269"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-071-budget.webp",
+      "bytes": 23274,
+      "sha256": "acf7e672b389d20e113a1910886509ab2b0dfae22888a7d85ea712a4470ae3bc"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-072-change.webp",
+      "bytes": 28610,
+      "sha256": "b44ee2526e2aa82c44c00d4e913105330d7393c8c98f5000aee9b395a1367a4f"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-073-discountfinal.webp",
+      "bytes": 22232,
+      "sha256": "3a9b07ab46c34042b440d052995976fcff875cc47edd00eb9342c79df5047cf1"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-074-duration.webp",
+      "bytes": 29154,
+      "sha256": "3512e875425c37cd02ec6ef6964089cc678400e2796c10d3080c0e2276c9c8bb"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-076-offercompare.webp",
+      "bytes": 21470,
+      "sha256": "3e27b7ef6378c2f64c113ce234792c15a8933db7ef5bde65e3969420519fdf78"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-077-pricemultiply.webp",
+      "bytes": 21154,
+      "sha256": "a04e09eee7e17eece8be45c8629a4e50632165d9461a1639a21f58b7323809df"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-100-perimeter.webp",
+      "bytes": 42622,
+      "sha256": "cdee4afa5245ec9ccc96e55c0b56aa1fcbf3daf852daa0182b8c8c99d3420261"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-102-area.webp",
+      "bytes": 32784,
+      "sha256": "1aa8a9832e762ea7aece7b8a64162995cb72a92554f21ebb68e0489e1e169417"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-124-perimeteropen.webp",
+      "bytes": 47826,
+      "sha256": "d9925876df1f727bd439de3624ec9705e382275656ea34253b75e3a817a7b64a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-eco-126-areahalf.webp",
+      "bytes": 43080,
+      "sha256": "c2fe16c0f6d1e223712740c2e39deda200bbf080ee5b01040a068f0c49917866"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-070-priceadd.webp",
+      "bytes": 34910,
+      "sha256": "5fa04ace673cbee58085f2f768a2508d20efe14f6a997dc8c902fddf2359b480"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-071-budget.webp",
+      "bytes": 37292,
+      "sha256": "90ea591c2ce09ddc4b6706207d4f134436579111cfed1d1370b6f94c5f02819c"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-072-change.webp",
+      "bytes": 34658,
+      "sha256": "6d53221493561fd6392bbe1f1e9dfa4ea79f3daff176fab02ebc0c46a6f98038"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-073-discountfinal.webp",
+      "bytes": 36702,
+      "sha256": "4495b40597ac4dd91250c97535bf6eedb87962f91527d4cad2d071dfc6a08b35"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-074-duration.webp",
+      "bytes": 58872,
+      "sha256": "681b22e363086c96187e9c7e7da129a7e000fd01af602d50600be2ec246e5e7b"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-076-offercompare.webp",
+      "bytes": 30128,
+      "sha256": "fe8451e1bd521a28e4f099b611639379bedd7f0a965e1262a191dd604b58ca41"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-077-pricemultiply.webp",
+      "bytes": 46938,
+      "sha256": "eaa122583fef3c3933e9f9d49dd4d006bbd05954bbb4c55abab28d709f2446a8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-079-starttimeprep.webp",
+      "bytes": 35252,
+      "sha256": "40962607b5f4adc7fa46364461e41b6898997b7406223ce1c87bc5393a0b11e2"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-100-perimeter.webp",
+      "bytes": 47262,
+      "sha256": "5a6a0b0cfea87fc56bf30087129d99b39a1b3a4c0b550dea3eba245cac404648"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-102-area.webp",
+      "bytes": 57226,
+      "sha256": "58c7f6b5d88393ec188aada155c8f1bd7374ee57e1d79f12a653881336a912d7"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-124-perimeteropen.webp",
+      "bytes": 47440,
+      "sha256": "21366615f208a6f1d0696557c15cc93855ed3427175541756bbd2c9286bc8f36"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-groen-126-areahalf.webp",
+      "bytes": 56622,
+      "sha256": "b9d82c7285d856de4648b457a747cb20dad56cab80c78ba3b26287d8eccd504d"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-071-budget.webp",
+      "bytes": 17656,
+      "sha256": "6efe1b2d39ca3dea527d1600ec48ab3be7f1de6df8727224b1c35a89d36fc64d"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-072-change.webp",
+      "bytes": 33566,
+      "sha256": "8543ad94e6085e9c7e439059a86fcbd93db29de330aa8dff18d1d479d43f4243"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-076-offercompare.webp",
+      "bytes": 25448,
+      "sha256": "6f32f7cff8857b5ce81cd196a6ff2c0670c8cd8e204c21e99c9facfe6fca9c7c"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-077-pricemultiply.webp",
+      "bytes": 25926,
+      "sha256": "c2ca13699caf950856dd6afbb4fed48b33485413cd79ea473d39eb8492beb15e"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-079-starttimeprep.webp",
+      "bytes": 44642,
+      "sha256": "d7d34e81c2dc2c74c3189f1c2924845fd864f73bfe64a5be14f4c1542f19e220"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-100-perimeter.webp",
+      "bytes": 33848,
+      "sha256": "0e558f1bd88bf7ab53e06ca3e71f0af9af2e74e9808822675bb7215d567a1fb8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-102-area.webp",
+      "bytes": 34876,
+      "sha256": "01587a6ec26211b5a8b746d0dab9a9c8c5c2c5614108423d06922d0f40835fe3"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-124-perimeteropen.webp",
+      "bytes": 43236,
+      "sha256": "71dd718c08151c50215d351982631f99a6a19f394bb085addea4c0a658167133"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-hbr-126-areahalf.webp",
+      "bytes": 38906,
+      "sha256": "4f4e3d0d52f0247d6c5c63c3bec0bbd9b782779975e64f2675fa9753a6aa5d56"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-payment-eco.webp",
+      "bytes": 34594,
+      "sha256": "2899add6dcdeb05168050e41503cbe7e307a063b3e30e0d73beb23e4ce05c6c6"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-payment-groen.webp",
+      "bytes": 39754,
+      "sha256": "6fa3d1e63b3877dbff36efc1ef90dfeaf02b7f4b31bf78c32a10c41928aeef4a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-payment-hbr.webp",
+      "bytes": 28204,
+      "sha256": "cdadb3bddb4113920c8c28ef2c2bb520e0d0264d70dc94ac015727863a1a7753"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-payment-techniek.webp",
+      "bytes": 30076,
+      "sha256": "7c0db47463c5a42d41e41b1d4c57455b55307e6e498e99d6ab167581c737f64c"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-payment-zw.webp",
+      "bytes": 40160,
+      "sha256": "3e742fe92dffdf60cfbee4857daed87c44d879596b63fef92274221797a0a4e8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-eco-planning.webp",
+      "bytes": 29360,
+      "sha256": "ddcd42527454b8a83792232cf4bf10d4afb3538c1830cf17b15007168422b889"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-eco-shelfstrip.webp",
+      "bytes": 30102,
+      "sha256": "2835a0fe1ce1ba2f6949ef4fe3f70ec4c5e0f098aae069d0bdf0a377ba1f5b81"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-groen-beans.webp",
+      "bytes": 42358,
+      "sha256": "b9b5e47887337e38b48f5be1644f9f1ad1ddea1e252809217c14c4afb172d23a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-groen-planning.webp",
+      "bytes": 43226,
+      "sha256": "221dc60c9ca26402b261bc5b5639ca80ea4e3996209f4852783448cef178a9bc"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-hbr-planning.webp",
+      "bytes": 30874,
+      "sha256": "5c60479a750ef545db51383f42972a32762f846a436eda5ab9409e160e990449"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-hbr-tablerunner.webp",
+      "bytes": 36322,
+      "sha256": "7c55f2f1cc5447878764271a9ab15c35f6c61b4fd456e3370402f735a886b06f"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-techniek-planning.webp",
+      "bytes": 26974,
+      "sha256": "fe56ac5a1f925e5da60c34a551c767bdd4a3f2e9235741f447b1cf9785cdaf94"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-start-zw-planning.webp",
+      "bytes": 28694,
+      "sha256": "33a6cbc8b0de2e61eeeabefaf243c53fe108fac348a3905b377dffb073f6065a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-eco-temperature.webp",
+      "bytes": 32832,
+      "sha256": "14d43929e85b24846641d3a340e49835a5ecb190a9e6f7a45221ae817315cdbf"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-groen-temperature.webp",
+      "bytes": 51944,
+      "sha256": "d72248a253f26490dc00e80350c1579ce5259f645fb35f9698ee6dc03660c28f"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-hbr-temperature.webp",
+      "bytes": 28816,
+      "sha256": "a4947ea88b767352a0603dfea373cf29bdedffc05aa1e5880860818341754263"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-techniek-surface.webp",
+      "bytes": 33550,
+      "sha256": "c7a922d5ed8a130a2f2817071f196f2b0d70741e7a54b37aeda194b6de1a50de"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-techniek-temperature.webp",
+      "bytes": 34724,
+      "sha256": "a3ce2eb57f8f6670cc780978e3fcc8eb98e7e60a408a486e0e207c2eb54461b8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-task-zw-temperature.webp",
+      "bytes": 26526,
+      "sha256": "293ae0e07da5bf1203cf561bc79ee6d8782f3d15e85e3a02569d0ec83cb16167"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-035-decimallimit.webp",
+      "bytes": 38316,
+      "sha256": "a60330a384c39b08d89d12697f668acd054f7909068603c0703d20d5b7b4166a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-070-priceadd.webp",
+      "bytes": 28242,
+      "sha256": "2e4a5f9d0fa75196420c5e64c76c993f8a612f9408f5d55e35a76a87d3ca61d8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-071-budget.webp",
+      "bytes": 22582,
+      "sha256": "eadff3afad0de4b4278fd5e5dd13b8083f01bc1ace153990aa3dc11d81127307"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-072-change.webp",
+      "bytes": 36154,
+      "sha256": "4c2e53bc3b4ec374cb56dec572859ff8dd563c23bd7dea72e04aff14f6304b87"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-074-duration.webp",
+      "bytes": 23698,
+      "sha256": "9206a8fedab9274bc326ba1005fb06c6e60af57ef2e3367096d8a5c7cd99381b"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-077-pricemultiply.webp",
+      "bytes": 25688,
+      "sha256": "7f9f9d39a7c20713bf57c172e18c26be2f3c0b9416bfa176762043e076df4dbb"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-079-starttimeprep.webp",
+      "bytes": 34278,
+      "sha256": "bf0b2d2efc8026e843084eae8f6503700c8681cde4e542b1b82cb4594604bfa4"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-100-perimeter.webp",
+      "bytes": 29936,
+      "sha256": "464498db5256906f481971040dd2d7c21c032fa0756f4bb9866e583082ba5b3e"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-102-area.webp",
+      "bytes": 30754,
+      "sha256": "adfb9d9394a819524ba1c508e0e5e32fe3eae529f174a007ab8f4d6a549bb3a1"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-124-perimeteropen.webp",
+      "bytes": 24752,
+      "sha256": "30b0915e03c8a367393ea4cfc76a3414ec42e0346d4e7d1fa5ebc26c23b039e1"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-techniek-126-areahalf.webp",
+      "bytes": 30058,
+      "sha256": "3a0fe89236c1bc2a1e91737ad37f3fc11563c037dbe5da8d9322ff6bcaa91032"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-070-priceadd.webp",
+      "bytes": 21172,
+      "sha256": "900c6a0c6094ae32c6804ddba0fc3821d0216070cd1d3cd7bd88ac5d6d13625e"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-071-budget.webp",
+      "bytes": 20288,
+      "sha256": "c0f8a016b1ccadda5013b14de4bd207a24be193df175d154ae8bd233fb797ea8"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-076-offercompare.webp",
+      "bytes": 20350,
+      "sha256": "0affbf6475ed23dccbc08d9b5541e20fbdf1ef2447dba639ded90d90977e9e72"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-077-pricemultiply.webp",
+      "bytes": 34132,
+      "sha256": "1b6932684c8a4b231d86af49a9ad895c91e499b5c7ffb6442e374354a8d26692"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-079-starttimeprep.webp",
+      "bytes": 34902,
+      "sha256": "c664287171e68834fb1e223be632bca1e0a8ec99bb82af86589137ef822fcefa"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-100-perimeter.webp",
+      "bytes": 34768,
+      "sha256": "d7141ba26e9f0a682910e247400f86c3f46b2680fb282532ca4baa48c9f9fb9a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-102-area.webp",
+      "bytes": 35762,
+      "sha256": "ba6f133c3f40d117541fe9000f3b1a1cf56f620c606cc99b650bb0db27d4bf26"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-124-perimeteropen.webp",
+      "bytes": 30200,
+      "sha256": "5f3ddaad95c7b20057c0f4c4c445e67ba412a0c99cbf80533122ade288463d9a"
+    },
+    {
+      "path": "assets/career-openings/images/start-var-zw-126-areahalf.webp",
+      "bytes": 30578,
+      "sha256": "fa8194a1fcf445084ff60e0b8127e93d1342a699a371ea94e83d656f2f75d7e2"
+    },
+    {
+      "path": "assets/career-openings/images/start-zw-cabinet.webp",
+      "bytes": 25114,
+      "sha256": "9500e91b7def8ab0725284ba74df0aeea57d9ee85ebacf5a58c004dc70751dab"
+    },
+    {
+      "path": "assets/career-openings/images/start-zw-napkins.webp",
+      "bytes": 32598,
+      "sha256": "32d801ce0f1767d67f3e6e48270799567e69e85aed859df7fffdd05750787361"
+    },
+    {
+      "path": "assets/career-openings/images/start-zw-planning.webp",
+      "bytes": 25446,
+      "sha256": "76ea74e219d075044cf0b24f570230cc187ff74cec7655fe7c4707dd9b5f2439"
+    },
+    {
+      "path": "assets/career-openings/images/start-zw-tea.webp",
+      "bytes": 22720,
+      "sha256": "2804a0a546fd0cd282249780621f9c01c13a07bc4a535daa4fc092ee4ee27179"
+    },
+    {
+      "path": "assets/career-openings/images/start-zw-washbox.webp",
+      "bytes": 107814,
+      "sha256": "c298adc05c004f8f8f0f6d767b70e55e91340c6c0d5559c60e62ca8c413cce74"
+    },
+    {
+      "path": "assets/coins/1.jpg",
+      "bytes": 83228,
+      "sha256": "bb2457eada8b42b91ab1849047d6acc7a4c367bbbef7a2b8390299049f73255f"
+    },
+    {
+      "path": "assets/coins/10.png",
+      "bytes": 549788,
+      "sha256": "5326b098f77d469323017cf449995476efaf07789b0f947596c3b632922006d8"
+    },
+    {
+      "path": "assets/coins/100.jpg",
+      "bytes": 70255,
+      "sha256": "888de1a5bc9dc97c520d2f89fc56ef1af0fc26bba9136649cbeea72330ecb036"
+    },
+    {
+      "path": "assets/coins/2.jpg",
+      "bytes": 80765,
+      "sha256": "647bc8a7aaa99b6cc0e005ca7d5ef9ced28d4ba4309d1ec70cb5445a4238c961"
+    },
+    {
+      "path": "assets/coins/20.jpg",
+      "bytes": 72407,
+      "sha256": "17f426ced6b633f978e6d5ed44d1d681fe77eb487efecc6b322cc05893694899"
+    },
+    {
+      "path": "assets/coins/200.jpg",
+      "bytes": 67517,
+      "sha256": "c127c8ffa1ce497a901e5623c337c6a63493ff13a4b8f76a0a26164f16721d9c"
+    },
+    {
+      "path": "assets/coins/5.jpg",
+      "bytes": 66732,
+      "sha256": "17a456706c2fe00f9f8a11f4ce6936dc3296e995bafe60f810eed48fb798b617"
+    },
+    {
+      "path": "assets/coins/50.jpg",
+      "bytes": 63478,
+      "sha256": "d9be43dfa9f4c6a66fda0771606ee5c23664479d6277f1af95af6416cddf3538"
+    },
+    {
+      "path": "assets/eco-1.jpg",
+      "bytes": 143034,
+      "sha256": "6eb0e017e5f8c284b81054e75c4e94ba2fd84d1866bccc183e6c9839f320500d"
+    },
+    {
+      "path": "assets/eco-2.jpg",
+      "bytes": 113683,
+      "sha256": "e8ff6f34c9ef10af9809397f1ac418a98394f19125e9aea89778d753a5ba73a3"
+    },
+    {
+      "path": "assets/eco-3.jpg",
+      "bytes": 114657,
+      "sha256": "8193a5d227b4b7e3c4e299a90490331a976504b6b7d92470b4c84f4bdb793289"
+    },
+    {
+      "path": "assets/groen-1.jpg",
+      "bytes": 152888,
+      "sha256": "f4afea358402c12475c35191d1cb47aac8c42c6307179136d5e241bbd4a5d76b"
+    },
+    {
+      "path": "assets/groen-2.jpg",
+      "bytes": 152963,
+      "sha256": "aca3da5e08cb10b8c8745b326635dd1477010552c5fc7d1cafc7d07f47f61f8c"
+    },
+    {
+      "path": "assets/groen-3.jpg",
+      "bytes": 114834,
+      "sha256": "fc78ba0c15412de3976399c90d08073a01e80dd085018598fe491133147410cb"
+    },
+    {
+      "path": "assets/hbr-1.jpg",
+      "bytes": 116177,
+      "sha256": "100500b73fb564aabf965e2ee7dcde2978a690a5ad9f59159ade887212062de3"
+    },
+    {
+      "path": "assets/hbr-2.jpg",
+      "bytes": 98396,
+      "sha256": "315e058662c95df8ce6edfa138cff4878bae5af78dccbd62674a9bedc952be33"
+    },
+    {
+      "path": "assets/hbr-3.jpg",
+      "bytes": 111495,
+      "sha256": "318d3eebac33097901c2b6f2c58920ac749144e142b96f96eca0a45a29f79c33"
+    },
+    {
+      "path": "assets/hbr-4.jpg",
+      "bytes": 130540,
+      "sha256": "4f747e961248babaf44f7cdc1ab5c9380131d8b03d13f4c0bd51b637a0040bcf"
+    },
+    {
+      "path": "assets/hbr-5.jpg",
+      "bytes": 135887,
+      "sha256": "80943e2f988060559c6f5dfeb5a74ecfd8bf418efba45431ed7f01e42aefc22e"
+    },
+    {
+      "path": "assets/hbr-6.jpg",
+      "bytes": 114013,
+      "sha256": "3324f8ce9f30cf93749f007f4bfd7298873745675db3ed41c9f8aa6679085d8d"
+    },
+    {
+      "path": "assets/hbr-7.jpg",
+      "bytes": 134417,
+      "sha256": "e0268228976c9fa2dc09bb8a9c7a034a6c1ed4f6b02f344d698b2c915e98e548"
+    },
+    {
+      "path": "assets/instruments/bricks.webp",
+      "bytes": 64646,
+      "sha256": "a013f67bd84b089b07a278e6cf23d5a0ed2d14ffc72b5ce4af0bf82a93db266a"
+    },
+    {
+      "path": "assets/instruments/kerb.webp",
+      "bytes": 173398,
+      "sha256": "ed519cd584ff2fb76522acca3b7d5604e3add85bfba43e9e78a4d781419e7904"
+    },
+    {
+      "path": "assets/instruments/length.webp",
+      "bytes": 34430,
+      "sha256": "3294735576b00893f13a84278d486ed8d68f9a6cb22ae0e2cbd4a3f1ed9a412e"
+    },
+    {
+      "path": "assets/instruments/mass.webp",
+      "bytes": 22742,
+      "sha256": "ec6caff3c26fa8e8dc51d4249fda77065020465be8576f8649e80b2a4942c5ac"
+    },
+    {
+      "path": "assets/instruments/volume.webp",
+      "bytes": 42562,
+      "sha256": "970c93f17814426c49d815306b3361cc00c32b75f2f99b1a3ea617b91891e2d2"
+    },
+    {
+      "path": "assets/lesson-eco.webp",
+      "bytes": 197146,
+      "sha256": "8d9f6a2c15fa2a93b7e47307b084244c1f0e74348066b0218a51f92a93d50fcd"
+    },
+    {
+      "path": "assets/lesson-groen.webp",
+      "bytes": 357658,
+      "sha256": "fc1805544479acd326eb801d0d0d76d1894044685a1aec2dad8270c25028dba2"
+    },
+    {
+      "path": "assets/lesson-hbr.webp",
+      "bytes": 238902,
+      "sha256": "f6283dadd00974a83c235d3e5f6093fa65a8b14aad8c541062d458ef8157866b"
+    },
+    {
+      "path": "assets/lesson-techniek.webp",
+      "bytes": 250418,
+      "sha256": "2b81f993541d1143842bbf738fce851448056edc643f508017b59050c132bc68"
+    },
+    {
+      "path": "assets/lesson-zw.webp",
+      "bytes": 182268,
+      "sha256": "880b7c394d342b60830b375b2f874b17a66786b28283ac0ae0cc76194d7e4e8a"
+    },
+    {
+      "path": "assets/logo.png",
+      "bytes": 259984,
+      "sha256": "114c55f9354df949dabaeca4a6c4fad4a19bd860ce2c894264a03597d3fce7c7"
+    },
+    {
+      "path": "assets/measurement/eco-length.webp",
+      "bytes": 20184,
+      "sha256": "eeee00a0149ac608b405369f1bca74027bc692fd9755ff548ecbc68fcfd9a875"
+    },
+    {
+      "path": "assets/measurement/eco-mass.webp",
+      "bytes": 18428,
+      "sha256": "85163f6e799f912c4fa9dcbf94d2c0c7c267a652bc50c1c06f27870be508ff6f"
+    },
+    {
+      "path": "assets/measurement/eco-volume.webp",
+      "bytes": 20524,
+      "sha256": "8562b468b1fa235dfe91d91860845022167800fc867b30995b32114a8c1da540"
+    },
+    {
+      "path": "assets/measurement/groen-length.webp",
+      "bytes": 33682,
+      "sha256": "70d3b2c56e10a8274cbcd1b46290bec32d0e7da4ac7af08c6c0800b176b21397"
+    },
+    {
+      "path": "assets/measurement/groen-mass.webp",
+      "bytes": 17886,
+      "sha256": "4b98df3ca638301747c170f4e4283d346e0681fd51e0151e372e89b7331f92b9"
+    },
+    {
+      "path": "assets/measurement/groen-volume.webp",
+      "bytes": 35654,
+      "sha256": "b564faec949b2fe0c041cc8f8de63bd79abdfa11e0a765f906b137a16aeef4cb"
+    },
+    {
+      "path": "assets/measurement/hbr-length.webp",
+      "bytes": 21676,
+      "sha256": "ec9c9f0ba20dd45a32bf2bd441e552b7e19080b18b4bf2528f5375597c7f1acf"
+    },
+    {
+      "path": "assets/measurement/hbr-mass.webp",
+      "bytes": 16980,
+      "sha256": "54b34e3163902a47bde59c825742f82309e39eee79bce557fc04b167901db072"
+    },
+    {
+      "path": "assets/measurement/hbr-volume.webp",
+      "bytes": 13480,
+      "sha256": "1a13e5b4b0d99821acaef46a3fa4a5d73346d63f7bc902adf4d1bc27efb9f2ae"
+    },
+    {
+      "path": "assets/measurement/techniek-length.webp",
+      "bytes": 22144,
+      "sha256": "ff48bf952f8719171cc10c35e17bd5d11ef120007ad82a7a059bda0d848db8c3"
+    },
+    {
+      "path": "assets/measurement/techniek-mass.webp",
+      "bytes": 20314,
+      "sha256": "0df3bac5846fe5bbd91be19d421647c00ca4b47aeb9e3394a09d37c46876881c"
+    },
+    {
+      "path": "assets/measurement/techniek-volume.webp",
+      "bytes": 20484,
+      "sha256": "cbe250e3415fe016e724c0b7617c54d6a5739b2fb5df29f89640689e0defb143"
+    },
+    {
+      "path": "assets/measurement/zw-length.webp",
+      "bytes": 15870,
+      "sha256": "3202762d19020872a62ec29366f709e5b0853dff66a6d16eb412a121c3b7823d"
+    },
+    {
+      "path": "assets/measurement/zw-mass.webp",
+      "bytes": 17302,
+      "sha256": "055d8bad9b0637a4a7fae8d39184f5f5d851e1551d9f969214af31fa3a887c0b"
+    },
+    {
+      "path": "assets/measurement/zw-volume.webp",
+      "bytes": 19900,
+      "sha256": "b2a93e7a100947b54889628b7d84300090bb3daf8769fa8bdd64a7648bee361c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-001-bridge.webp",
+      "bytes": 26468,
+      "sha256": "94e3bf72998a0d4d1a196ad87d864f4d3363f9d82ffc5184b240a24c55426c85"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-002-ratioviaone.webp",
+      "bytes": 19952,
+      "sha256": "bb8f8c1c6675c5496a75645aaf8cada7da3f17e8a9b93c9db77f6747e5b10c4c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-003-count.webp",
+      "bytes": 15536,
+      "sha256": "adf0d746076a1e1c3354e7aedc05c70f60ee8033295dbface020a2aa3c1a24fd"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-004-divide.webp",
+      "bytes": 22634,
+      "sha256": "753553e22199771a855ee70fefdf5064db380f4941da614f22d7bf0a7ff255ad"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-005-half.webp",
+      "bytes": 22744,
+      "sha256": "ac53380f8fd26318bcb8cd04ca0552305c65c1262a29d73c0a531e289e27faf7"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-006-quarter.webp",
+      "bytes": 17138,
+      "sha256": "213cce1a15525587ebcdd572cbec700b1bd9ed4a0cf1ccdb8716851ee43d244f"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-007-ratioscale.webp",
+      "bytes": 16082,
+      "sha256": "ef395a733c1c29d904ef46f243162fe3ec619aa2976681d9000af6f9623a0c94"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-008-sets.webp",
+      "bytes": 27316,
+      "sha256": "5f1c91daaee37c2c4735be602494547bbe6616195d97d63f7ecda6f2debb4084"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-009-sub.webp",
+      "bytes": 26146,
+      "sha256": "6e2c4e48b0dd3b6ebfa40746bcb97dff44a6ef2bed6713448fbebfe27a41b0f9"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-010-bardifference.webp",
+      "bytes": 22252,
+      "sha256": "45e38bc44e437351a4f07e1d1ecbe935ad04a52fa6899cbf298c133feb02ef7d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-011-columnadd.webp",
+      "bytes": 18704,
+      "sha256": "07fd7c0329851cbc49c6dffe6a1f0fa59d6c6a06639eccd67b11f9fc40f865f0"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-012-columnsub.webp",
+      "bytes": 14308,
+      "sha256": "c10555efc364898b9846a3561ba02ad4290975f11722200d8aa59901bcbb0140"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-013-diff.webp",
+      "bytes": 21266,
+      "sha256": "641dca7f7a647d1e70c2ea0213e6e273a0c43fce3bbf2950e0b7059c66f6b055"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-014-estimate.webp",
+      "bytes": 23858,
+      "sha256": "8f2463750b768c0f3893e86fbde2b10d322f961ef127a5c873b7eb44c0682946"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-015-pack.webp",
+      "bytes": 16046,
+      "sha256": "9f4d5363538eb0ae4ec000c601fe4d3227ca2391cafb667a06f68ce889204298"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-016-percentpart.webp",
+      "bytes": 19630,
+      "sha256": "971d71efbecb2785b725752a8d39d5bb1803443508654da54b16bfa0889fca66"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-017-refill.webp",
+      "bytes": 21938,
+      "sha256": "4dd777052a695bc3a8ef8024dd407d66e0d179df1b6936e4a955c8f7c0eb8f02"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-018-stock.webp",
+      "bytes": 15532,
+      "sha256": "43aeec379b309bf876dce481ac075428c212dd8ddfd9f7da9ed16d54615c7c8b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-019-stocktable.webp",
+      "bytes": 15242,
+      "sha256": "76ef495f7da2e4c81d7a786aa2e541093de782a2ac2c6d8c8b22ee0a35543f2c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-020-tabledifference.webp",
+      "bytes": 18160,
+      "sha256": "36aa9379ea3ad8928a48ce42b1f8f96f4f4dc3cf57aa0f1d4f79001a25d49e4c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-021-tallyread.webp",
+      "bytes": 17276,
+      "sha256": "a2652b0381dbaa3311643db981d664e57dfe19aaf7f15bfa4ed51241733c852b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-022-add.webp",
+      "bytes": 20776,
+      "sha256": "c94d780e3a3e2e42d635ab74b6f161165b7466262ab99a014428538a83d77ce1"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-023-average.webp",
+      "bytes": 19190,
+      "sha256": "f2e78480a07a99b93d1cedf2156bac5bb8637a5981042abe831e1147817f15b7"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-024-averagedecision.webp",
+      "bytes": 22256,
+      "sha256": "9440ed6d63f3ace88295e184c7f30b353ac9f44d30bd23764aaa27e789ed479e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-025-barminimum.webp",
+      "bytes": 20766,
+      "sha256": "059e5170ed7ea418fdb22f40725b3ad0490b98a36881a32b642fbba301128a1a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-026-barread.webp",
+      "bytes": 19298,
+      "sha256": "d8d37a4b53dc1039204e403cb73801c400aa813e03a3affa68aaeed0c437fccb"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-027-barscale.webp",
+      "bytes": 23652,
+      "sha256": "c1c0240c8e744d463c1fc1dfdaf859d8868cc37d819f7addcb119ad9800f268d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-028-barstock.webp",
+      "bytes": 13252,
+      "sha256": "34dc3c54057b13dbd5afd9afa2f0aeda8aa17a7edd5b90e44d2db1ed2d540e9c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-029-both.webp",
+      "bytes": 19826,
+      "sha256": "0d7a217366ff309ef28b57b596f1585ddf4ec3abb8c237d7c40e1efedb29246d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-030-checkbar.webp",
+      "bytes": 21996,
+      "sha256": "15d19d788f7a118131538ff426972a69f05bf7e28734ea65c9970bdd5c0d6a8d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-031-countcheck.webp",
+      "bytes": 18002,
+      "sha256": "bd0d50d0b3b7d41a2e56c0f748922fc14974c7e1ea8427252767e951db9725e9"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-032-datadecision.webp",
+      "bytes": 20966,
+      "sha256": "01ecc18d171cd48723d9d6824c1be90962696eb3815c90b59c9ee6c5fe157e37"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-033-decimalcompare.webp",
+      "bytes": 13316,
+      "sha256": "82bf936101fb14e46eb3e7234db314d11ae3f9f287e224595c4e8eadea5aa5b5"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-034-decimalequal.webp",
+      "bytes": 19182,
+      "sha256": "368996ada2688386db8e4f4e38f27580039e66920a0944249889dd345f446775"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-035-decimallimit.webp",
+      "bytes": 15660,
+      "sha256": "3f9f8908d18d88af3236d382cf127112603abbe910682b07e1b651732ba8673b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-036-deviation.webp",
+      "bytes": 17658,
+      "sha256": "713bf8fd4a96b184ebee5816859842c2e6b0de8e79444bb7c1b8d563185a28eb"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-037-double.webp",
+      "bytes": 25584,
+      "sha256": "2c02747dcafeb67f0ed8ddc731d586f6f04e073574699c9950107a552650011a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-038-doublelist.webp",
+      "bytes": 19240,
+      "sha256": "a3a9c6386a8c23bd23c295fd983186ccd4508af558a3e1743c3dd5ceadc04aad"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-039-drawbar.webp",
+      "bytes": 19346,
+      "sha256": "e588dd16741d72071c38f7c4471464920d5cde604321f5858d610a9abd7ba376"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-040-estimateenough.webp",
+      "bytes": 26082,
+      "sha256": "8eaaedae5c714c4516429874e44b9372b5a2e52ecf5da05277506daee981078b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-041-fractionpicture.webp",
+      "bytes": 25258,
+      "sha256": "46634ef809cbc58a372ba135c11d84c802695cf0c1df9ea5476168b5a97edc91"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-042-halflist.webp",
+      "bytes": 13746,
+      "sha256": "e6d9c089d2a87b5a706a2763f7e3baaf9d8e0bcc638b1109fb3fb266c94509c3"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-043-line.webp",
+      "bytes": 18500,
+      "sha256": "c33b2c6d1cb626e9e08e6a451ee3a786f161320917614f565e46a1dd040c786c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-044-linechange.webp",
+      "bytes": 19380,
+      "sha256": "475920d734c03cb2a9ba60f931f245ca3299d890681051240e649812c901cdbe"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-045-linemost.webp",
+      "bytes": 17884,
+      "sha256": "240aac4592ffec63b30365bb5884da29583063809395fd963d4901eeecff14dd"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-046-lineread.webp",
+      "bytes": 13874,
+      "sha256": "29a83302979c879bbf3565dad4389b75131039b4fd3c0c21b890eb311c3a22d4"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-047-multiply.webp",
+      "bytes": 23654,
+      "sha256": "c45d4a341560a93030c5dbf663a04cd627fb99231032c01eac862e6744fb3b6d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-048-need.webp",
+      "bytes": 27246,
+      "sha256": "eba19d41ba16abfac9d9fd3ccecc592c832ee51419870745c1a23e4227f859dd"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-049-percentpicture.webp",
+      "bytes": 26500,
+      "sha256": "6cd8706897cc7490b3fb6313847b90c766a3e761ba2f7066e3705829c061f085"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-050-perset.webp",
+      "bytes": 18486,
+      "sha256": "25fa12843ba943fc443e8ba381dc3668cc784750d8d70a5281d8b127ce9fadc6"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-051-ratioread.webp",
+      "bytes": 16794,
+      "sha256": "573ff0c464bb20e30cfcb69ede0f13aaff9354edb58a1fb27f92b8199a08a98e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-052-ratiounit.webp",
+      "bytes": 19272,
+      "sha256": "49de7e09e9f6653dda94b5157d071c36b0b5333faa98a4872a32d41b1e52d6d7"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-053-reservepercent.webp",
+      "bytes": 24068,
+      "sha256": "45b175fc633d730ee90a3a89d8abb06f19120ff631740583829250439ecb65e7"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-054-rest.webp",
+      "bytes": 17768,
+      "sha256": "fd48133aa3fca3ffb7c98dbae30aea8e5a95a0bc12c5a3f38adc2aeb4a4470ac"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-055-round.webp",
+      "bytes": 18164,
+      "sha256": "6ab993b68ed4b04a51632ed5161ae39d9fb3dba858680d1ac4426f38e6cacd8e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-056-selectdata.webp",
+      "bytes": 21880,
+      "sha256": "99c7d258c5d63ce0d6d5952d6f993091315c2c4a6244b3de6cc01c348a96f51c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-057-stockdifference.webp",
+      "bytes": 17560,
+      "sha256": "dc2643581f7286221426fa359214c4199cc21d52e58b2750a776f0c30b650e06"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-058-stockorder.webp",
+      "bytes": 14110,
+      "sha256": "976fab9ac547306b359f7db1e27deb91c91f96060ea1a76f552edadc0fd5a548"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-059-stockread.webp",
+      "bytes": 18090,
+      "sha256": "8066b58fc920fa89f9737547d0efa6a70b2fd6be321aaa36257077f18e2ac867"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-060-stockshortage.webp",
+      "bytes": 14406,
+      "sha256": "09e06a67c2aa6a55378cb482502ba41625e592e4a1b77bc0a8d9cdf8b5e97792"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-061-sumvalues.webp",
+      "bytes": 16942,
+      "sha256": "c3fd8318308d13f1a01dfa52fcc5b281f45decfc453152e20538f33da3ddc6a6"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-062-tablebar.webp",
+      "bytes": 18390,
+      "sha256": "4a59eaf4efed4de0adb44e51d60464a2f5093aa4546d50ffd6f586a3a311cf7a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-063-tablecompare.webp",
+      "bytes": 19684,
+      "sha256": "30195bdea1dfdbccbfb367080a64c4cb9f51de7877eea05f7bd1900b64fdaa59"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-064-tableread.webp",
+      "bytes": 20788,
+      "sha256": "62e5a00b9194616d99ef2cefaec0aa2874b58d7c42f18040cab562057b371122"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-065-tableunit.webp",
+      "bytes": 22458,
+      "sha256": "68045fc916f2c048f231142dbfa3e605b6f70bcbf997a9a3a418d516220e9129"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-066-tallymake.webp",
+      "bytes": 22460,
+      "sha256": "dc85cbc256e7c161ed0b4fc2f7cdb972ab4eccf3cec1e2b677dd35ccc9f82144"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-067-tenpercent.webp",
+      "bytes": 16562,
+      "sha256": "bae540d3a06303128e2877820bc4a276673a0139f59712f4fc372beb1e7c7383"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-068-triplelist.webp",
+      "bytes": 19894,
+      "sha256": "0f7f9f2aa7d3b04a52b1a626c8a64f94109037249867f88689b82946b49f689e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-069-twentypercent.webp",
+      "bytes": 29760,
+      "sha256": "5f77e3f283455cd2adda1475adba773fd6e501a014dc0c446d95a5360a3c63d8"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-070-priceadd.webp",
+      "bytes": 22764,
+      "sha256": "8d017bca48a6d99f60055df253c9851b175ca6b47488db55255668225123957a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-071-budget.webp",
+      "bytes": 15046,
+      "sha256": "cc97208c5380b496321e3530fd689b78105ab9d8fd288cf5f4ed153b6fd8658d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-072-change.webp",
+      "bytes": 17670,
+      "sha256": "f3bd50a80db5f501eb64ad402f6d556bc3f235a881116b213ded348d0b0ba5f6"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-073-discountfinal.webp",
+      "bytes": 17320,
+      "sha256": "4de25cfa1f25741102393f07fda521262c9a46871dc7e21d64b4b5efa9b3c580"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-074-duration.webp",
+      "bytes": 17458,
+      "sha256": "3a32b89aa6ae4537a7c0a61c80994e63dd840502a84778960b665c9b7152e82e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-075-griddistance.webp",
+      "bytes": 33214,
+      "sha256": "3a67db22a888403617f2069a3751a8f17f3d3cb3782e60aa540cb9f6a6727bdb"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-076-offercompare.webp",
+      "bytes": 13534,
+      "sha256": "83810afd1dcb878282b5f7a08e5e1f3e01d92c7c59608b9401d72868db0fc1bd"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-077-pricemultiply.webp",
+      "bytes": 14382,
+      "sha256": "3750a87b281a1350739e6d4d7069dcdda833f4e5c0129817d202ea697e08debf"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-078-scalelength.webp",
+      "bytes": 17044,
+      "sha256": "b5f31eacddf7b2e95d14be6b3d9cffbd9cd5f1fe483cefc232a6cfe0304691aa"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-079-starttimeprep.webp",
+      "bytes": 31378,
+      "sha256": "cd21b07a8b837417a37fb68cde49440f4953154aee646bf1df42136dc7862acf"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-080-unitpricecompare.webp",
+      "bytes": 16996,
+      "sha256": "f7b7cc428fe07a77c762826c1cfbdb2d222c09557cc1cbb9588c3751b6482507"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-081-ruler.webp",
+      "bytes": 22174,
+      "sha256": "4883a56ddd609e28b86ebcd7399defa64c666025781e424fe898fbf90837e7dc"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-082-cm.webp",
+      "bytes": 35450,
+      "sha256": "3e0a0222cbab5b3333c57e4dc1260249517324f160fcf3886dd6d82ae28cc03c"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-083-fit.webp",
+      "bytes": 27286,
+      "sha256": "c3007ec328f0a700a318bbd4a3a308507ba4637f1e2bb6afc7330ae97dd00f56"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-084-scale.webp",
+      "bytes": 23344,
+      "sha256": "c58d1adfbb0b0343cd189cc9c59f922511de3fce940800d9108c1af2770a7a84"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-085-masscompare.webp",
+      "bytes": 32498,
+      "sha256": "f423dd58ee3dc93c5558165b9d474040d84bc0d68a3d28509537265ab205368f"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-086-massrefill.webp",
+      "bytes": 33122,
+      "sha256": "8550929138ac379a99a92c588a21bf9d83b63f87962f148edeac33a096fec51f"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-087-jug.webp",
+      "bytes": 24544,
+      "sha256": "31f67c789bf9b619e6c133e0a18ab712d6755edb8c0a8bd9eea4d81c40a68c6e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-088-volumecompare.webp",
+      "bytes": 19626,
+      "sha256": "b78c1a0c5cd00f273a00edbd4560ce12975e29c4b6656531669fbeac9f6a9429"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-089-volumerefill.webp",
+      "bytes": 25590,
+      "sha256": "2d66a8597c977e68a80b6acf77f3e8aed7ccf85a205cd761c575bbb321b1c57b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-090-chooselength.webp",
+      "bytes": 14138,
+      "sha256": "c33639f8d7d88e26bb82fe865ef88a4aff97978335daae49c7bbe5f8aa6e6d21"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-091-choosemass.webp",
+      "bytes": 14202,
+      "sha256": "1cf881b0c7ff425dacae8b3f343ae6f194424a078bdb1f694596e6e1eb3c2754"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-092-choosevolume.webp",
+      "bytes": 10012,
+      "sha256": "a9fd3b5ed69801e4d8fee23df079037bac185ae0e123af80b2c1f4992ffcd4e7"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-093-cmcompare.webp",
+      "bytes": 17186,
+      "sha256": "02f21d6a57a078f3c53b883ec29a1eee920d232620e1dcbb53c4ca788a1409ec"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-094-gridstart.webp",
+      "bytes": 35424,
+      "sha256": "65f18774df669e2fe0e640fa6ddb217739552226df6a315065f6cae89f726d49"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-095-gridroute.webp",
+      "bytes": 37958,
+      "sha256": "4708581bd922aab10ed5166add1b8075d71a9a40a11c3174b9f56cd41c699958"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-096-gridcompare.webp",
+      "bytes": 40830,
+      "sha256": "811b6b9663e3c71871c0bbc48e7085f451a6d25d4863b3fef81e1fe598f04c94"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-097-gridscale.webp",
+      "bytes": 20408,
+      "sha256": "276349a1f7a6f0c2771e0f418de2ef1cf190efe439b4cf310ce712c7c73d639a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-098-gridlimit.webp",
+      "bytes": 26428,
+      "sha256": "603af3b7cbee483ab8ba55170f1da5a41c23cff784a80c1afec4aeaf67d468d6"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-099-perimeterread.webp",
+      "bytes": 20636,
+      "sha256": "b0996cef6676fe8e0c28e14e61673d6123ce10a0967c2a74e850d940f836ae5d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-100-perimeter.webp",
+      "bytes": 25170,
+      "sha256": "7ab449ccc3895a0ca225e05afee869707043bbb15611f92e6a3a7911a964d1bd"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-101-areagrid.webp",
+      "bytes": 29536,
+      "sha256": "7ac50119d96dc3d88df3c52fe47971aa09318ad849eb56e7769925668fca4b51"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-102-area.webp",
+      "bytes": 29216,
+      "sha256": "1bfc9aa460436d03af5b968136e18fb3b191369234a5133ceb0ce8a3389507d0"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-103-edgeorarea.webp",
+      "bytes": 29854,
+      "sha256": "c2c4bf71b1fac38fc1b8a7ae5e21685dc159e449a227f26778d6403f7c121ff3"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-104-formulachoose.webp",
+      "bytes": 27916,
+      "sha256": "cbb214a8b531f3de58262491335a152db357ffe2ef0f05f1004d40ec9bc1d34d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-105-areaoredge.webp",
+      "bytes": 40514,
+      "sha256": "1eb4805e8cb07d0e7e7d5c89713a10c51c1fdb42a9ebe627e66fa21ef12024be"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-106-decimalcm.webp",
+      "bytes": 26124,
+      "sha256": "dce3fd67a0a3b3d36480441c893bd3feb7124606a8e6e62ca0d6024764944a3b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-107-decimalfit.webp",
+      "bytes": 17778,
+      "sha256": "92c629111dc47b14dcc10310ac4dfdcca7e2af51184a0f508e8908c9ad4779d0"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-108-gram.webp",
+      "bytes": 24472,
+      "sha256": "ab147892f6bb465602208a10434a2985d1bcafe8e0e2be63fff3f84991a41713"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-109-convertvolume.webp",
+      "bytes": 24188,
+      "sha256": "4f4fb8fe7431993948a3328fcf3e7f730cd20bfbb3c117d184a22316d8a8973f"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-110-volumeadd.webp",
+      "bytes": 19710,
+      "sha256": "142d6af1b909f0ef220697c41e831a72bc1d0e48b9515df0b85c58ecc251457b"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-111-volumefit.webp",
+      "bytes": 26672,
+      "sha256": "81b9c0ad276d7d986460fc5febeddaf51bdace95692d4de3e4ac66ba7d47f486"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-112-smallconvert.webp",
+      "bytes": 22276,
+      "sha256": "ba2ceb6ddfd79b59d078aa3f63cc43faaf8090ea3ee6715c63724c09fd1365be"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-113-smallcompare.webp",
+      "bytes": 27604,
+      "sha256": "55401f9439415595d58a6cd4905df700d9d2ff322b8ddfe5862c21efac97ab9a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-114-smalldifference.webp",
+      "bytes": 28074,
+      "sha256": "700da1f61740a644af5a6cfae786573695106de83a7a993bb6a8b89ce8ac09b9"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-115-marginadd.webp",
+      "bytes": 13542,
+      "sha256": "640192db79cdb329ef564a5e2328f40c94db53bee9f6b8cebaf11276240db2d1"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-116-marginfit.webp",
+      "bytes": 20478,
+      "sha256": "7daf1145c64de136346f9eb515ee7b3a3234b8c11d9a897fff83c2058c6dd67a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-117-marginchoose.webp",
+      "bytes": 21352,
+      "sha256": "7f2ec599759e32b4f2fa9302016814cb4829f135525f9f4b02f4fb6d949eff1d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-118-volumeroom.webp",
+      "bytes": 25098,
+      "sha256": "42ddaa25dedb1f2c2650418f04a9c001bdd5ca05fae21fa6e36bf96e2620a754"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-119-scaleread.webp",
+      "bytes": 40704,
+      "sha256": "e1b18b5d8c648054896d7b796f7fc0a30b43a957ac64de58af7dd05d15033605"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-120-scalecheck.webp",
+      "bytes": 39124,
+      "sha256": "681bd97b49457b7f0291e4cd0f1b7ffef5d28fe5b53090ddc2aa36b118649df4"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-121-routeparts.webp",
+      "bytes": 40082,
+      "sha256": "1ba505236fb21293bec479c7ea97810ae18585921b786ed98202044fece56c5a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-122-routescale.webp",
+      "bytes": 27340,
+      "sha256": "a8cc72d2a9a9b651a51d6f10a4416541d6dee63f01b819695c8afb66ce2f6387"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-123-routecompare.webp",
+      "bytes": 34942,
+      "sha256": "9c0d0675713629d0ae62da84bf3b12950d1e8475e8f6b91caf3bf019f053ea4a"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-124-perimeteropen.webp",
+      "bytes": 33340,
+      "sha256": "a4d965e8ac67bebe4cece9b3ea0f2b303a592bd2c225351ec3da603453506209"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-125-halfsides.webp",
+      "bytes": 38108,
+      "sha256": "f161ec79cd398eb3c84e3810a45497d078975747df8d89998c6ec3cd488f6b7d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-126-areahalf.webp",
+      "bytes": 38150,
+      "sha256": "c9d50e3607ee0adc529f87cb9062aa4899f9acfc680249bb8cfde7c59a0aaa23"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-127-coverageread.webp",
+      "bytes": 26590,
+      "sha256": "42bd89b3acca21bbbbec7ac78149bf9bd8e76113d53233251fdd4f3947ca2d86"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-128-coveragerest.webp",
+      "bytes": 31790,
+      "sha256": "5c1d5676d6e3557d393b0d35dc1f1d36b7114f60d8a49133d97fb41652bb22e3"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-129-coveragepacks.webp",
+      "bytes": 30500,
+      "sha256": "b463cb4bb9e38245022566014671d763678110ff53b6b9dbc3611dc2221e9a1d"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-130-readruler.webp",
+      "bytes": 29594,
+      "sha256": "5bcd12124923fce989286b62f46253022ac1ef1a6de75e88646bb056e82fe3c2"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-131-readtape.webp",
+      "bytes": 22160,
+      "sha256": "00cb5c48177260b28f06fa63cba06dc8196c5f1b36166c69c34bfbf43751c486"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-132-offsetruler.webp",
+      "bytes": 17964,
+      "sha256": "a813c2afaac3d24af4deb988cc12ca29d7e7b78b0f0c3f1ca89f12ca0f8eabd3"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-133-marklength.webp",
+      "bytes": 14636,
+      "sha256": "8b250786e9d2e4c1f62ad6e9e065734952e1f0d9455c104261e6c95bdc1e1306"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-134-readdigital.webp",
+      "bytes": 21184,
+      "sha256": "e74d495dd6425a47454d9ab303bb85e3cd0c30d51012a52d64c1b4b56f4e8cea"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-135-readdial.webp",
+      "bytes": 23128,
+      "sha256": "a327e759087ba9bca31fb087fcd00c5049913f7af2a84ee0f1b980e688caf546"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-136-tarescale.webp",
+      "bytes": 23178,
+      "sha256": "8a1b651c1ccaf9e44be503d213cbc8c48c673cc6ac903b07955c0a4e784f0958"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-137-fillmass.webp",
+      "bytes": 30650,
+      "sha256": "59a8ac221231eda50e7156ae6e999240e15ee792a857da95d738279e0908c773"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-138-readjug.webp",
+      "bytes": 24732,
+      "sha256": "b545e683d2571dbcd32f5c309a08c0e68b714e4c4d27c25a9cedc98e613ad963"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-139-jugintervals.webp",
+      "bytes": 16172,
+      "sha256": "6be9818b42d347c76f679615a8fa24398124ccae29e62c9bb8a8ed7bebb5035e"
+    },
+    {
+      "path": "assets/photo-bank/images/eco-140-borderorsurface.webp",
+      "bytes": 30366,
+      "sha256": "7a991b2bc237a9a2f9a9823c4b1fd4304f22f25b6cd92b86f1957a72295cc2f3"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-001-bridge.webp",
+      "bytes": 29106,
+      "sha256": "b7f343aaf5082f55e826043d1866a78016e4e6785e0a64acb1ee25a7bc738fe1"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-002-ratioviaone.webp",
+      "bytes": 25412,
+      "sha256": "e636786c5744bdfe351754d59fb12ee523b7c60cf256006b86fde0d06f1277b0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-003-count.webp",
+      "bytes": 26704,
+      "sha256": "9e910183b0f53a3ce8a39f97b0b48354b27ca9343b06150b40359c6b7eb3e7b5"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-004-divide.webp",
+      "bytes": 30346,
+      "sha256": "954658df393fbc48241565510c9429c8fadb8685b57a6250ec83ff54be33a564"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-005-half.webp",
+      "bytes": 27574,
+      "sha256": "95d1a90e86b584be7830e7cbe6379c40c49da13f144f72aa74f22c3663844dac"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-006-quarter.webp",
+      "bytes": 30296,
+      "sha256": "23e22a4dc9d57f68bc1947bf1410fa24acd7514264354ba6f9a0c07433652152"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-007-ratioscale.webp",
+      "bytes": 26454,
+      "sha256": "eba4a454cd133ad2c549235215fe40f72890ecc758b9fa8f8e74f0ba82c19efd"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-008-sets.webp",
+      "bytes": 27392,
+      "sha256": "a5af388b9dc95e1f636a33f48e44f28c9205a1aea225581780f00347c1719026"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-009-sub.webp",
+      "bytes": 34526,
+      "sha256": "2bf7a7dfdfed1ded451d4705cfbf8b18b8153d8cf562c87006d5090c28932f42"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-010-bardifference.webp",
+      "bytes": 29536,
+      "sha256": "4d2c86d735aaad0ede102dedec93ee77b9120b312700d9faddfb17be87f248ff"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-011-columnadd.webp",
+      "bytes": 25296,
+      "sha256": "b53bc47d56ea1d41443bd37a205fe31d574cb12fa5168b3410e86384227cf845"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-012-columnsub.webp",
+      "bytes": 27058,
+      "sha256": "e9ed3a6b5a1396eba6caec3994915cd05e008ddfbae734873a05a309663ae943"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-013-diff.webp",
+      "bytes": 32698,
+      "sha256": "17b682fb96dc99e1b630a64abef43f12e90ee6df21a82bce45930b8faac41ec3"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-014-estimate.webp",
+      "bytes": 36594,
+      "sha256": "a20639465187ca3fa24517154bf4a8496f647af8e4ae78155131433c57be0a4b"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-015-pack.webp",
+      "bytes": 28012,
+      "sha256": "2b00d8247c01797aa65d0e53bf73e04b9bef9c2950243c16523c0a810c9039b0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-016-percentpart.webp",
+      "bytes": 39790,
+      "sha256": "4c0f8816b4bb9cc28187debc84aa5d6021f333910b4585446182f81b2d857afc"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-017-refill.webp",
+      "bytes": 28024,
+      "sha256": "2fb8b2eb232deccda793c2b369d1b237bf92f5f3deb2b309dbb24a13a59079fe"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-018-stock.webp",
+      "bytes": 30750,
+      "sha256": "d3b35907d666b710a727170e63630b12e3b6b7d2082d1b01525c0307f514eb55"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-019-stocktable.webp",
+      "bytes": 24658,
+      "sha256": "76a21134c82c91869f6da45c68d13db76c02a78f41d4284b3a7931730bb8abd6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-020-tabledifference.webp",
+      "bytes": 31760,
+      "sha256": "a8953b9403c36f622c2c4440766d82120a90ba3a2f6e05b7c4789ef9e1788d7e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-021-tallyread.webp",
+      "bytes": 29596,
+      "sha256": "11eb8cfb6c9586fff88ee137ed44c559072bba96b0c4bb7af5051ca05847b2c6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-022-add.webp",
+      "bytes": 22072,
+      "sha256": "340fe3e9c30e1e1575400e75fe08ede392203544a3b77c812000daef4ba3b2de"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-023-average.webp",
+      "bytes": 37142,
+      "sha256": "495d29c126499922c2939ab67da6147937dc37c86fa1d2afdb7d114ca74bde89"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-024-averagedecision.webp",
+      "bytes": 31450,
+      "sha256": "a113c1c0b59b0d28c67be749c9085d7fe514293102e3168ea5d2725488b450f0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-025-barminimum.webp",
+      "bytes": 36888,
+      "sha256": "a97ab99e6312063d092000b913f9b7cd4025e156484aef2a6d2350a16727d772"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-026-barread.webp",
+      "bytes": 28678,
+      "sha256": "0d14b9c18d0e64fdb22662f35771823a1bf4deaa2fdf483e1c1bf5cf15eaee75"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-027-barscale.webp",
+      "bytes": 16582,
+      "sha256": "ae442e12d1af006ada0800f0fd69ee8969fffd538606c28993984f33c4c1b783"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-028-barstock.webp",
+      "bytes": 35150,
+      "sha256": "0721a696a9327f8144c7e4487a4dbae641f8b18ccfbef410f359a7193a4f4f74"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-029-both.webp",
+      "bytes": 33104,
+      "sha256": "af9eb9734bb6eb41ea293736d36f934acbae172c6a943a9f505fec4bbcc0ef11"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-030-checkbar.webp",
+      "bytes": 25142,
+      "sha256": "7af3044aa7cb83183f391dd907ad4e83727c163d15c7300837a04360b5e5e332"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-031-countcheck.webp",
+      "bytes": 18992,
+      "sha256": "cddfa522781a64688aad41fbca3f70c04dc4024fdb63a2b6a8ffc108f1d63341"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-032-datadecision.webp",
+      "bytes": 24028,
+      "sha256": "eb615d2f4299a66712d0f5e325ef08e7824a067f19af033e4d17dec8b75d1c14"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-033-decimalcompare.webp",
+      "bytes": 39416,
+      "sha256": "0afc75470346edcbebea5b72fef60a730afafd8e768108aa7efcc6b3c4e60ca2"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-034-decimalequal.webp",
+      "bytes": 31378,
+      "sha256": "a432debcf8dfccd909ee04ee93fdee2dc3c4eb25becaddbe268641a091c679e5"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-035-decimallimit.webp",
+      "bytes": 25308,
+      "sha256": "09bbfff4a3c361dc8076b90362a7e7a8a28910e45543ccf7f83edd2264352b73"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-036-deviation.webp",
+      "bytes": 35776,
+      "sha256": "eb97e16f978ccf4be2eab0a58b62e31b620a56e7e7bcd66e00f5b668a4c2a938"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-037-double.webp",
+      "bytes": 34320,
+      "sha256": "a4c17b1aec25dc307106658aeb4cae8b0fe0976dceb5269f9e3d9aa076e95b91"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-038-doublelist.webp",
+      "bytes": 44496,
+      "sha256": "bf5b971c7b5cb67b4e1d2cb8efa9f5872b3f12d4fcbf27db0f871d24dc3598d8"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-039-drawbar.webp",
+      "bytes": 28614,
+      "sha256": "5cf6daa4869c87a4df8209441f6d9deff58857ab36f10767f8e8c45cde6bbbaa"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-040-estimateenough.webp",
+      "bytes": 24474,
+      "sha256": "31754352a904d87d70e00495eedee98dab14e918ede254c9642f6d79e1b2c7c7"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-041-fractionpicture.webp",
+      "bytes": 29094,
+      "sha256": "47c4987e0c29c7eb471c715f24ccd77ef02dbc3400855a7fa2d80fe55daf9e37"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-042-halflist.webp",
+      "bytes": 25018,
+      "sha256": "be0f8f4f7959acb04a58fe1829f620d68daa1ed5727d344b725338560c5a71e1"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-043-line.webp",
+      "bytes": 28022,
+      "sha256": "a6000c18b3d8d0ab6eb87a5d00531a20e951ecc4dd2133b0b06602b9fb0d2798"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-044-linechange.webp",
+      "bytes": 29910,
+      "sha256": "c5bcfdac36a3aa947851c1431f4e263b900d4e10628a8812f2a1086d1d523255"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-045-linemost.webp",
+      "bytes": 25164,
+      "sha256": "5025d5a42557fedc755e87c0d2786dd201c7941413fee05b82727fba835329a3"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-046-lineread.webp",
+      "bytes": 23770,
+      "sha256": "1ad575e6984c5039b8b175caee16fd65c16be42bec0b27f46d56f082cbfc6f96"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-047-multiply.webp",
+      "bytes": 21438,
+      "sha256": "adc45eddc916e484dc3974dd318b225fd40d1c6fc1c5daaf3bffac296bae72b3"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-048-need.webp",
+      "bytes": 37982,
+      "sha256": "8bb8ece063d0426fbe086176394960ef86fe3ae08eed267554300cd7a331d61c"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-049-percentpicture.webp",
+      "bytes": 33368,
+      "sha256": "7c208aa6fd60a2403b6d6102a88d83403c4a8c67d0479a0b41db0b1751949fa4"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-050-perset.webp",
+      "bytes": 25630,
+      "sha256": "1db337a26c299ec6bc5538f525c3e2f646aa0b13aecbf1e01b969dc31399c64f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-051-ratioread.webp",
+      "bytes": 28688,
+      "sha256": "c49f72152bed670c37466305a213434aa97c2e090bb06348b3841789c88733ec"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-052-ratiounit.webp",
+      "bytes": 32100,
+      "sha256": "815d9aa2a99b7aec2553b56fbb66daf261b262cc9bf17f25a0a4ef42d41b768f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-053-reservepercent.webp",
+      "bytes": 36796,
+      "sha256": "b086d1f9d5dc87daff639cc9f47efc172b2934af054b224fbe71418aa5e7480f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-054-rest.webp",
+      "bytes": 27888,
+      "sha256": "41e950fa5460e4620581342e9d75681913aef023df71a51e6ecfa755f6316928"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-055-round.webp",
+      "bytes": 35178,
+      "sha256": "9c5e32112ad444d93e1955337c0933fcd42237f4fb059ea5ff7ccc4cf0eab5f0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-056-selectdata.webp",
+      "bytes": 28436,
+      "sha256": "95ac0142dc83fa2eb6891d113365d720abac0a404a7e03b5744966b138fb9581"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-057-stockdifference.webp",
+      "bytes": 29870,
+      "sha256": "ed02b1a466fb6e39f7c1a6330bc4b1a20f6939a2202b8ba6536c6f43fd1ed7cd"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-058-stockorder.webp",
+      "bytes": 25414,
+      "sha256": "4ddbf45f96cc7a95d4ad3d5a3c6a2d0df5b86c8795c945b2444face84dad584a"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-059-stockread.webp",
+      "bytes": 31262,
+      "sha256": "6030e1320287cfc005fd53586a6bd641ca51f9ee8926771a54b1bbf77f4e2c99"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-060-stockshortage.webp",
+      "bytes": 25846,
+      "sha256": "d80f99033af43f53f952ba92bb2f32822084d057b3ca8082b2712730d7da0f42"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-061-sumvalues.webp",
+      "bytes": 18972,
+      "sha256": "5a7fb2529db662e56c8c93af8e6f2b9f61bf420d593f2ab82e33b5ff9f34e5eb"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-062-tablebar.webp",
+      "bytes": 31222,
+      "sha256": "bf574754d0ef2d2d663aea2ba8e4f2b40ca004c35ece256e86a35dce40268e3d"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-063-tablecompare.webp",
+      "bytes": 31704,
+      "sha256": "5dd0f251144bef49d3c8663c773df86aa746a0fd86e4ec06b90fa3ec9537a71d"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-064-tableread.webp",
+      "bytes": 35366,
+      "sha256": "17088581ee7a344e5b9e559d5b90d28ae2c5e158aaa81ae2594d8d56d94781e9"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-065-tableunit.webp",
+      "bytes": 22642,
+      "sha256": "c38e635402c305f145f5e422a2006cfc2dd536bb58f64c800155f934f75731cd"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-066-tallymake.webp",
+      "bytes": 18468,
+      "sha256": "cdcc98f9e76c63fee6d7191abe9b042a5809f178e2ceab7cbc59c731b7e03e4b"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-067-tenpercent.webp",
+      "bytes": 38494,
+      "sha256": "564ce9c01dbce80f7a95c7ef728d347e22596394dd6b6ea1bf097613e9eb4e94"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-068-triplelist.webp",
+      "bytes": 37264,
+      "sha256": "c0c1e72ff581343a586b9faf000eda69602bf0d26171534ab5cdc081f8539002"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-069-twentypercent.webp",
+      "bytes": 26728,
+      "sha256": "285fd39bd0627fd60d5a9d7a283a82a5ed1704fed6564970be002443b8e96b99"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-070-priceadd.webp",
+      "bytes": 24534,
+      "sha256": "964b7aa22a955d3950ff5b9d72929af68d50f87e883b88268a2ba3aeb2a6d360"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-071-budget.webp",
+      "bytes": 17242,
+      "sha256": "b2cd7b1c45e500f47d94a56f6dcb7b1e2c0f07c36ef86e9638715da0050e9978"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-072-change.webp",
+      "bytes": 26204,
+      "sha256": "2ca1772bbd68c1bbbcc6d781d5337efb26e9b2eeb15b2e949ba118d413adea2e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-073-discountfinal.webp",
+      "bytes": 21946,
+      "sha256": "54e4a8c5f9a5187d19e01bada9d06fa076205bfefa242229360529cac3bcb894"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-074-duration.webp",
+      "bytes": 39950,
+      "sha256": "2c790a212b2c50ea20aac59a3ad18880a3cd659946bce07a9d1ff4ef75fee20a"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-075-griddistance.webp",
+      "bytes": 43436,
+      "sha256": "0e24de5a9e86da73096d151201b767446053f1a6c28a5b80435eb16a29919469"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-076-offercompare.webp",
+      "bytes": 15544,
+      "sha256": "9219d1811a16c775c9c0ed844511aca7ae9deabe9768c9e65eebb162f62c6ace"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-077-pricemultiply.webp",
+      "bytes": 30042,
+      "sha256": "647f56bfc38951b43f30d57f7ea3b2fabb63c67b3367ad932bdc7dc76e71be51"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-078-scalelength.webp",
+      "bytes": 42186,
+      "sha256": "66d9cdd392d72d257f63ef7e8ee40a41f79a509c0369bae5df7727b3dafcadd7"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-079-starttimeprep.webp",
+      "bytes": 25786,
+      "sha256": "a5639961e2bd30b8168cd5c3bc4557eed10c7385f6181ec61f5b918d4944e345"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-080-unitpricecompare.webp",
+      "bytes": 23588,
+      "sha256": "d6a721a1b42268623287a94b8235b4a42ad8ad73bd671f149ebba5a0e62fa631"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-081-ruler.webp",
+      "bytes": 33202,
+      "sha256": "c655bd8a4575ea339a641953eb2822debc07ac190a0a9bc20460fd7316c53574"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-082-cm.webp",
+      "bytes": 40334,
+      "sha256": "1f5ba7a6b7df66f28fb8c310cb14804027de2a018534ef986ec62501647d2af4"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-083-fit.webp",
+      "bytes": 31082,
+      "sha256": "c32de0d02abe0f178a9f6e2a08ea7355bb9b345ce803ef25400d0a496517595c"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-084-scale.webp",
+      "bytes": 21238,
+      "sha256": "41cc560f8a7549561aa17d5628396b5c9bea1f6313c49153b9328a62bd91ec37"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-085-masscompare.webp",
+      "bytes": 25982,
+      "sha256": "213ede3371a0a3fe4a146b15e7f3bcd536648a08396b355c9bdf9e50b8c7b380"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-086-massrefill.webp",
+      "bytes": 22820,
+      "sha256": "d1ff1f649149d263fd6e0dc3d42e3f2ebe5ea1b6312810529065f26e69ceed42"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-087-jug.webp",
+      "bytes": 31770,
+      "sha256": "eaf3b6a10188700d1f21efdf9cddc04072e1e8ba9f13c414c29a98484d7553b6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-088-volumecompare.webp",
+      "bytes": 27988,
+      "sha256": "dc4c757e721506f6cd034367aad1d327ead7039595f4b2f321aa82b4944280ac"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-089-volumerefill.webp",
+      "bytes": 31048,
+      "sha256": "880fc8f321436faba1d8311100153ba29196993cbf2e5e4878f167cace4832a6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-090-chooselength.webp",
+      "bytes": 26208,
+      "sha256": "6da2d0f0fb5bbbbb7497b803060c9bb234e448bae00ff4694fb95e7a6a44dfbf"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-091-choosemass.webp",
+      "bytes": 18456,
+      "sha256": "41967cc003fa532eae49d6798d77cce03c04e7b2fd23c640db3f2e0f1e3a2e6c"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-092-choosevolume.webp",
+      "bytes": 21820,
+      "sha256": "360f2a8007077cc16dcf7a548eeac96cea94f5aa6a6b1374afddeb62aa704f92"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-093-cmcompare.webp",
+      "bytes": 36960,
+      "sha256": "3b53b8c3286432a72c60adde8b33d307a0877d470faff4ff7a4998b50ee05dbe"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-094-gridstart.webp",
+      "bytes": 50214,
+      "sha256": "811ac6373928a0c1e9910c5d73b1f9100c2bfa22f848235c75f34afd2883fd01"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-095-gridroute.webp",
+      "bytes": 45930,
+      "sha256": "54f4890c9380d5fc12aeff1b6f384caf1a1021a92f10f661d42103816fa68654"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-096-gridcompare.webp",
+      "bytes": 58378,
+      "sha256": "0af9db3e7245d2fc5990659c968a402e88876947c3631e298702b073f21d898b"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-097-gridscale.webp",
+      "bytes": 47498,
+      "sha256": "5722bb60a6da78af77d2a5a5c6638261c62b41fff0472724eb5336d08d03682f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-098-gridlimit.webp",
+      "bytes": 53052,
+      "sha256": "73ef1712e6a74c368f1721d5edb47768751ee7fa52c585327aae33178d9f5e66"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-099-perimeterread.webp",
+      "bytes": 52092,
+      "sha256": "070f038f47a313000aa39c098caa4707e1d15f1cf36cd96ae54742337ad52d36"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-100-perimeter.webp",
+      "bytes": 40504,
+      "sha256": "898b8f37bca42ea3b7a726f6eaead2dd5a29e894966996caa1695f882f8bfc9e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-101-areagrid.webp",
+      "bytes": 33652,
+      "sha256": "2872fa6b7bab3f058e76e49dd03213bda2baa7147e3a6e37d0469455846e31fa"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-102-area.webp",
+      "bytes": 51930,
+      "sha256": "3fc0d0ec161752024918481789955c2fcac8b92997bb4d2554040cd9c08fd5e1"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-103-edgeorarea.webp",
+      "bytes": 56338,
+      "sha256": "5fa9cca42787c8aaeb70066353fc41e29bf4970ee8abb25b62b41012bf9583ae"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-104-formulachoose.webp",
+      "bytes": 42418,
+      "sha256": "dfc0b674e8bd2fdb9880f3f02c08778dd1baa6bc702b9de1f0c93c99d0f3412e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-105-areaoredge.webp",
+      "bytes": 49516,
+      "sha256": "87a8c6bcbdb5d203ef3f03bc0df913422d3e223f0fa61439bd0dd1f456c6e75b"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-106-decimalcm.webp",
+      "bytes": 41986,
+      "sha256": "0dd4ae18eed8a41f1dad0d390c40425c6c699d22870b281a65b43e5baf26177f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-107-decimalfit.webp",
+      "bytes": 33036,
+      "sha256": "11f436976cede7f3c64d113d5f567a6cc7ec7ad381913c0e037f9b4a19ad65cc"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-108-gram.webp",
+      "bytes": 21844,
+      "sha256": "d81884934076d738e62ad292aeb228a5a4f88a18fd85a561d86793e90f404ccd"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-109-convertvolume.webp",
+      "bytes": 32670,
+      "sha256": "4e0f63e4957b41f5dc539729021ccc99a1119da8aad3992b953ef0d8b842ece2"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-110-volumeadd.webp",
+      "bytes": 32658,
+      "sha256": "843c4cc32c2e341197cde046e8e1487d41e85a11de15e96b98298709319d4eee"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-111-volumefit.webp",
+      "bytes": 25816,
+      "sha256": "b72bc16354584d3bc41132460bd2900974b9dec8eb0d93353f1b1e743034d9fd"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-112-smallconvert.webp",
+      "bytes": 37820,
+      "sha256": "f199274d6e937348b7bd7dedb0b4fc5e7f03bcae9a60390742cea44eb7e5e4a3"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-113-smallcompare.webp",
+      "bytes": 34640,
+      "sha256": "601cc28e5279eb02a38bcdded7febd424d7036ee6ac7cd70098c25cfe5964652"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-114-smalldifference.webp",
+      "bytes": 22230,
+      "sha256": "2c0b8504c0b5d8f0fe1495b28ef8c7e4b1a1127e429c3ca0bb202e9653a90d6c"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-115-marginadd.webp",
+      "bytes": 45278,
+      "sha256": "02c81fe262417c48f0b089f9212a6dbbe1c1079461777178bdfd4af91ab4b1b6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-116-marginfit.webp",
+      "bytes": 28098,
+      "sha256": "8433ebf5abb3d0f3b901d1aadd07346c986f447577ea959ed9f13850485ea712"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-117-marginchoose.webp",
+      "bytes": 27384,
+      "sha256": "697595af3abad0d44013496a7008faf19c367d661354f26b13b39c9300f27a1e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-118-volumeroom.webp",
+      "bytes": 40458,
+      "sha256": "4f9dd82fef2e59646f04a24bc366ab6e8b1a6ee852202200ec2917d192e4e079"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-119-scaleread.webp",
+      "bytes": 47048,
+      "sha256": "36b44a9b1718b4a897e695cda9effd530dfff705f3c19effa636ffadd3e75aed"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-120-scalecheck.webp",
+      "bytes": 52062,
+      "sha256": "80764f1774d3e1976d8edcc7222543e2ab7793fc5d582318707ff39a0f4ee257"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-121-routeparts.webp",
+      "bytes": 52104,
+      "sha256": "328f770a146d0ed2d786bad827caba83b91ba1545da04027eb7d3c57de0a10eb"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-122-routescale.webp",
+      "bytes": 49616,
+      "sha256": "92672770d825bb0c87a285341cbf54af4872f4666508cd5014a49a66abe4af2c"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-123-routecompare.webp",
+      "bytes": 58850,
+      "sha256": "c4cc4d8fb8f55fc0ebe9a88887373255fa08546de8ddd0a819c68c9e36e36d70"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-124-perimeteropen.webp",
+      "bytes": 44288,
+      "sha256": "101354033999b68f4400dde62f9d9b32957e08c4a29a3a2c3ec387138ae16ea6"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-125-halfsides.webp",
+      "bytes": 58794,
+      "sha256": "1e8f2550775dd599a2709f0a8afdaac6de2a82a36695eb3770ea98547a65b0b7"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-126-areahalf.webp",
+      "bytes": 48616,
+      "sha256": "42801a20188ad410ac4a598ed3e80fde4ce4ab93d19ab15b39d39285350017c0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-127-coverageread.webp",
+      "bytes": 48598,
+      "sha256": "b3d07419c1bf3f79c552e4e27a1bb0f35d6cf7b70b97ef48b2891f36a89491a7"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-128-coveragerest.webp",
+      "bytes": 49542,
+      "sha256": "2b65bc8c95854f131c3dca1772dc89e7d980480e94fea20cecb3e7d2c2c12e92"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-129-coveragepacks.webp",
+      "bytes": 48112,
+      "sha256": "5dcd9325af1c310a6c53ee6ae4cc2486a04ed13c8d1c9388994043396d94c959"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-130-readruler.webp",
+      "bytes": 33896,
+      "sha256": "f5faae7b28b4b680bf10ccd2a8320af140e6721c18df900b846d1d2d041430d0"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-131-readtape.webp",
+      "bytes": 47478,
+      "sha256": "4cf2fd6201f93adb20c3301a2ee4778add956a669423ab7d2fcfa4fe1fb4409f"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-132-offsetruler.webp",
+      "bytes": 32442,
+      "sha256": "6509adf64a17f3f7ac69af256ed896977a2f6cabd4fe1146ca6088b670dc5f1a"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-133-marklength.webp",
+      "bytes": 21758,
+      "sha256": "d7617e6cb97e50f941150ba0eda7dc2b3c90ab21bfa37fefa41d3c60a21f7dce"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-134-readdigital.webp",
+      "bytes": 16776,
+      "sha256": "c94869aaad81d52d476df9533d26d53cbae3489a16a1ce1be3b706c774d91cd8"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-135-readdial.webp",
+      "bytes": 15770,
+      "sha256": "9c6240624d31c5f950bda9f2de13b2575d0da4217e3e57ac02a0e811e361340e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-136-tarescale.webp",
+      "bytes": 20816,
+      "sha256": "ea38d4fcff094eacd71fd79629e1aaff4eae8ffafd8671cf8fc553491433783e"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-137-fillmass.webp",
+      "bytes": 19694,
+      "sha256": "1b8c6c5cd1cef9d62dac9cfc477a74a4f7ab9ceefa78469570136094045907f7"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-138-readjug.webp",
+      "bytes": 37916,
+      "sha256": "771d34c2043bfae017fbee411c6fe8255b1dce871800f831ae14fb15405bd61d"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-139-jugintervals.webp",
+      "bytes": 17370,
+      "sha256": "7a9ff0f78f060a86f65e497a7f5c36ab634649ca08b4d0bc92d48afee07e46af"
+    },
+    {
+      "path": "assets/photo-bank/images/groen-140-borderorsurface.webp",
+      "bytes": 46708,
+      "sha256": "9ff9ba07005ef4eb6559fcf85a64683f9374f1561f71587c43a871f547b7e7fb"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-001-bridge.webp",
+      "bytes": 24026,
+      "sha256": "3f9be321be09ac53b2cff47ad508047a79a42b30a4ad8448b927037de5750d03"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-002-ratioviaone.webp",
+      "bytes": 23738,
+      "sha256": "e4edc88fffcf0fa65bb85591bfde5ba4b16a3e238f2a54af65a82e8f20ba1c31"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-003-count.webp",
+      "bytes": 22646,
+      "sha256": "6c7b9a9aa42a89bb4907ba1493d4f42e02393755ecc818ccb8f4791dd2ed1b4e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-004-divide.webp",
+      "bytes": 18506,
+      "sha256": "6df5b75a2235e77434a1e460958709b7b3b12c4e28c9a80b590a49b5b0b7abe0"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-005-half.webp",
+      "bytes": 23160,
+      "sha256": "5f35e4ff638bd97ece39c30f4e8b49b8a6ffd1f7869d563097d4b6bf6674f5b8"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-006-quarter.webp",
+      "bytes": 17858,
+      "sha256": "aeebf07664ab1e24c22690a5f16d4b0dbe0d8e076d7a19d0be253c6c3f8e4cdd"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-007-ratioscale.webp",
+      "bytes": 18976,
+      "sha256": "84ad5c94f8ec93289ded79a9744804c80633c60319346ce23dc245b8246cb431"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-008-sets.webp",
+      "bytes": 20904,
+      "sha256": "bad6a93969073761c714f5c9153c0244828dd1ce3a91b0d5c8e91e05b567f22c"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-009-sub.webp",
+      "bytes": 24044,
+      "sha256": "f81bd9ef2c9b0c7aa294d1dd883cc7bdcf0923f5aab2efbb212d6f5d5a74ac50"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-010-bardifference.webp",
+      "bytes": 17218,
+      "sha256": "bba3b4ba6ad8918a969ff200fcd91c3d41e4bfc3588af273294ca53e99f7bd36"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-011-columnadd.webp",
+      "bytes": 17684,
+      "sha256": "6ae0517cbc914aac97f329639447e24b4dd1bda7586848b280eea7340ea635cc"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-012-columnsub.webp",
+      "bytes": 23358,
+      "sha256": "c53cfde0434b4f10e62748246322224980007fc491ed6b260ebcd268415503f0"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-013-diff.webp",
+      "bytes": 19706,
+      "sha256": "c931b05d3505c5ec52816b9f1b6e8375ff13b83b2b3010a586d1790895caaaed"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-014-estimate.webp",
+      "bytes": 33816,
+      "sha256": "9043e802e92fdc878d78d515e6476dd7d5bdd3a564967de7d08090b32067d9f8"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-015-pack.webp",
+      "bytes": 25926,
+      "sha256": "0f1c81652c1fff183518a8fe7e27bb900ebf6fb169ba6a50f54cac80e4a2006a"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-016-percentpart.webp",
+      "bytes": 22190,
+      "sha256": "4b55cf480ffc72503fd2779409965fbcf312578720ee4060a79b5e4458d56f94"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-017-refill.webp",
+      "bytes": 18382,
+      "sha256": "e5fb7c6bf57ab0f09f06cbf17a50c449ad8c7024480e677f6877f5f7d029c02b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-018-stock.webp",
+      "bytes": 19254,
+      "sha256": "fdae6563ef23a80a38865d297bac1a7ae830322c79a6ce2c2008970aab24173f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-019-stocktable.webp",
+      "bytes": 18592,
+      "sha256": "eb6acc794b51849b2a407def32c0430b7c5da5ee86aa8608508c3333a723d1fa"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-020-tabledifference.webp",
+      "bytes": 19260,
+      "sha256": "da116a9479be69d7cde8bd3775f294b71a15719aa67e1743f56fd68585017a9d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-021-tallyread.webp",
+      "bytes": 24624,
+      "sha256": "453adbdb25466300dee222a70fa15f35d2895b2f38c9b41a9b2141cd21ea5626"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-022-add.webp",
+      "bytes": 25046,
+      "sha256": "ed1e907aebd2c2974f714e849dff4b3344222ec5ca3c7c3eca399910e3547e16"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-023-average.webp",
+      "bytes": 22076,
+      "sha256": "146a61f0315e31fd3155338c087dcb937a56e8c57f694922b1fa95bd9b6ea8b1"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-024-averagedecision.webp",
+      "bytes": 14172,
+      "sha256": "e4e39478da37baef5c3655e2bc0a8a22a4e4713b549fc9cc553683d0be34ab48"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-025-barminimum.webp",
+      "bytes": 17172,
+      "sha256": "2ffde98cb26163d813027b00fe4e70c29a128033ddba6c8972ff7ffe0a5f3473"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-026-barread.webp",
+      "bytes": 23970,
+      "sha256": "ea59de14f322118616ec8d29a659a1e0748098fe3f8ed0d636031b8cb670e7ef"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-027-barscale.webp",
+      "bytes": 24994,
+      "sha256": "7a7e3a6bb12159330292e1059de4d3a5e40268d468f6b9ba23a93b4233fca126"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-028-barstock.webp",
+      "bytes": 20238,
+      "sha256": "cd327b600e720c2bfad8ea228e3323260b9513228c08663dc8e3a59bdf42faa7"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-029-both.webp",
+      "bytes": 17896,
+      "sha256": "87e4316c2b5904f29fbe8860a2bc43ea04f1936860983cf164fc973d6100e61f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-030-checkbar.webp",
+      "bytes": 29388,
+      "sha256": "5fce1242841087cea79489d9cc499290e07cc2fd3bd6b65a013a526f8380d22e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-031-countcheck.webp",
+      "bytes": 18714,
+      "sha256": "90db9dd9e1d64067b0b94901e2eebf970b19b727952045a3b9e90d744efe3e4b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-032-datadecision.webp",
+      "bytes": 13624,
+      "sha256": "34d479a887c8fb28869f3fd02a8b4ebb4423e545f971bc6ce5100b57ea8563af"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-033-decimalcompare.webp",
+      "bytes": 19890,
+      "sha256": "eca5c98484adaff08baab8c1461526c0969279c6ba93c607a3c24b196bda6fbb"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-034-decimalequal.webp",
+      "bytes": 17048,
+      "sha256": "81f649915a8f200d620fe52e69462e003c8aeddbfca3dcffcf93ca0f9d05c447"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-035-decimallimit.webp",
+      "bytes": 14308,
+      "sha256": "597c9ebc8340ae1ff7273bd28eed8658744a0dc4b3faa71a5924add464d9a22a"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-036-deviation.webp",
+      "bytes": 20376,
+      "sha256": "92787993eeeb80c85da05f214385885ff82ced67a753278a9996818d10f55eff"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-037-double.webp",
+      "bytes": 18556,
+      "sha256": "be674f30af3ef770b242dd1488977e56b898f6cf0344d2a890ba0333b5a9b017"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-038-doublelist.webp",
+      "bytes": 22276,
+      "sha256": "a4b448286d27f4c2516e9cc284e67dbb5bec945ffa7e1224ba38c45ad9086f3e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-039-drawbar.webp",
+      "bytes": 15804,
+      "sha256": "8cefbbf5e4b7e1613fbf93acd5c23e09c3bdcad91873be97fc9560f922613e80"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-040-estimateenough.webp",
+      "bytes": 24286,
+      "sha256": "e78e8a6965e40f7849feccdc01a5b0934b0bc26cc6cbe4d4b56d7949e84ffc0b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-041-fractionpicture.webp",
+      "bytes": 22010,
+      "sha256": "4591d3114a0761407c9cf239c1e51240ee6e1bc1d6e237348cb50189617f58b3"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-042-halflist.webp",
+      "bytes": 19584,
+      "sha256": "fd771e622f32188f99eb46f9a947852c88cc4161f5d32009f1d47417bcc4963b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-043-line.webp",
+      "bytes": 15484,
+      "sha256": "74ec9db5f55e55dfeb84b1c20c19989b9a953c1fd2426abd6cff05cd54e2111d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-044-linechange.webp",
+      "bytes": 21694,
+      "sha256": "d69421c70b729adc7f41c9affbbec5d461428e8cee23935be4e48928121c2ea1"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-045-linemost.webp",
+      "bytes": 15128,
+      "sha256": "725a3ec62ed1d1c431fd3b312790439a5dbd43c8e9a7672f931db71e981f32a6"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-046-lineread.webp",
+      "bytes": 17846,
+      "sha256": "1302d84881c4cb26882ce25f2f1c03cec1bac07db36b0eb90bea0f95ab3fa827"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-047-multiply.webp",
+      "bytes": 16628,
+      "sha256": "90422e8e2d0a55e2b2913cfeb92ec9e220d3593762587e11af85d773f0b7005d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-048-need.webp",
+      "bytes": 21320,
+      "sha256": "3473079fdf997d0229c4781d602df9a351c1d6765aa5aae72089473151cbda9b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-049-percentpicture.webp",
+      "bytes": 18680,
+      "sha256": "4a1bb5041f9ba15b2af8a7d24eba36ba187bff7ece71e9f2d64c6864e9dbbb71"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-050-perset.webp",
+      "bytes": 18274,
+      "sha256": "596638b1b5e5836f95ef7793de26256ac22b2a1a83d8c8165f037ded11f1aa88"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-051-ratioread.webp",
+      "bytes": 18894,
+      "sha256": "2b134881ead59cf8b1a81901479bd5a0cfc6af249477409688206ee2f5b0b3d9"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-052-ratiounit.webp",
+      "bytes": 24860,
+      "sha256": "574795270d87d3dd735eda6a737a27fe270dc0d374831a11cf41cd5a60ebfa47"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-053-reservepercent.webp",
+      "bytes": 26182,
+      "sha256": "a4f8c38bb3736ee6a87de607ae825af68d4c60727ec433a06616aa135b5432b3"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-054-rest.webp",
+      "bytes": 26450,
+      "sha256": "c5606c588393357475e6124e3af8c36d735e59045b05fa2dcdb584373406bda8"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-055-round.webp",
+      "bytes": 22870,
+      "sha256": "e3821b41ddca10006059741825227ac7be2fd1ba7cf04b395d8607d4f2f05660"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-056-selectdata.webp",
+      "bytes": 16762,
+      "sha256": "8d6a3ff9de668142da5d64d2c06383dc4614b07eb0777b62d5c72cf33330ceeb"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-057-stockdifference.webp",
+      "bytes": 22668,
+      "sha256": "570691892ae04b65a1221adce21d5819017e4876a3c3cda8ca6556aae744cfa4"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-058-stockorder.webp",
+      "bytes": 16520,
+      "sha256": "75b9d4dc3cecdf138707496cc8b2200358ff15ee8c3c75affab2fd7315a0918c"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-059-stockread.webp",
+      "bytes": 17254,
+      "sha256": "ad58e048d1b438e4671f8eb4244377d7af1c6a65aaa8d31822e117a261e78330"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-060-stockshortage.webp",
+      "bytes": 19350,
+      "sha256": "bf3768a6b6dbd8aa8e20b87b9efcadf5d4e9779fe20788b76fb667f45a11781f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-061-sumvalues.webp",
+      "bytes": 24162,
+      "sha256": "ca9059cf9318fef2a320cd4f02353a917908652f60d71b5dc96bd1a9f5388480"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-062-tablebar.webp",
+      "bytes": 15724,
+      "sha256": "97c50df041296578da3d7f71ea3a82c80972ad6e597b7457c122b837a9c2ef7a"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-063-tablecompare.webp",
+      "bytes": 15590,
+      "sha256": "c59117c4d8b53fc876aa5cf04dee0ab803420c9575367dd63bb06fe1ecd421df"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-064-tableread.webp",
+      "bytes": 18126,
+      "sha256": "341f942b558bca531dbb98f7fb30892c2bb2b26b90a69cc7e20b36962c65a2e4"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-065-tableunit.webp",
+      "bytes": 21866,
+      "sha256": "8bca964f266a0139a9395b8656db7d08c253a3f203d3a75c6afed2168b8c802d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-066-tallymake.webp",
+      "bytes": 18884,
+      "sha256": "99b2e33454fbe0d28565afd6fdb883164a5fd13f3ca2c1498b57d7336edb7814"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-067-tenpercent.webp",
+      "bytes": 19538,
+      "sha256": "aacdeed973a55023f43b74f5397ce49b686c79bb1767cab537c4c3e51786bac4"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-068-triplelist.webp",
+      "bytes": 17868,
+      "sha256": "19d1796a099bb8c2f514e8481c1f029539e200181e332096449c468ed85b83bc"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-069-twentypercent.webp",
+      "bytes": 27418,
+      "sha256": "12c2ef70aee7a865a0fbe9f10a20b61f15b5e1184f0d753d02a30260e8d457c5"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-070-priceadd.webp",
+      "bytes": 21012,
+      "sha256": "1a93e756796b793a17cb283ad7c5b11039a42661bd4c37d9f41e1f0cf703558e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-071-budget.webp",
+      "bytes": 13320,
+      "sha256": "4bb7e8fe5611652bcbcd42401b73105e01482aa9e86182f3080a09e8a3c79ae1"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-072-change.webp",
+      "bytes": 27104,
+      "sha256": "cf152ade876a32da6ffd73ceebb672d77f16bb315680e42123ce8b23a43b53e8"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-073-discountfinal.webp",
+      "bytes": 23726,
+      "sha256": "9f563f9c279b3742a5a493bc47ba38d704f0b9f2fa2753c0c33f3dfef6a8e144"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-074-duration.webp",
+      "bytes": 23728,
+      "sha256": "19516a2925cba514999f9f6386bf44208d15cebac6474c89f61d887d5ec42c6d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-075-griddistance.webp",
+      "bytes": 20734,
+      "sha256": "8f0927a80fe0f81c74a2a902a7738fadaa22526806eed5dfcd41134ec2be5833"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-076-offercompare.webp",
+      "bytes": 16186,
+      "sha256": "d67c87c411807486eb2d2a1693ae3aff47d9b0cb202436022f3394148cf53832"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-077-pricemultiply.webp",
+      "bytes": 15544,
+      "sha256": "6e7b028858515034518ae37460e372b0ceb1f8f4c07acc4a2eaa9636bc80a068"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-078-scalelength.webp",
+      "bytes": 24626,
+      "sha256": "4f2a6d4001e7ad3b82d507ddbf54ed4e7c26a393d36d5000f7cee6bb8fe39f7d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-079-starttimeprep.webp",
+      "bytes": 22048,
+      "sha256": "a41ee59ce408bc8ddadf5b79c50f9d39c21de48193493563010ae4df30d502ba"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-080-unitpricecompare.webp",
+      "bytes": 12484,
+      "sha256": "2e18ed70fdbe84e1da2abc20f7db73c0fb14c350ea63b95f12c53fd3fb47c49d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-081-ruler.webp",
+      "bytes": 18834,
+      "sha256": "8f349092020827f553e82334ec98ca8d58ab42a0ad8e96ee7af05642a0081840"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-082-cm.webp",
+      "bytes": 31628,
+      "sha256": "8a2b3bad4ad287ee2674e1f302f91821aa1e8ba688094c8d22f493ffea405fb5"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-083-fit.webp",
+      "bytes": 21612,
+      "sha256": "dfaf70d34cfb55486bb4acf6a010167ad0d525597e35f1bca94e9f77f48b0759"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-084-scale.webp",
+      "bytes": 24850,
+      "sha256": "69db3feff1b8c11c5d37cadbf5076cc9a5799eebf1f8b0d26a07bff888b526a9"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-085-masscompare.webp",
+      "bytes": 23614,
+      "sha256": "c0239271091fd6a9167f9c9ee596774cc89dbc4248230753f83a14ee75fe9f17"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-086-massrefill.webp",
+      "bytes": 23906,
+      "sha256": "bd84df2acb3c2b0cd630d7d2d5faa29baa87ce6052df10eb20844ea2eb3e6180"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-087-jug.webp",
+      "bytes": 12312,
+      "sha256": "95b324db37b46978767e848f665812ad6da8ea09802e943f142a883c8f9a1d10"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-088-volumecompare.webp",
+      "bytes": 13056,
+      "sha256": "4a549cb7106f46107015a9daccdd31dffe9df8f228133f5074ba1949f30d31c2"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-089-volumerefill.webp",
+      "bytes": 14172,
+      "sha256": "a07f9dbd280cf0046a6725493680ef89957874ba5ac0783fc4d82c72145ce1e1"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-090-chooselength.webp",
+      "bytes": 13366,
+      "sha256": "82c9d21bd9aab78eaabdc88f4644139bf956abf8a7d1250aacd2e969aa21161b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-091-choosemass.webp",
+      "bytes": 12956,
+      "sha256": "64fb49fdb365ccf468a449eafcf396c6b8786bdb1cae9cb855589aeb257bc71f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-092-choosevolume.webp",
+      "bytes": 12738,
+      "sha256": "2bb84a7aa558247dfa343a8ee6be3f73970be21475a059f8ade851111d9fc58b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-093-cmcompare.webp",
+      "bytes": 24456,
+      "sha256": "8d38bd684fc0956cf7c42a06cf470b2fb04f1f63bf7357dd372442ba7b00e3e1"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-094-gridstart.webp",
+      "bytes": 23188,
+      "sha256": "5bd62372423a4370de90ffae01463021eb3155d6ff62ce6f7b1a4f9cadd1dd2d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-095-gridroute.webp",
+      "bytes": 19352,
+      "sha256": "542b8f5b9a525c21839b2d0b32fddc4c46fe7eba641bbba6186b0ce92a9bce27"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-096-gridcompare.webp",
+      "bytes": 34908,
+      "sha256": "8c158f489d59e2aa810c11047971a2ea4a2ead44bd7c6f052e456348154b8d53"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-097-gridscale.webp",
+      "bytes": 32524,
+      "sha256": "dfaa11e5b632fb061a97eabfe4268ae2319d86ba76c272e8574a4da4f5eb4534"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-098-gridlimit.webp",
+      "bytes": 24360,
+      "sha256": "4578ea13c32950e52f88f8e7359301961a584c32ab6ae9cd5a1a5adb86f2a1f4"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-099-perimeterread.webp",
+      "bytes": 20970,
+      "sha256": "9109ee799599713fb9e3507c418e6d55695f1dc588fcc74a4feca60b6917ee85"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-100-perimeter.webp",
+      "bytes": 22380,
+      "sha256": "3a94c09a47360d2f6a1eeaa7c9712c6290d010fccf3087edcd7dd1430c91291b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-101-areagrid.webp",
+      "bytes": 21770,
+      "sha256": "f3e2b56e7b845e9c8e9e2ade67b651725d93459c8857c88194afd21ea5a6619f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-102-area.webp",
+      "bytes": 26812,
+      "sha256": "bcdc080e0b6e53578d7fb95ff854573950bc36573c76460a73f906a11305596b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-103-edgeorarea.webp",
+      "bytes": 22410,
+      "sha256": "17615a8644c23727f50bc70d31b4752d4150fee6b1f7dbe2b77efc9a6eaa2289"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-104-formulachoose.webp",
+      "bytes": 37058,
+      "sha256": "74b2b6203a08bbc44477e03d2ffbdd3f41dfee6b5ff3abe930aabf1539393603"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-105-areaoredge.webp",
+      "bytes": 34566,
+      "sha256": "daae835ca90b85925c44b30ad6688beb9a834fe8b5031e387aa8c8679e0022b5"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-106-decimalcm.webp",
+      "bytes": 29248,
+      "sha256": "9e8af302001532b1d6c264d5d5d82943730d8a253e3dc6ee36c7b4d09154d8c3"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-107-decimalfit.webp",
+      "bytes": 25068,
+      "sha256": "99087687142fc0f64c9f4338e571b958da99958b812e70398a7d05add8aa575d"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-108-gram.webp",
+      "bytes": 24062,
+      "sha256": "7664b89cda3263294b001fc575271569882881f7db843e39ea10e25fbc3e4c20"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-109-convertvolume.webp",
+      "bytes": 18654,
+      "sha256": "f485b3da0c8d54bb0c777c23471fe4d68144dcfc7ae059062b61ea50694b7845"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-110-volumeadd.webp",
+      "bytes": 18356,
+      "sha256": "b5b4d4ea5af1c4260fe33b4305189846ec74dcb701e584d75b34817b324a08e7"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-111-volumefit.webp",
+      "bytes": 18442,
+      "sha256": "e01d7aa46c23e74bc71bf28bf94765cf43e5064a1a0504c780395010884f44df"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-112-smallconvert.webp",
+      "bytes": 20974,
+      "sha256": "7014154c505bcb019b2d1d8c6895bb660b248a66a5b786e2a39089a80654521e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-113-smallcompare.webp",
+      "bytes": 21746,
+      "sha256": "a6972d226f59702882ea8638d3a1bb99acbd40e7f509eec9cd8f568ac955bc9f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-114-smalldifference.webp",
+      "bytes": 24272,
+      "sha256": "82fff38f1211c0df7984870ff5dc4f4a30302f94b2e6cfc1ea73d4ad238abe1b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-115-marginadd.webp",
+      "bytes": 20312,
+      "sha256": "ed3ddfb3bfd3b689a1a9660cf8b89a79dba1445de7e01c0b9eea5a02efe8b0ab"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-116-marginfit.webp",
+      "bytes": 17362,
+      "sha256": "b4cadcb7da452784beb4d84731e1262c416b767e9a884aedfa0d8783cbe11548"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-117-marginchoose.webp",
+      "bytes": 29604,
+      "sha256": "c22d0e0cdf392b1e842b718e93a954ee08cd75f2146fa6e36b729e5609ed25ab"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-118-volumeroom.webp",
+      "bytes": 20028,
+      "sha256": "71cd4ff7018e995e2727397a249e8455a870425328774603440e7809aa306a93"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-119-scaleread.webp",
+      "bytes": 35656,
+      "sha256": "411da8ccca45c0e384d7e513568f16f2a09e5710a922495117b735d68312a7f7"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-120-scalecheck.webp",
+      "bytes": 34620,
+      "sha256": "0bb026a252ad50b82b327f638fcbb1183350950086bb56b6e92926cd9f0e7b85"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-121-routeparts.webp",
+      "bytes": 38398,
+      "sha256": "7a342ca2e4c0725fbbcdee131e769c0d369fa56569fdf991a0e7fc3f0987e162"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-122-routescale.webp",
+      "bytes": 25918,
+      "sha256": "fa2fdd499b92153859d9774103e570bebfa45b3e8a180f84aa4781fe6b54c3af"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-123-routecompare.webp",
+      "bytes": 30600,
+      "sha256": "48dec9991461d316e2666942db08ef317368f6038747510cf8260fb853a6f9ff"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-124-perimeteropen.webp",
+      "bytes": 25606,
+      "sha256": "ed50e5b566760ddf1c7932797fc8c725ade5d49e3529d7681d4226947912979f"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-125-halfsides.webp",
+      "bytes": 20246,
+      "sha256": "dcd1dc31568e90984664b6c77776b5dcd5e5ac11428ad636785f3c8aa2715458"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-126-areahalf.webp",
+      "bytes": 34156,
+      "sha256": "c554de8818c191cbf736f89e92460d45734d30f41e5edddc08afbcaeb023c166"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-127-coverageread.webp",
+      "bytes": 23700,
+      "sha256": "d2fff3a4873233984db10122b2453af9fca32d853996f0187bd7186055b817c7"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-128-coveragerest.webp",
+      "bytes": 25456,
+      "sha256": "d44b53b7d47c50eb08c531cf950c5e952fd7536a4074ceee52472ae8d6a2bed3"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-129-coveragepacks.webp",
+      "bytes": 39968,
+      "sha256": "b1da13b7e244abe0731f7a61f2de7329209bc1235a6accc0332d254a86fc3199"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-130-readruler.webp",
+      "bytes": 35048,
+      "sha256": "3989d41f875c99cfa7c86b1a04bef0e523b0354b9467f151cd1d2aff867aff7b"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-131-readtape.webp",
+      "bytes": 31932,
+      "sha256": "133b55a58cd39e9442f48f2a306447e940b57c1b9e29190f66c170dfb61dfd80"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-132-offsetruler.webp",
+      "bytes": 26234,
+      "sha256": "1eb42095d40ddc05cc310a22cccf16742acb7335883fc181895253e886bc9d59"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-133-marklength.webp",
+      "bytes": 22826,
+      "sha256": "22619bc66082716039c68ecfda9011f3ba8b79f0fe745fa5a6f7b15655a22e00"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-134-readdigital.webp",
+      "bytes": 26700,
+      "sha256": "999463038be96b610d953e667b2388b4afe0208ea45f62d9071c42980d6efcfb"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-135-readdial.webp",
+      "bytes": 23870,
+      "sha256": "e84c8f291cd101fb253135070bf9f472eaff6b1adbff76dd4570729bb7d9660e"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-136-tarescale.webp",
+      "bytes": 25356,
+      "sha256": "5115ee63679cb2e8d21e5d3922f2ec5f66e86ace45de18f508a36a5d8500edfb"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-137-fillmass.webp",
+      "bytes": 26828,
+      "sha256": "a7e7522c6c5121f85e54c913a651ad04af6f9d469d3581c090b507bcfb19c5bf"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-138-readjug.webp",
+      "bytes": 15970,
+      "sha256": "93107876e34ddec93c79465fd816cdacfa2226c2ede98660f9435e70e0fa53dd"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-139-jugintervals.webp",
+      "bytes": 12308,
+      "sha256": "ae3a8c91d73eb43ac2d774215e52aa37fca770e7457d332bf718fa7c4982609c"
+    },
+    {
+      "path": "assets/photo-bank/images/hbr-140-borderorsurface.webp",
+      "bytes": 35178,
+      "sha256": "3ac6199c5f1e53c0bef65aec4639d9b9cb95db0754c2ff84b954e7bb459be8dc"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-001-bridge.webp",
+      "bytes": 23032,
+      "sha256": "75e0f8318ad6b7ddc90323c8e382897fa3dd4018d76b80c9213fcc01cd05bf8c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-002-ratioviaone.webp",
+      "bytes": 24152,
+      "sha256": "b7ed0690479b4d846b64163e67b35743760668e638be7fff6c8bfdb2bc62cfa1"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-003-count.webp",
+      "bytes": 21832,
+      "sha256": "6a656f7d75ea79f65408720488b56ea0477876115f6fba338d1faa36adb60c2e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-004-divide.webp",
+      "bytes": 23172,
+      "sha256": "6157a82e31bdfb98b4dd76f6407c5998a3b247d94df303d2cc073e8ab403beb2"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-005-half.webp",
+      "bytes": 20432,
+      "sha256": "6e02e49e01a0359742b5e0e106b83f53777b4b52820339d1d49818b1f7223255"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-006-quarter.webp",
+      "bytes": 22166,
+      "sha256": "3cb15f6817676ad8adc06bb94852241d4b165735e274946f18674c5c8a0a0cce"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-007-ratioscale.webp",
+      "bytes": 26782,
+      "sha256": "aa06fdbad84ff71e38160f4165e1efb9d3a26adbe03c0e219b23ea76812c82b2"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-008-sets.webp",
+      "bytes": 21254,
+      "sha256": "22f9feaa3a1e32daccc29ed5d07f63783d690398e7c7a06af7f1073db1419cf0"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-009-sub.webp",
+      "bytes": 20958,
+      "sha256": "93687926d11f49baa00a8cf22ce595b9bc30e778ca8abd2147ff2c50cab4dfbf"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-010-bardifference.webp",
+      "bytes": 24488,
+      "sha256": "41a068d41a160f1e929fa467dd4b669f2fd93cb9574ea7b6bc0d030070954be1"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-011-columnadd.webp",
+      "bytes": 22620,
+      "sha256": "cae3fad7006b945d0721a9484f7842461d2fdfec371ec752bc08f2c8a60cb873"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-012-columnsub.webp",
+      "bytes": 17142,
+      "sha256": "5c06da85215b63cb8662027712608d4914272f6b4038e6d61fa5536925f9c875"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-013-diff.webp",
+      "bytes": 19314,
+      "sha256": "c67fab74279ef2e0a35b4d5f6967ad6ac4a0c25b9fb3b737bb5a6d5761781ea9"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-014-estimate.webp",
+      "bytes": 27046,
+      "sha256": "6f287130b0c452edd0b69aa4965137236077361b4b24b97fa097b03ea3aed7dd"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-015-pack.webp",
+      "bytes": 24530,
+      "sha256": "3dab310b2158f46c8ba515680148c7fd515bf5a8c4af67da84d60ffddb42b0c4"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-016-percentpart.webp",
+      "bytes": 23896,
+      "sha256": "2a0b2333f6c8efa1f133fddf63371a2a236678b6c2cdebb7b44f555ada291a3a"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-017-refill.webp",
+      "bytes": 21302,
+      "sha256": "074ad9a873a08e3864913341c30ff59d9a6d2603d6f88ed885f8d3a92ed45f23"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-018-stock.webp",
+      "bytes": 22116,
+      "sha256": "a0d3d96d103cde070477771b5603cf5e58b79694da44bf15c961fbb7853595de"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-019-stocktable.webp",
+      "bytes": 23260,
+      "sha256": "2ae7d6199268c60e943a93c2d43dbd07eabb715b5192b4297e1b5ed99c84fcc1"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-020-tabledifference.webp",
+      "bytes": 20182,
+      "sha256": "99198f17761a7e13d30023529b60909af1ffed69998ef5d11788cc3960d38baf"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-021-tallyread.webp",
+      "bytes": 18472,
+      "sha256": "606861bd02e0e10de58f79169b9bbcf138e15ff716952a14d772fcc3a248a904"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-022-add.webp",
+      "bytes": 25908,
+      "sha256": "f6d2cb02cb3ae83c02b8c7377668784ab7332def1b9107b55f1a62616d86106f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-023-average.webp",
+      "bytes": 17470,
+      "sha256": "f865bee3c68b34267b0823154dd0ed2814143dc7b6968ccb80867a6f57a07f05"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-024-averagedecision.webp",
+      "bytes": 23290,
+      "sha256": "ed8929e7ea35fd85a4424bbe7ab71a40bf9de5fb574f5932bb7e27788304ce30"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-025-barminimum.webp",
+      "bytes": 22396,
+      "sha256": "176c5e5b08413ab6a7d4bc26ce42c9c00d6424b9a8b5957b83c6c0c47d4953ca"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-026-barread.webp",
+      "bytes": 16818,
+      "sha256": "077aa82777acbb2dd07251269b326a34f9c03eccaf20f9534170751b86b754e0"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-027-barscale.webp",
+      "bytes": 25142,
+      "sha256": "653ce153b82918736a321319e315da116ae15b3028e0ce5a09e993a8a9134ee1"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-028-barstock.webp",
+      "bytes": 21686,
+      "sha256": "c7b283ad9245b805096d0eb6bf8846fcf67d0de6b2af928346ed689bf9a9a333"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-029-both.webp",
+      "bytes": 21664,
+      "sha256": "213321afc01a2cbf2556ea9b633ed8a4b5d657d43c7505d9d2faf9165c412c27"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-030-checkbar.webp",
+      "bytes": 21102,
+      "sha256": "fdf2755baa85d174ad5c73492ae73c5ec4fa38d34957f9eb0463d2f7fefaea68"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-031-countcheck.webp",
+      "bytes": 17368,
+      "sha256": "9f4e2dbcca42dad936d1020b76e3ba270f221bf6b984c11d388dbc6131ce5e7a"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-032-datadecision.webp",
+      "bytes": 20266,
+      "sha256": "cb62e16f36f4d4b680a5a51cdaa2e49e75f0660b1bb5df6534ad99361e135fb5"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-033-decimalcompare.webp",
+      "bytes": 18972,
+      "sha256": "98eb977d5e2db652439efb51b95ac0cb99fb1939501709f68952b0a1c6eb2343"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-034-decimalequal.webp",
+      "bytes": 19068,
+      "sha256": "98567121190d47efb15cc3ef474a27db11155f7d95af8b94bac94fcb44ea87e2"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-035-decimallimit.webp",
+      "bytes": 22352,
+      "sha256": "ccf2474e6090b2f78921e98df79799163860b31323d73be1a6a931c92e77531e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-036-deviation.webp",
+      "bytes": 19626,
+      "sha256": "78e957cda2701799bcac6229ff2f6779b03eec5a03457ab337aea3d9798d0c63"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-037-double.webp",
+      "bytes": 23142,
+      "sha256": "d97efe13e89d78ed4b17b6eb22b0b75e1d6abf829ea52a7ae717b3f0ae9fb87f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-038-doublelist.webp",
+      "bytes": 26950,
+      "sha256": "dd36eb6f573136665e0ae59192caa3615b82aceb9e6c85302ece5e6f6f0b53bd"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-039-drawbar.webp",
+      "bytes": 27708,
+      "sha256": "ffb931c5f77b97cc88082cef92218dc6c833405479bfba5532c11f54dcd04753"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-040-estimateenough.webp",
+      "bytes": 20792,
+      "sha256": "44eb14303e579bc8827e9ce48535fa907c7ea72ac179700c50d38c6ab4d1c0fb"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-041-fractionpicture.webp",
+      "bytes": 24632,
+      "sha256": "109b59155aa5a5c43a0e82df45ddf5d85dd0693b37b6b79b63e0ba9499eeca82"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-042-halflist.webp",
+      "bytes": 23754,
+      "sha256": "1ad6db4f73bf150188b8746ca433a7013e189d8d28a4fbcdd4e35a3d5e8df3f9"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-043-line.webp",
+      "bytes": 26328,
+      "sha256": "8b924b40b8ab320b6ce6b7b02897847b2ef82611d85de663fe8b4adf33f0d566"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-044-linechange.webp",
+      "bytes": 24800,
+      "sha256": "01fccc71a4d54850cacdecde91dd67337a870453c9e85d3ea36721d87568f835"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-045-linemost.webp",
+      "bytes": 25002,
+      "sha256": "7f91c14c287b9aa99570b20b34a63c0db78134cebad4c07e6e7443301af39b6f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-046-lineread.webp",
+      "bytes": 25386,
+      "sha256": "0e0274951f68cccd9163080f0cc3c05ba9c44419d50e4978433248e594cb9050"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-047-multiply.webp",
+      "bytes": 22006,
+      "sha256": "527bbb530799930aa010c07f9e4edbe6a9c95303905f6477856db7a2e89c3765"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-048-need.webp",
+      "bytes": 20044,
+      "sha256": "07c56daefce7b50e821418817b163a7139a7132563ef13ef4d468b87b916c7c3"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-049-percentpicture.webp",
+      "bytes": 23248,
+      "sha256": "f3474cd283d7ad2d45af60436325666581fda04127a7db58623367016e9a17e6"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-050-perset.webp",
+      "bytes": 30674,
+      "sha256": "6e980473ed8411e01788d49db59bfebe2b6980ea6163b7f5c4ba05ce6406f088"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-051-ratioread.webp",
+      "bytes": 21442,
+      "sha256": "bbf8c0a85611ca334cccbafd96176d1c9b0857daacfd5ec0536220786378d169"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-052-ratiounit.webp",
+      "bytes": 22704,
+      "sha256": "c37a86e028661dd850d96bd7872213674559da908250cf8f8d80f61932d7b8d4"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-053-reservepercent.webp",
+      "bytes": 27012,
+      "sha256": "1a11063426ee243bc1a3f09ef6bf7e11ef4939715c5ac1537b2f44006117ea82"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-054-rest.webp",
+      "bytes": 27078,
+      "sha256": "1d6f49a995717f3325acb8bacdc57bc4e5d7b04cf4c1e30939caa8abfc0ba478"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-055-round.webp",
+      "bytes": 24860,
+      "sha256": "e4c85f0bc32bbb9df14047300c1e751240f63163dcda4d3cf33b27ff7993e4e3"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-056-selectdata.webp",
+      "bytes": 23302,
+      "sha256": "8dff7dcf57b9fdd37969dd6de6902d3567e1fac7519773a40bea68d19f8faca5"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-057-stockdifference.webp",
+      "bytes": 23372,
+      "sha256": "93151d14ed1cfd322c018a9faa6aad04413971e4597f6a2710eb634ee65d7cdf"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-058-stockorder.webp",
+      "bytes": 26074,
+      "sha256": "a753d7e817fbaf2b52f61bbc510ce4e9bdf98654b06abae32dbc8bd71cc3a786"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-059-stockread.webp",
+      "bytes": 22636,
+      "sha256": "b6314e436f98b63ac22ee5045d6947f689884f4899d5b11b2ed423953ee50a8b"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-060-stockshortage.webp",
+      "bytes": 18544,
+      "sha256": "9e01e974bbfc9368e7b0340eee8a05ffcf069b7c94b7b13c4ed8647d6b3f2722"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-061-sumvalues.webp",
+      "bytes": 23068,
+      "sha256": "6e5425e2e4847a61aadd289ed3255fa8ab4432d63983986c790ef07276c7c04d"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-062-tablebar.webp",
+      "bytes": 23246,
+      "sha256": "1bf213640e6f35d84d12b3e606ee01ee45f191962e5dbb7a275c027b18cc0e53"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-063-tablecompare.webp",
+      "bytes": 22992,
+      "sha256": "4a11ec7ee1f683551efa3304a1b9f62aef22b5642266ef3c447d3f6bb35da3c9"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-064-tableread.webp",
+      "bytes": 23416,
+      "sha256": "0c3ad22b236b1c4cea8251f3fb7db10f3635c8deda8dd0597cf52c55346b5142"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-065-tableunit.webp",
+      "bytes": 21690,
+      "sha256": "593e212f0e77ef8a2b30f3ed47cf41f8138d648ed3b5987b37be9e6f3a955a42"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-066-tallymake.webp",
+      "bytes": 22634,
+      "sha256": "8ccc2ef9b6832bcaaf8a42253670d5bfe0beb5282f874ae0e12bd613cabc4436"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-067-tenpercent.webp",
+      "bytes": 24324,
+      "sha256": "cf9fa40471c7808091c6bb516f9e05ec956fc9236e588ffe7f752704f50f4012"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-068-triplelist.webp",
+      "bytes": 25434,
+      "sha256": "43297f8bf9bb93dfc2543d5123ddd50ba0cd66c454e0bc00bcba004c04f9c15b"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-069-twentypercent.webp",
+      "bytes": 21040,
+      "sha256": "6c457fe8f8bacceda125b80ab71d3341f3322ad39b1f5e33df8dac0942014fec"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-070-priceadd.webp",
+      "bytes": 18898,
+      "sha256": "7b8f1a789860f673c95d98cd2e3352bcfb4bb62bc8bf0f7105896dee785db7aa"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-071-budget.webp",
+      "bytes": 13684,
+      "sha256": "4efd3bc21a6a8a89154cff75a4a24e542b18a30954fc7e2e764d89f8c93fb099"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-072-change.webp",
+      "bytes": 20368,
+      "sha256": "a43a79123523a537b384e9be0a893a2b573fcb9d8de8c420dc0e4a52628145d8"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-073-discountfinal.webp",
+      "bytes": 20292,
+      "sha256": "5d90afb7ad669c1269eef2149e3f043b678aa8e21a73969b34b4d72ee3770132"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-074-duration.webp",
+      "bytes": 18288,
+      "sha256": "e80b8072d0c6403f58eb36719748f9d4a4e02498d49e174bee5680667de2f040"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-075-griddistance.webp",
+      "bytes": 25516,
+      "sha256": "47889c27caa5304a29804e44a6a68a9c3f9e035b07474950039faa3c8a686727"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-076-offercompare.webp",
+      "bytes": 18144,
+      "sha256": "c4207ebf99fb034c01ae1d7b78c8db59a6e7b5052b0442d98af467e02d15fbd8"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-077-pricemultiply.webp",
+      "bytes": 18128,
+      "sha256": "90aaebd5302d72dd5db34ac739657849dfd49baf0acd3285ff12f406489b3d63"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-078-scalelength.webp",
+      "bytes": 28424,
+      "sha256": "1437e88284cb64553ea38df36416e00cf5c62d63ed8ec02fd27bcbc4fa4d7610"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-079-starttimeprep.webp",
+      "bytes": 25604,
+      "sha256": "d13ae75c4ff95d94524279b206238935b577a71c1d572cfc5c9671b9cbf88f7c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-080-unitpricecompare.webp",
+      "bytes": 22482,
+      "sha256": "b942e4e9116d796ada8c4f28ba0570797173206e6c40d5bd6e7a36aa78e86e0e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-081-ruler.webp",
+      "bytes": 21262,
+      "sha256": "2320e7511dc6e3c8fc77a8e5330b7535a774bece27ed9826e4da4c52ef3d760e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-082-cm.webp",
+      "bytes": 32348,
+      "sha256": "055fc7ba44170635ce87a4f2c2e9fc6861e1c9b5b807f5a8f9c49cdda3390aa5"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-083-fit.webp",
+      "bytes": 17272,
+      "sha256": "3853ebf7371b57db983a8ff9aa7394b654084d56fa057539fe081e1c514b9d82"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-084-scale.webp",
+      "bytes": 30486,
+      "sha256": "b13f68bb3ff7ba4ca8c3ea4f5e0c34aff96fe71f8b84f4d96bb056a5e08fa466"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-085-masscompare.webp",
+      "bytes": 29138,
+      "sha256": "01a3204d5575bd07ed3406cf9ed6aaa914126b9f70ed2c4253fb98e0894119d3"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-086-massrefill.webp",
+      "bytes": 28458,
+      "sha256": "ab0cabe43eec170039f1423d43a90e38eaefa9c76e7adaa6f1cb6bc1c0483045"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-087-jug.webp",
+      "bytes": 19082,
+      "sha256": "e1c2a3320e35c62ed9c379246add666003489ea8f2c5ca3222b83c3f5bae24c7"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-088-volumecompare.webp",
+      "bytes": 15998,
+      "sha256": "9fda3af5efc5d7522fc634f58c11b1917f9cd001ddec7d766140d2961bce75a0"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-089-volumerefill.webp",
+      "bytes": 17514,
+      "sha256": "29c7b8f79c7d989a845ac008508288bc02ec0e7a0b842a8124fb6044064cea9a"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-090-chooselength.webp",
+      "bytes": 10796,
+      "sha256": "5fbb3e5f3f58a99a87ed3cbed835732fe4d898e0f539cfbfca19cf78d2154d06"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-091-choosemass.webp",
+      "bytes": 17128,
+      "sha256": "560633eb10e4b1217b558c900e2c1a9948aab0b27b2a06c7e781649f088abf9d"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-092-choosevolume.webp",
+      "bytes": 15808,
+      "sha256": "97b4bca8b816da54e57f9bb3ed7e2c604cce019d5a01a6afb3a47e9670690235"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-093-cmcompare.webp",
+      "bytes": 30508,
+      "sha256": "bba317159c10c9e28e0cd2668d42ab8c0d5a54f8756cbe1eb8b95c0e717e19d8"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-094-gridstart.webp",
+      "bytes": 33786,
+      "sha256": "4ebe603c6d5bd5cc736e608ceb3eec5698ee21d7251ea7c1334bea201b66de08"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-095-gridroute.webp",
+      "bytes": 29848,
+      "sha256": "8db63a78ad28052b324f9cec3ab6ecfad8cacc30f40c021a6b2e0e9b763e75b6"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-096-gridcompare.webp",
+      "bytes": 43402,
+      "sha256": "dcf3d94a29de111041cdd7a229e64d55b164d169e99caa96eba75a930768c884"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-097-gridscale.webp",
+      "bytes": 35554,
+      "sha256": "7871c32af6a51f3ebb5d27072cbd8f14c157134cf14024a3a39531a0245e5029"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-098-gridlimit.webp",
+      "bytes": 30728,
+      "sha256": "ae8d2d66267e9f57ae8dd6945c6758a1d5c5d3fa4e3ded90bf7f33f861e3d5da"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-099-perimeterread.webp",
+      "bytes": 28820,
+      "sha256": "2c0850e6430c66c078895a4d7163f68ba1b32390428ec6f0ce4d621262f5708c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-100-perimeter.webp",
+      "bytes": 25640,
+      "sha256": "b10cff6e5e034dafcac4f10d9a92c77817b0b16ef0fb26aa18e93ba20f00c6c9"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-101-areagrid.webp",
+      "bytes": 24496,
+      "sha256": "eefdddf790cfd54f69e83787e5159dec7063fcf529d8abbbb3e05547606b24f7"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-102-area.webp",
+      "bytes": 31806,
+      "sha256": "356e10e0500facc30ea16a888078b0c5b600c0d0fe737dc88a2aa0ddcbd00ba6"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-103-edgeorarea.webp",
+      "bytes": 33076,
+      "sha256": "46131b9155d3408bf02303631859f0ef6e89889b4c639b5fbb9dc37f052fe109"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-104-formulachoose.webp",
+      "bytes": 36732,
+      "sha256": "eddb89711b4d37bf978289f391da93eeb93474430752da5086a8709f99df7b6c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-105-areaoredge.webp",
+      "bytes": 25432,
+      "sha256": "d0837e8b1aefb041168e7bdfb253eae0a3e919ac919186887277e84c52f22c1e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-106-decimalcm.webp",
+      "bytes": 28738,
+      "sha256": "9880197fd146fe22e1960917008c11135e138548f25205c5e37c2dc663f081d7"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-107-decimalfit.webp",
+      "bytes": 14052,
+      "sha256": "1b63b412bd49b8664701e91c61e25d15c15e800b10103b1eb3853082d22ddb1f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-108-gram.webp",
+      "bytes": 19256,
+      "sha256": "ac2d6b3f5f7b4e8eedc8afd19c32532b586278f3249324d5574187c92868db5c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-109-convertvolume.webp",
+      "bytes": 15844,
+      "sha256": "b31c111804b6fc300db3a934bcf7d136949353ddbf5e77add50d60cd65d12682"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-110-volumeadd.webp",
+      "bytes": 18514,
+      "sha256": "aa772a1debd5007a7fb475a7594a0ba80075e91571b1bed9e2c317c294072327"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-111-volumefit.webp",
+      "bytes": 21784,
+      "sha256": "5af74bca86b9f6a697b82d7e76234ddb4af606b6b600200d1013860c50ed57f3"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-112-smallconvert.webp",
+      "bytes": 23748,
+      "sha256": "5c14c99a1bab7405de4dbaa7754568d18a18ea1b73011d31e4318f137810dc60"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-113-smallcompare.webp",
+      "bytes": 17984,
+      "sha256": "fc71b85b0c37f753b1dd9b07c0f266562b95da79f1f0049a213f5abfd9ca2872"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-114-smalldifference.webp",
+      "bytes": 23716,
+      "sha256": "85004a2105f3227c7f5726c7ba923cc0e371d8d70e577adaec88bd97e8731249"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-115-marginadd.webp",
+      "bytes": 9392,
+      "sha256": "c9619ffd86ae4886f83ce7f9e480763419f357f522d3b930bab85df25c74af51"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-116-marginfit.webp",
+      "bytes": 16640,
+      "sha256": "bb45f6bf5ec6cc9c8dbfb42d3f97416a4883c91bf6d8e359c2b41d385a299d24"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-117-marginchoose.webp",
+      "bytes": 19988,
+      "sha256": "386aeef6a28fae3c10ea7619aac4c08bd69871f5c401a063e3f8da7a7e20c2b5"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-118-volumeroom.webp",
+      "bytes": 21848,
+      "sha256": "872cefed65669fbedf47f88f2fb925484b24ce78f17d3dc0a819bc2be1f5013d"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-119-scaleread.webp",
+      "bytes": 33830,
+      "sha256": "b70de7ef1b314cb4b5d80cc1d9dcf3042fc89680ef7653ac20ea9358266ea6dc"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-120-scalecheck.webp",
+      "bytes": 42440,
+      "sha256": "a06e03c1a0d64ce4b8a1488b6672704dd3256002018b7a32058a7b1733610ec3"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-121-routeparts.webp",
+      "bytes": 40380,
+      "sha256": "b6b68798cefbdedbe5e078924e179cae9e81a82b875abce77242fef382c68ded"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-122-routescale.webp",
+      "bytes": 34236,
+      "sha256": "253bbdb48a62a03bd1acba680d99c91ce2d4adf8362d9c840c062f80f6984563"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-123-routecompare.webp",
+      "bytes": 27400,
+      "sha256": "c8ae7e62d93658e76b806eb941839be830428a02364ff30c5e01df944046462f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-124-perimeteropen.webp",
+      "bytes": 29060,
+      "sha256": "f4448c6f99c5f9e7e48631ab41c6a5e6617e1850bf0b097b59fd0fc5c38021ad"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-125-halfsides.webp",
+      "bytes": 27238,
+      "sha256": "24990b01023ec7e5e32477c2e5a6892f58008785debf0c4c948b92a6aaeefed5"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-126-areahalf.webp",
+      "bytes": 37102,
+      "sha256": "c9b451ecc8c8217fe06d9a78c1510e117645e54aa0319872cbf454f8ea17fc3f"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-127-coverageread.webp",
+      "bytes": 24816,
+      "sha256": "aa1fbb23cdb75c074ae77ed094f75f643416e4138d10c581e2470c528a0fd742"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-128-coveragerest.webp",
+      "bytes": 31716,
+      "sha256": "b1039f789f846e6a237f0ec05ec585d10dcffd7a6ead020183ffa8eab80f2387"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-129-coveragepacks.webp",
+      "bytes": 28582,
+      "sha256": "80073b987430b34c0f2f41876982a299b857bb007ab5fbf79784d983b916be3a"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-130-readruler.webp",
+      "bytes": 21870,
+      "sha256": "255a04ee2281d14e6778925a2c52c9b597a0cee31665b6986b53f09487977341"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-131-readtape.webp",
+      "bytes": 26576,
+      "sha256": "b8ae8ecdf9c7297f043c7554bb071ca0a6c516453733536939c15b86504f849c"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-132-offsetruler.webp",
+      "bytes": 26672,
+      "sha256": "2deb9fca64c473b0db9f51c4cf607fe6777b05e8ffbf5085c7a00deb762c4db4"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-133-marklength.webp",
+      "bytes": 25450,
+      "sha256": "9667b9fe8df81731688cfd17b94e461ea65582512ce0bf16edde90ac09af8b59"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-134-readdigital.webp",
+      "bytes": 26426,
+      "sha256": "1a7a93b5e6f14aa9a0950c72049168c8ab7e565131e9d4a1290c340db3ac8a74"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-135-readdial.webp",
+      "bytes": 19766,
+      "sha256": "b3b71af1220c9d9905b4e8b380b492002039c2af48ea3ccb46b723da4c896a73"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-136-tarescale.webp",
+      "bytes": 26072,
+      "sha256": "e460fbba965eeb1d74c20e73a4335347c98d54a1aaff0bdcee29bf4ec773c465"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-137-fillmass.webp",
+      "bytes": 21810,
+      "sha256": "e45d3a7ea7880faff11b12782db3546c81405a5d7f99577f98ad3ef4946e5df8"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-138-readjug.webp",
+      "bytes": 19454,
+      "sha256": "f8e1fbcf96c06b3c1b7b1fbef8d6bcd25e1b11250d0229379fcb70c05a82d641"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-139-jugintervals.webp",
+      "bytes": 9568,
+      "sha256": "082f0dc7442769e931865a9a432e89cdb9e9f1e03f9a749c8d11cd565403c94e"
+    },
+    {
+      "path": "assets/photo-bank/images/techniek-140-borderorsurface.webp",
+      "bytes": 23252,
+      "sha256": "032de749011102c257fbc0a6487e0c54839efc15396c56d9c1585b3137eaf663"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-001-bridge.webp",
+      "bytes": 18354,
+      "sha256": "bef558620c4d790cfb9d2d8cf8e31584312c6fef6b02e0794230f694a0b10c3b"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-002-ratioviaone.webp",
+      "bytes": 18704,
+      "sha256": "e72206617e8490c41e171d6889a1b1a868ec1fc44eaf1046042f0fc89c805d85"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-003-count.webp",
+      "bytes": 17890,
+      "sha256": "3981434c004a1b3e949992a1f9128341d977d8bdd89f5a25da06d6d48f0fa47f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-004-divide.webp",
+      "bytes": 23786,
+      "sha256": "c991a8c5a63ad5f4b8617abce95d62053b434be2c919e90b038c26fd68a4e070"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-005-half.webp",
+      "bytes": 20782,
+      "sha256": "c6180587eb46342afc253b7095dd06df3b85b963737d95d35441cb3663a12b57"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-006-quarter.webp",
+      "bytes": 30052,
+      "sha256": "6f728ff6347ea7a102ac1a45c6deccc12bb69145da3d52ed21251b0c8c2a9d33"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-007-ratioscale.webp",
+      "bytes": 19190,
+      "sha256": "8ea8bf00a0c87a3c451f92db65436d2af17d9985f82fb6da584224a20eb1e88f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-008-sets.webp",
+      "bytes": 13918,
+      "sha256": "8570055cd11d3dadb599b9f90aa85e8fd8fe1f85bbd955c519bba0fa1c063870"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-009-sub.webp",
+      "bytes": 19050,
+      "sha256": "a1494bc2db3e939097e4e8bb5eb2c09ebb9956f77669fb1260165eac96f479b1"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-010-bardifference.webp",
+      "bytes": 15622,
+      "sha256": "560818e63d7be203c2651221042d85463de7d8dc91eb86899ed87ec0109b8248"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-011-columnadd.webp",
+      "bytes": 29396,
+      "sha256": "ac383eef0a23b1afb7ee1b3e4504112f73aa07490674264ec04da3bd7f33d760"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-012-columnsub.webp",
+      "bytes": 17136,
+      "sha256": "e7069152d1638f1bc32a9f3b7f6ab2d5686e9f347c810d07e2d6fc49f405ffa5"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-013-diff.webp",
+      "bytes": 16328,
+      "sha256": "c5263a116ffd450fe4f83c1e7f2318c4c9dd6326493846239fed6d79479a3faf"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-014-estimate.webp",
+      "bytes": 27544,
+      "sha256": "fcaad463243ca7c00db70bf14bbfd5168a21b73b14f4212cb953d9996d0f075f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-015-pack.webp",
+      "bytes": 21374,
+      "sha256": "72e75c9db2592e0ff4699552097fb2774dc3bcfd09dfd6a7be6d8a0846f8251d"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-016-percentpart.webp",
+      "bytes": 24350,
+      "sha256": "c2fb99006469f6129f0b1f5ae241ce23fdf0efd1449278fe1a263f34348c80d9"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-017-refill.webp",
+      "bytes": 16470,
+      "sha256": "991f13665705573f47c807559d95995c4659c6ea04625db0f8d56676db61a17b"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-018-stock.webp",
+      "bytes": 23320,
+      "sha256": "87b283b449ed3955c67d8294c94f7e616a6f67da1ebed492e6bd70f810cd4744"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-019-stocktable.webp",
+      "bytes": 18858,
+      "sha256": "80c7bba50c1b1cba6f94af2edf107e18b025d1661dbc6887dd25fc1959c69771"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-020-tabledifference.webp",
+      "bytes": 22728,
+      "sha256": "5b0b0f512b3a4b19fbde905319449f7a5474ac43828cbb09c3e766080bdcd3a1"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-021-tallyread.webp",
+      "bytes": 17006,
+      "sha256": "a0034aeaf19161d384844b69d986277d00d04b39c3aea3d5b68fed632ae32f87"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-022-add.webp",
+      "bytes": 21622,
+      "sha256": "7dad085ac10587cba26984c21ffbf111d54f0c249971b005b6492376e6b9149f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-023-average.webp",
+      "bytes": 23338,
+      "sha256": "1aa34aab1ea86333d8e1516682ebe54b5f758d202f4094be80bfe373873f0a7b"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-024-averagedecision.webp",
+      "bytes": 20420,
+      "sha256": "045bb0e403c0fb9448fd986380a258e2120273489646262fa046f437399e089d"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-025-barminimum.webp",
+      "bytes": 13602,
+      "sha256": "890381897d4d3d6007e3682343909633ca4fc3b10b8909c2b91efaa1ce3fe65c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-026-barread.webp",
+      "bytes": 15360,
+      "sha256": "f37956767e855bcece9d2aa0ccc93aa53fa77aa9b457015c70cf1352c4ce45db"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-027-barscale.webp",
+      "bytes": 20280,
+      "sha256": "30e3bfb818447b85e80e272d64559d2fc3bea58daa5f6812f59cfcd39b174443"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-028-barstock.webp",
+      "bytes": 23458,
+      "sha256": "9db84715975c49bb347f2761df992ba1c7b33f965ed352b005477f4ad57821f6"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-029-both.webp",
+      "bytes": 17606,
+      "sha256": "479aa4bbf0f0973978a62df5a05a6a7ef46b6301c5a21f7aa80342cb71f51409"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-030-checkbar.webp",
+      "bytes": 19386,
+      "sha256": "31087adf856d4200dd795211bd244f9b590549be27db7287c54e4b9cabb5f437"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-031-countcheck.webp",
+      "bytes": 22788,
+      "sha256": "4e222acd3430e9ba3135d7507475e4eae0b4adb75bda0154760fc53eebfe4144"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-032-datadecision.webp",
+      "bytes": 20318,
+      "sha256": "a7720ee87bbaa238ef32fed30c1b145e7b951d18bf484303d5a1d496b4bcf134"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-033-decimalcompare.webp",
+      "bytes": 16444,
+      "sha256": "d87488cde6fba6d957bae1d613d1e435b8cf76355504edf7f33afff44a5d3183"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-034-decimalequal.webp",
+      "bytes": 24360,
+      "sha256": "162894ee9fc5f23ab25da966bb2cf20c48d08b78a494f8c896a4679f45c822ac"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-035-decimallimit.webp",
+      "bytes": 18410,
+      "sha256": "d0d8557b99b135f605a9faa9c3fd932dee1a5449875663dd629f610eb3088333"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-036-deviation.webp",
+      "bytes": 20238,
+      "sha256": "3a17e50c73a8ffd80e15a310a594cf3dea3713971b1327d479e948ff108afedf"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-037-double.webp",
+      "bytes": 25258,
+      "sha256": "66b86f044582a75e6cde88e00a67986e46018640b8a901a88172ddb12cc7718a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-038-doublelist.webp",
+      "bytes": 23330,
+      "sha256": "3c367268cbff6309f9f51ddafef03626f198eb7ee0141a575b52c3df3e785af0"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-039-drawbar.webp",
+      "bytes": 28234,
+      "sha256": "d17319b29cab3b54b818fc121447eac56c7dd05ed1eaa542a85e50012a52b4c8"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-040-estimateenough.webp",
+      "bytes": 15582,
+      "sha256": "e5114cf350eff5c821b5098bfa6e2c5007bc1f225ab8f803a5148d49c1f7388b"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-041-fractionpicture.webp",
+      "bytes": 20438,
+      "sha256": "e18fc374f726009476fcd42d4c5d8b6969d744e0fbfe40f67b4a1654bc2c4b13"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-042-halflist.webp",
+      "bytes": 13744,
+      "sha256": "887d278b8b8ca78c9c3bec7edf385096aaf69ea03f752b5e7c61d476051b6c62"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-043-line.webp",
+      "bytes": 26296,
+      "sha256": "3bc732a7d3790ca184b5ca038a63ca8fc1e20f08985229c23b867d2044cb4a3b"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-044-linechange.webp",
+      "bytes": 18712,
+      "sha256": "4bf2b6e78476a9b6c01b308b8ef4ae76e8715be80ad66ef51279490cad8c99c4"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-045-linemost.webp",
+      "bytes": 21910,
+      "sha256": "08b2f6677fe133ff3cb2e1f09dbbcbcb5b816373e7b14fe31c32906b3d8d80e6"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-046-lineread.webp",
+      "bytes": 20186,
+      "sha256": "ae26ecc55e4bbffb392fb5e97dd794eb2d6cd41503d23018573f5beb4a02970f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-047-multiply.webp",
+      "bytes": 14002,
+      "sha256": "3a193353229012eba1a3a7c31b2bf864c5697ac743d016c3b4153e37a103296f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-048-need.webp",
+      "bytes": 17544,
+      "sha256": "f568441adfbe86e5fbfa9c7ce80a4ae832b82cbe6413c96c95ed2ae7701051b3"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-049-percentpicture.webp",
+      "bytes": 16056,
+      "sha256": "3111ac4b57ce4d1ae4bebd59af15a0567b481d8b49777016c58d284075422bd8"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-050-perset.webp",
+      "bytes": 25156,
+      "sha256": "09a679d0ba9d6fe58dbac7408a12779e6884bac747a76482c0ca5093a9ec67cd"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-051-ratioread.webp",
+      "bytes": 22186,
+      "sha256": "6f79fe12412507731ff60502a7300a209561b0928dbd62c5524a25a45690763a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-052-ratiounit.webp",
+      "bytes": 17722,
+      "sha256": "8a90b8490eb94c41bcaf000cc034e75a6391628e65bdaa5d38cecb40ef556433"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-053-reservepercent.webp",
+      "bytes": 22408,
+      "sha256": "945d041aaf6cfa6221612459d526b3f826ac15c813873966d46a67b602a14840"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-054-rest.webp",
+      "bytes": 21686,
+      "sha256": "dfefef4ef5e0473d84f34d9a4fd55d1afe3990a88c1b7991a6460330a825f622"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-055-round.webp",
+      "bytes": 20004,
+      "sha256": "822bafe0219c0111eec3c88364a6a5421d9ee4d8fef73fa064d957277e8fc67c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-056-selectdata.webp",
+      "bytes": 17196,
+      "sha256": "272b0c846571afb8bf9cc4a60234064148ca79f3dd92899cf2d4054b71d49929"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-057-stockdifference.webp",
+      "bytes": 16536,
+      "sha256": "d48107e66a0292c4e7934a3cbcc208d0abe6985770207f1ec0031d898c625708"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-058-stockorder.webp",
+      "bytes": 15916,
+      "sha256": "fb971cf37fec33dd3b71165e243c8a59dedfd6d5817ff51ec6196af9870b7a27"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-059-stockread.webp",
+      "bytes": 22216,
+      "sha256": "2e0469c3606a24eb79de13ff9127531492a0c747fed8d3c552993b69ce92b05c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-060-stockshortage.webp",
+      "bytes": 12296,
+      "sha256": "9c2a5d9a60971e9da830b92da29dad38ac4d73d1344e9a32791e41d831233976"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-061-sumvalues.webp",
+      "bytes": 17558,
+      "sha256": "ecca8f66f85ee197f8b8b65f19353e64a4053ee847d5f111f51d04e9b3148e6c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-062-tablebar.webp",
+      "bytes": 21012,
+      "sha256": "4d4946deb83984f01239f0ccee3ba3595306aef8a5c8a9b81ef3866f032e980f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-063-tablecompare.webp",
+      "bytes": 22146,
+      "sha256": "4c8689164c844b255c88a0cdd972be7ba2585a297b6533a0e2b9d916e27576f4"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-064-tableread.webp",
+      "bytes": 13938,
+      "sha256": "9a02dc1a8e602952780e7b0e60eaade82b94e12c24775daf5bb1bcc1261825b2"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-065-tableunit.webp",
+      "bytes": 16648,
+      "sha256": "6981bb801c0984471b6c0e33507a5b8969fc464498d97bcacd9caacff9790731"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-066-tallymake.webp",
+      "bytes": 16516,
+      "sha256": "ee5e3ecc0316d996039b6114c396846c20ea8e89e36267d94160de1477892037"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-067-tenpercent.webp",
+      "bytes": 20508,
+      "sha256": "ac94b7e42553dfda0882761716ae8c874429f54332753295a2d0c2c81ea568ec"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-068-triplelist.webp",
+      "bytes": 21952,
+      "sha256": "0169bfd51d916bf31e6d8fe8eeea786da27f82ccd951245b5c94fd10afdac73c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-069-twentypercent.webp",
+      "bytes": 18512,
+      "sha256": "5a9ee309af90f688418863132eb48da985ff1afab89ee66e8c01f68eb229f7f1"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-070-priceadd.webp",
+      "bytes": 16122,
+      "sha256": "2b8c8e1245ee29d8753d7fe8eaf56ffa931dad936ef2aaee4f2b23e2a5184158"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-071-budget.webp",
+      "bytes": 13344,
+      "sha256": "8600b83c3cc7c37e7e843015723be409cf4ee35901f046c60746cbd7e8fc0393"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-072-change.webp",
+      "bytes": 17482,
+      "sha256": "807828aa223d921125473d91c1d7ce77638e1471072f4d9db0dac7f9a22ef0aa"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-073-discountfinal.webp",
+      "bytes": 19176,
+      "sha256": "b69df73c9e96310a40c5a9aec2d2b312193bc73bef39d32502b244a8015c0c75"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-074-duration.webp",
+      "bytes": 18174,
+      "sha256": "fadf111952768deee4502155c4dc840ba31a5831c39385ad2ecd415c5ae71a5a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-075-griddistance.webp",
+      "bytes": 17948,
+      "sha256": "87a437415501bcd009253476c4b4ddb8d382038f566b3ccd870fd21f4b7a7e35"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-076-offercompare.webp",
+      "bytes": 14560,
+      "sha256": "c7528e7cda288d275b5e5c0321f1c0800726660da853497ac7af54010546d884"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-077-pricemultiply.webp",
+      "bytes": 22426,
+      "sha256": "2606a644af46a4ed2a7ff17a0d3d94530a828775fec74c462fb0b68ee298f760"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-078-scalelength.webp",
+      "bytes": 21952,
+      "sha256": "186187de0ad0e26cd02eba1fbf3bf7018c4bf5cb328a4eee36475b20d178d612"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-079-starttimeprep.webp",
+      "bytes": 18396,
+      "sha256": "a6b2dd2ceaab8b4a3472142694c6e4997e218a0cc20fc3e2dafd0012f4562aaa"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-080-unitpricecompare.webp",
+      "bytes": 17580,
+      "sha256": "2b4e0fc80227ec000b9cc3d4ee1312e2365e68b9ffe852848fd5ddca3222f21a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-081-ruler.webp",
+      "bytes": 16508,
+      "sha256": "2bc17eb3ce7146308e111d65f599e103deaea10d9a7063462771b6b21bd930d8"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-082-cm.webp",
+      "bytes": 30398,
+      "sha256": "2c004e969111d40d82ac9cba90fb26549698b5cf265a3576902570e4ce16cfc5"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-083-fit.webp",
+      "bytes": 24024,
+      "sha256": "95d7698113efc3ebcb9a03944b92f7087c5021f7b2b2d08bc1bb236aa25ffde4"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-084-scale.webp",
+      "bytes": 18484,
+      "sha256": "40c3fc111b240425d7d10426c58071a08edc4ed498e31664390cc78ece06e912"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-085-masscompare.webp",
+      "bytes": 22598,
+      "sha256": "aa0d7f9be6572c8f0a7c66522f3e95a05d6a240196c2860dec67a0215659c900"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-086-massrefill.webp",
+      "bytes": 18738,
+      "sha256": "b9eada68eccd7f63eb42597c6cea773d84a6d8a127283cd64cce984d545d7f0c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-087-jug.webp",
+      "bytes": 16162,
+      "sha256": "e201751d7ef84b514ea08f55076c092d9b26a07c6389dbf5f91fe61d3270a577"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-088-volumecompare.webp",
+      "bytes": 11432,
+      "sha256": "1c132ce49ab14f3c13b348d4bbf49f67fba6955dda5d83ed040aa75bf6336a83"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-089-volumerefill.webp",
+      "bytes": 18742,
+      "sha256": "11d726d43abe168cdb2f63d1be7e5ef547d2d4784933b82881a56a57055b9331"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-090-chooselength.webp",
+      "bytes": 25826,
+      "sha256": "38b2afdc4302969840ab2dabd90db1a546b45f8346448437a3027e14938d011e"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-091-choosemass.webp",
+      "bytes": 10532,
+      "sha256": "718d45bcea57bd97c8d3c8145cfe2855f21a49c89482d1f39e19e4582bafad9d"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-092-choosevolume.webp",
+      "bytes": 11654,
+      "sha256": "6297a563f5b6b1b63363d017a646a98400bf6c30098e224d40012ab8a144355c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-093-cmcompare.webp",
+      "bytes": 17890,
+      "sha256": "778fe8a05a98498d330bf78d880899c8106f7485324060804e93f4019e5fb890"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-094-gridstart.webp",
+      "bytes": 28282,
+      "sha256": "1f64a5331d55e73113e38c41b2393e100db9dabf6fd0fa83d72e8e949a326a23"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-095-gridroute.webp",
+      "bytes": 20726,
+      "sha256": "1d8c550fb41be1c01b36bddf706cf10fa1a3c18d6ac04a3c924144068195c538"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-096-gridcompare.webp",
+      "bytes": 33918,
+      "sha256": "ac169937512d069f038cf691927ede74a3e694873a28c82960d0781ce799a078"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-097-gridscale.webp",
+      "bytes": 17156,
+      "sha256": "1c5ef147e7ee13ecb91af5e121e6d0913c2c090c1bc0a885d0a7fad4c8f7a40f"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-098-gridlimit.webp",
+      "bytes": 26972,
+      "sha256": "e969bdd11b35935701f9caecd89d8cf510d0fe14657fc8f0009f777788af4411"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-099-perimeterread.webp",
+      "bytes": 24818,
+      "sha256": "31f084cd57d69e7bfb02f2667b8721a0dffcd85dfb9fb50328342e4de3f06685"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-100-perimeter.webp",
+      "bytes": 19520,
+      "sha256": "729f4830cb618e4005e6a5cb764130b09002dc126af5453b297c6d3cf3fc1ef0"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-101-areagrid.webp",
+      "bytes": 17032,
+      "sha256": "c3868aa9119b2dfd7240c9cc359d1b5af18686907bc3152133cba23a01aa40d9"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-102-area.webp",
+      "bytes": 28084,
+      "sha256": "ad956819698307f65ef192467ad722b8a944c31a2bd4b54db483459753b0f948"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-103-edgeorarea.webp",
+      "bytes": 24422,
+      "sha256": "63ef2ec2da3309eb12fef8bfb4867bb5e42f498214103dc6ef36d0eaf731f8d9"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-104-formulachoose.webp",
+      "bytes": 25804,
+      "sha256": "41ec6a16f38175d767b74fa7ecc02706746289b4cfe3800e678de4ae678e4200"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-105-areaoredge.webp",
+      "bytes": 30468,
+      "sha256": "f7fba25c8ee50e31ca640e258c69982ee2b6224a7a1474167662c3bbf48555e3"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-106-decimalcm.webp",
+      "bytes": 24384,
+      "sha256": "9f5a208825a218c7b9ea53b4d11569861c6a7a3f31f6f8edd9a46cde520500be"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-107-decimalfit.webp",
+      "bytes": 20458,
+      "sha256": "7530c8c5888348209400649dfd190850a599f47a85eb07565570df964782f264"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-108-gram.webp",
+      "bytes": 19174,
+      "sha256": "dc2e69d5db4d48d36b5620055b7227a0315e49e33297ee9cfbcdf6bb086d0a5a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-109-convertvolume.webp",
+      "bytes": 19252,
+      "sha256": "ea16dacbf6a6ca6355935a140aa98a43020ff852f70700cf4e8af1cf233900d2"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-110-volumeadd.webp",
+      "bytes": 20272,
+      "sha256": "83a626c4c75365784fe129f73d787ea0ec2cdc33f4263b46b10486eb08edb50e"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-111-volumefit.webp",
+      "bytes": 18474,
+      "sha256": "99e9b5d85fa314314f2a0edaf9ec5d821a6f603ba147ace2e1b770dea1b2d4a0"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-112-smallconvert.webp",
+      "bytes": 25518,
+      "sha256": "9f737659cb6eda5032f6bd848ec1ce98a2c6d3d72448031273dda1b90302c84c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-113-smallcompare.webp",
+      "bytes": 19424,
+      "sha256": "0f4f270365207e7f88324208a7bbabc854e02203fa5e622bf5357a5d2f956481"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-114-smalldifference.webp",
+      "bytes": 20606,
+      "sha256": "b0c692f2e47f60581978e66000df7335c2b193c2a40f9853913047969808ac86"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-115-marginadd.webp",
+      "bytes": 34154,
+      "sha256": "f5f1233e370c174512d20113d368f730bd4a2f0fed94866260ba00c308708b93"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-116-marginfit.webp",
+      "bytes": 15392,
+      "sha256": "2119713f445ef69d44819ef52ae670a0d334d9ee86affb9e80491c7f0ba8c0ca"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-117-marginchoose.webp",
+      "bytes": 20070,
+      "sha256": "483509b33768b58feeff1709b875cb71e8ff1739f9dbb10052355c2ebc926846"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-118-volumeroom.webp",
+      "bytes": 21948,
+      "sha256": "0dbcbf3e8a3b1521187c98cb29d58efb02f9914a2c33b1b2a89ad40aeedf7530"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-119-scaleread.webp",
+      "bytes": 30868,
+      "sha256": "6ade5856b135f63d804d2fdb17aeb6361bee578937aa7b9eacd856f588e06b68"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-120-scalecheck.webp",
+      "bytes": 36674,
+      "sha256": "ba5a9ade76d1ee6d10b1180038fa1c477b72f467bca0ad7ca57da2a8642795e0"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-121-routeparts.webp",
+      "bytes": 21480,
+      "sha256": "47b2d25aaaa78267c968e2426fb5e5f49d462a0647e8f49ca4adf358f9e29714"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-122-routescale.webp",
+      "bytes": 29776,
+      "sha256": "f8e89fc0e69dd647d9fb8802c6b610e478bcd570c8bae5bb9ad5d967ff1ababf"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-123-routecompare.webp",
+      "bytes": 51644,
+      "sha256": "e14a437d45e613a6eefa538b2563b1414014bb68ac0d71aa3427af4be1cb82d5"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-124-perimeteropen.webp",
+      "bytes": 25438,
+      "sha256": "7ab82a969645853c72457f8a94e5dc467b5416a2083cf4734d816ff6d4065c7c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-125-halfsides.webp",
+      "bytes": 27310,
+      "sha256": "d08cdf011da5c36f5959892f0422ff2b9bf36bd172a85ab1b44ee5f5a1b5edcf"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-126-areahalf.webp",
+      "bytes": 26642,
+      "sha256": "0369320b4deaf845a3deb6286d795b2137a959660fa0a3c8d302a4833d6a16e5"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-127-coverageread.webp",
+      "bytes": 21008,
+      "sha256": "a3e3365676978f7646c2930720f11a5810afcad6c5edffc1575fe56021c4abe3"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-128-coveragerest.webp",
+      "bytes": 16074,
+      "sha256": "7a87cacfed7b070b25c109fd0108f743bfe4c291ce21dc8e60bb4a11a167ac92"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-129-coveragepacks.webp",
+      "bytes": 38204,
+      "sha256": "8de75f290e5a6793c0aa8637dd5d46fe1a0a7bc9ae829eead8cf37a0de65feda"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-130-readruler.webp",
+      "bytes": 21704,
+      "sha256": "a7d71d1964b10879f180f198239f5e0d178f9b7e4ba32cbe10ee7037b1a760d1"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-131-readtape.webp",
+      "bytes": 25792,
+      "sha256": "6ebbd7756fd64c11226d9cfdfe6af74ca3e61b4f2b3cfcf2c2131e671a072033"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-132-offsetruler.webp",
+      "bytes": 19186,
+      "sha256": "579788a53a1cbd664c6fadef5e3eb0c34d873be55eac57abc427adce706118a8"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-133-marklength.webp",
+      "bytes": 28984,
+      "sha256": "d750ecd90bdb0cef2330f387232ca1df69cc06ea44d499bab1bd1cf93d64ebd5"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-134-readdigital.webp",
+      "bytes": 19932,
+      "sha256": "18dcfed6aae2bc89f3e41c8170fff7fbdbbb329877a61bd4bd29bd7d84d2f13c"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-135-readdial.webp",
+      "bytes": 17000,
+      "sha256": "afc3123374077d9ff2398e5e1a2eb1d9c3155a3a5fd0cc57f76f92ac0058a273"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-136-tarescale.webp",
+      "bytes": 22356,
+      "sha256": "e38f5e34f898cea8598f0c06dd23461bdadcde8f0b507aca519b8e61cce1415a"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-137-fillmass.webp",
+      "bytes": 20534,
+      "sha256": "038af7b1365ee5a9fe0b999975ab9431d9ee8b40610f3e29ad4dbdb95c97cac1"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-138-readjug.webp",
+      "bytes": 18538,
+      "sha256": "149a9a9c4fd9220478d36220375e8d603409f7f8fe1fbfd6101bff746b45e3aa"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-139-jugintervals.webp",
+      "bytes": 8998,
+      "sha256": "06c21f1f4b4d41514c41b04c15b9615b0174e9905561a8742b74a72cb3515a37"
+    },
+    {
+      "path": "assets/photo-bank/images/zw-140-borderorsurface.webp",
+      "bytes": 24624,
+      "sha256": "279d95e848300db2572b35c7dfc130acfa0bc9851f102cf43992580f7af69879"
+    },
+    {
+      "path": "assets/tasks/cash.webp",
+      "bytes": 15844,
+      "sha256": "236597d85b3be61af31289b4b8d125ab774fe42cec14da23a024867a4f40d364"
+    },
+    {
+      "path": "assets/tasks/clip.webp",
+      "bytes": 8526,
+      "sha256": "e4ddec853355879dd50787ce3fbab3da6baf5a207907c7c6eff58858bf34bbd7"
+    },
+    {
+      "path": "assets/tasks/clock.webp",
+      "bytes": 9002,
+      "sha256": "5e7af55920b3a44e4f413ad3ad42cf0597a55d26b90631a7cea3744134f480e2"
+    },
+    {
+      "path": "assets/tasks/eco-box.webp",
+      "bytes": 25700,
+      "sha256": "a5bcf5734d8747d24bf8381bf0ab9acc1289d0b78851c3c7bef16d8ef73db5e4"
+    },
+    {
+      "path": "assets/tasks/eco-floor.webp",
+      "bytes": 34146,
+      "sha256": "adaddae0725d127eea64039f949d0ad72d5a45dabc76787c830adab7bfa7af2c"
+    },
+    {
+      "path": "assets/tasks/eco-surface.webp",
+      "bytes": 10268,
+      "sha256": "e600ae201626b8b0846be06b09f94029b5984370452c9e2594c77d4363d2d14e"
+    },
+    {
+      "path": "assets/tasks/eco-temperature.webp",
+      "bytes": 17188,
+      "sha256": "4e3e122f1821f8238ce3cebeb0d2123dcb0668303f4ae5af18f4bf70752d4492"
+    },
+    {
+      "path": "assets/tasks/groen-box.webp",
+      "bytes": 29914,
+      "sha256": "2702763b389eea8650936254209febdfbd5bdd35fb04e47d067318fe7c4d40e0"
+    },
+    {
+      "path": "assets/tasks/groen-floor.webp",
+      "bytes": 34184,
+      "sha256": "6ae098fdd13fa9ddde3344a197233548e131ade9038d57f97fd0a78a5b57cf6b"
+    },
+    {
+      "path": "assets/tasks/groen-surface.webp",
+      "bytes": 38730,
+      "sha256": "711ab9be0d015f93a3f7ab626d3fe9c7bcfd4d970d165947df13af43ebb113da"
+    },
+    {
+      "path": "assets/tasks/groen-temperature.webp",
+      "bytes": 22470,
+      "sha256": "2923acf9819ef5e00011a82b774eea462014f6f0e5ee8ea0e992284a40ba15be"
+    },
+    {
+      "path": "assets/tasks/hbr-box.webp",
+      "bytes": 12840,
+      "sha256": "6cae08250338e1fb32b7158346f0ca69e802d59bd9a9a4991084bbf8ac95c58c"
+    },
+    {
+      "path": "assets/tasks/hbr-floor.webp",
+      "bytes": 19882,
+      "sha256": "b9249e1f2cbf4dd4ff4efa46b025c16b98b6ef94e0d2a19954d216836c49762d"
+    },
+    {
+      "path": "assets/tasks/hbr-surface.webp",
+      "bytes": 14632,
+      "sha256": "8d18f823c9aff8639cd8ed4c69bcdb654223c7c360e34c90c0bc670c6b6aa4d5"
+    },
+    {
+      "path": "assets/tasks/hbr-temperature.webp",
+      "bytes": 17212,
+      "sha256": "b3a5eb2e84287cc4962179bb989975da79ba4058df19ef79170f3ff44f76b8da"
+    },
+    {
+      "path": "assets/tasks/pipette.webp",
+      "bytes": 7010,
+      "sha256": "d47907eb5e80e1b8347e04abce3016d407a901da14fb2c520d57458c591096ae"
+    },
+    {
+      "path": "assets/tasks/plan.webp",
+      "bytes": 15194,
+      "sha256": "2c8344514f203ccdaccaa40a56bfe5fc5e4a97326657c9bb3554942bc45fcc30"
+    },
+    {
+      "path": "assets/tasks/screw.webp",
+      "bytes": 20968,
+      "sha256": "9b6547f4e214811bd0ccdedaeaac66e061fbdbbd73e6e7ea067a0e531927e42e"
+    },
+    {
+      "path": "assets/tasks/techniek-box.webp",
+      "bytes": 17492,
+      "sha256": "882d95edb2576a2a4c9fd7e5a976815a286bc72f53584aba9fc588069ab10845"
+    },
+    {
+      "path": "assets/tasks/techniek-floor.webp",
+      "bytes": 20858,
+      "sha256": "54133e30448e2818e623d15e077a51f4b38fd011db64173466b38a936bf1d807"
+    },
+    {
+      "path": "assets/tasks/techniek-surface.webp",
+      "bytes": 24952,
+      "sha256": "cfffc5783e16ca1c56873428ff3cf7b58d4befa44a804bcdc7d88b0f6e4ffe8f"
+    },
+    {
+      "path": "assets/tasks/techniek-temperature.webp",
+      "bytes": 11316,
+      "sha256": "66a7811229f391fca337c54eb74baceff6f1afc3b5b37036d30881ff98f91ddb"
+    },
+    {
+      "path": "assets/tasks/zw-box.webp",
+      "bytes": 9858,
+      "sha256": "9797b1728191a2183e7e36499c2f07530f1f58818004e74b30731ad91af0343c"
+    },
+    {
+      "path": "assets/tasks/zw-floor.webp",
+      "bytes": 11188,
+      "sha256": "1cb75427663e747fb487abc17493199d390b09a7137353899ad05401e13b7721"
+    },
+    {
+      "path": "assets/tasks/zw-surface.webp",
+      "bytes": 12386,
+      "sha256": "d80b9283ddd4b56025f09730b38162e5b2af37105f804fae6946472644359e0e"
+    },
+    {
+      "path": "assets/tasks/zw-temperature.webp",
+      "bytes": 10248,
+      "sha256": "f91ba23ed5fcaafbc40a562606f57766fab6f297d74be58a2a8bbd3483ebe3e3"
+    },
+    {
+      "path": "assets/techniek-1.jpg",
+      "bytes": 110593,
+      "sha256": "c12e59d57d08eb646be15657d4a941e80b7eb04cd843b6d2a818fd448f075d9a"
+    },
+    {
+      "path": "assets/techniek-2.jpg",
+      "bytes": 109703,
+      "sha256": "99489138abe6fae0b5f3ffa18194fb651eff5aec935cf5efd2577bad6763193b"
+    },
+    {
+      "path": "assets/techniek-3.jpg",
+      "bytes": 117514,
+      "sha256": "4d41c846c4f24d10582ffa0fd8cb86fb25a641f1e9129af68fe3d8a45283d476"
+    },
+    {
+      "path": "assets/topics/money-eco.webp",
+      "bytes": 42030,
+      "sha256": "528d9a3c1a100be510172897f5412b5d59127fd623575bbbba95a9934e2fc47c"
+    },
+    {
+      "path": "assets/topics/money-groen.webp",
+      "bytes": 53608,
+      "sha256": "13065769f71b7b2d54d34ab695ae09769cd119f3c92fa6f5a94141d4a369f287"
+    },
+    {
+      "path": "assets/topics/money-hbr.webp",
+      "bytes": 43372,
+      "sha256": "77ac278e339ada6fe6a9ba6d4eed88579c017f0d647ce14aade68b45e2ec6e78"
+    },
+    {
+      "path": "assets/topics/money-techniek.webp",
+      "bytes": 40468,
+      "sha256": "b48130c37a362760f1bc3f4545d1aad8d678af9ca6f37c5802f3e8de87dc8235"
+    },
+    {
+      "path": "assets/topics/money-zw.webp",
+      "bytes": 41054,
+      "sha256": "4280c6537434151059ab201c41ea6bd8f6e34571b6715d5c5e08786921189e6a"
+    },
+    {
+      "path": "assets/zw-1.jpg",
+      "bytes": 103558,
+      "sha256": "32c254b3ca3e241664e5f4912ad4823c9895134012f5754dec4583c3196f51f9"
+    },
+    {
+      "path": "assets/zw-2.jpg",
+      "bytes": 101399,
+      "sha256": "5bab07c3f73a5ea3abfe8bd428452f27305f3cdfbfd8de7293e7d4a11d8e0868"
+    },
+    {
+      "path": "assets/zw-3.jpg",
+      "bytes": 122687,
+      "sha256": "df268cea77323fef815f385c049055af0265d0ca0d0f43b38733699bd4260eb3"
+    }
+  ]
+}

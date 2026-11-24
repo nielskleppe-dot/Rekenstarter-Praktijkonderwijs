@@ -1,0 +1,25 @@
+{
+  "name": "rekenstart",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:netlify": "node scripts/build-netlify.mjs",
+    "pack:assets": "node scripts/pack-assets.mjs",
+    "test:netlify": "node scripts/test-netlify-database.mjs && node scripts/test-netlify-api.mjs && node scripts/test-netlify-export.mjs",
+    "validate": "node scripts/validate-artifact.mjs",
+    "dev": "node scripts/dev.mjs",
+    "test": "node scripts/test-lesson-fit.mjs && node scripts/test-measurements.mjs && node scripts/test-catalog.mjs && node scripts/test-professional.mjs && node scripts/test-career-openings.mjs && node scripts/test-photo-bank.mjs && node scripts/test-photo-variety.mjs && node scripts/test-page-delivery.mjs && node scripts/test-workcards.mjs && node scripts/test-gemini.mjs && node scripts/test-ai-settings.mjs"
+  },
+  "dependencies": {
+    "@netlify/database": "2.0.4",
+    "@netlify/identity": "2.0.1"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.2.17",
+    "esbuild": "0.28.2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

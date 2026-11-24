@@ -1,0 +1,3497 @@
+{
+  "date": "2026-11-20",
+  "totalLessonTypes": 167,
+  "selected": [
+    {
+      "kind": "bridge",
+      "title": "Optellen over het tiental",
+      "visual": "numberline",
+      "n": 4,
+      "example": {
+        "verb": "bij elkaar tellen",
+        "question": "Hoeveel stuks heb je samen?",
+        "facts": [
+          {
+            "label": "Eerste groep",
+            "value": "39 stuks"
+          },
+          {
+            "label": "Tweede groep",
+            "value": "18 stuks"
+          }
+        ],
+        "steps": [
+          "39 + 1 = 40",
+          "40 + 17 = 57"
+        ],
+        "answer": "57 stuks",
+        "hint": "Hoeveel moet je erbij doen om bij het volgende tiental te komen?",
+        "visual": null,
+        "explain": "Waarom is rekenen via een tiental handig?",
+        "model": {
+          "kind": "column",
+          "a": 39,
+          "b": 18,
+          "add": true
+        }
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "1-4-di",
+        "context": "Je werkt in een bloemenwinkel. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "ratioViaOne",
+      "title": "Rekenen via één · Oefenen",
+      "visual": "ratio",
+      "n": 4,
+      "example": {
+        "question": "Je gaat van 4 sets naar 6 sets. Hoeveel materiaal heb je nodig?",
+        "facts": [
+          {
+            "label": "Voor 4 sets",
+            "value": "28 stuks"
+          }
+        ],
+        "steps": [
+          "28 ÷ 4 = 7",
+          "7 × 6 = 42"
+        ],
+        "answer": "42 stuks",
+        "hint": "Reken eerst naar één set en daarna naar het nieuwe aantal.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            4,
+            1,
+            6
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              28,
+              "?",
+              "?"
+            ]
+          ]
+        },
+        "result": 42,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "een randstuk",
+        "photoLesson": "2-3-di",
+        "context": "Je werkt in een bestratingsbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "count",
+      "title": "Tientallen en losse stuks tellen",
+      "visual": "count",
+      "n": 3,
+      "example": {
+        "verb": "tellen",
+        "question": "Hoeveel stuks tel je in de volle groepjes en losse stuks samen?",
+        "facts": [],
+        "steps": [
+          "3 × 10 = 30",
+          "30 + 3 = 33"
+        ],
+        "answer": "33 stuks",
+        "hint": "Tel eerst 10, 20, 30 … Tel de losse stuks daarna verder.",
+        "visual": {
+          "type": "groups",
+          "groups": 3,
+          "size": 10,
+          "loose": 3
+        },
+        "explain": "Hoeveel hoef je te tellen als je één vol groepje ziet?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-1-ma",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "divide",
+      "title": "Eerlijk verdelen",
+      "visual": "groups",
+      "n": 3,
+      "example": {
+        "verb": "verdelen",
+        "question": "Verdeel alle stuks eerlijk. Hoeveel komen er in elke bak?",
+        "facts": [
+          {
+            "label": "Totaal",
+            "value": "15 stuks"
+          },
+          {
+            "label": "Aantal bakken",
+            "value": "3"
+          }
+        ],
+        "steps": [
+          "15 ÷ 3 = 5",
+          "Controleer met 3 × 5 = 15."
+        ],
+        "answer": "5 stuks per bak.",
+        "hint": "Maak even grote groepjes. Zoek hoeveel keer het aantal bakken in het totaal past.",
+        "visual": {
+          "type": "trays",
+          "count": 3
+        },
+        "explain": "Hoe controleer je of elke bak evenveel krijgt?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-6-di",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "half",
+      "title": "Verdubbelen en halveren · Oefenen",
+      "visual": "fraction",
+      "n": 3,
+      "example": {
+        "question": "Hoeveel is de helft van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "24 stuks"
+          }
+        ],
+        "steps": [
+          "24 ÷ 2 = 12"
+        ],
+        "answer": "12 stuks",
+        "hint": "Verdeel de hoeveelheid in 2 gelijke delen.",
+        "visual": null,
+        "model": {
+          "kind": "fraction",
+          "total": 24,
+          "parts": 2,
+          "filled": 1
+        },
+        "result": 12,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker dierverzorging",
+        "place": "een dierenverzorgingsbedrijf",
+        "material": "voerbakjes",
+        "photoLesson": "1-2-di",
+        "context": "Je werkt in een dierenverzorgingsbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "quarter",
+      "title": "Halven en kwarten · Oefenen",
+      "visual": "fraction",
+      "n": 3,
+      "example": {
+        "question": "Hoeveel is een kwart van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "28 stuks"
+          }
+        ],
+        "steps": [
+          "28 ÷ 4 = 7"
+        ],
+        "answer": "7 stuks",
+        "hint": "Verdeel de hoeveelheid in 4 gelijke delen.",
+        "visual": null,
+        "model": {
+          "kind": "fraction",
+          "total": 28,
+          "parts": 4,
+          "filled": 1
+        },
+        "result": 7,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "1-3-di",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "ratioScale",
+      "title": "Een verhoudingstabel gebruiken · Oefenen",
+      "visual": "ratio",
+      "n": 3,
+      "example": {
+        "question": "Hoeveel stuks zijn nodig voor 4 sets?",
+        "facts": [
+          {
+            "label": "Per set",
+            "value": "9 stuks"
+          },
+          {
+            "label": "Aantal sets",
+            "value": "4"
+          }
+        ],
+        "steps": [
+          "4 × 9 = 36"
+        ],
+        "answer": "36 stuks",
+        "hint": "Vermenigvuldig het aantal sets met de hoeveelheid per set.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            1,
+            4
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              9,
+              "?"
+            ]
+          ]
+        },
+        "result": 36,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-di",
+        "context": "Je werkt in een boerderij met plantenteelt. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "sets",
+      "title": "Rekenen met ‘per’ · Oefenen",
+      "visual": "ratio",
+      "n": 3,
+      "example": {
+        "question": "Hoeveel stuks zijn nodig voor 4 sets?",
+        "facts": [
+          {
+            "label": "Per set",
+            "value": "8 stuks"
+          },
+          {
+            "label": "Aantal sets",
+            "value": "4"
+          }
+        ],
+        "steps": [
+          "4 × 8 = 32"
+        ],
+        "answer": "32 stuks",
+        "hint": "Vermenigvuldig het aantal sets met de hoeveelheid per set.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            1,
+            4
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              8,
+              "?"
+            ]
+          ]
+        },
+        "result": 32,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "1-4-di",
+        "context": "Je werkt in een bloemenwinkel. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "sub",
+      "title": "Aftrekken in stappen",
+      "visual": "column",
+      "n": 3,
+      "example": {
+        "verb": "overhouden",
+        "question": "Hoeveel stuks blijven er over na gebruik?",
+        "facts": [
+          {
+            "label": "In de voorraad",
+            "value": "39 stuks"
+          },
+          {
+            "label": "Je gebruikt",
+            "value": "18 stuks"
+          }
+        ],
+        "steps": [
+          "39 − 10 = 29",
+          "29 − 8 = 21"
+        ],
+        "answer": "21 stuks",
+        "hint": "Haal eerst de tientallen weg. Haal daarna de losse stuks weg.",
+        "visual": null,
+        "explain": "Hoe controleer je het antwoord met een optelsom?",
+        "model": {
+          "kind": "column",
+          "a": 39,
+          "b": 18,
+          "add": false
+        }
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "1-4-ma",
+        "context": "Je werkt in een bestratingsbedrijf. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "barDifference",
+      "title": "Een staafdiagram lezen · Oefenen",
+      "visual": "data",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel stuks verschillen plek A en B?",
+        "facts": [],
+        "steps": [
+          "30 − 20 = 10"
+        ],
+        "answer": "10 stuks",
+        "hint": "Lees eerst beide staven af.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            20,
+            30,
+            25
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 10,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "1-4-di",
+        "context": "Je werkt in een bloemenwinkel. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "columnAdd",
+      "title": "Optellen onder elkaar",
+      "visual": "column",
+      "n": 2,
+      "example": {
+        "question": "Reken 38 + 17 onder elkaar uit.",
+        "facts": [
+          {
+            "label": "Eerste aantal",
+            "value": "38 stuks"
+          },
+          {
+            "label": "Tweede aantal",
+            "value": "17 stuks"
+          }
+        ],
+        "steps": [
+          "Zet eenheden onder eenheden en tientallen onder tientallen.",
+          "Begin bij de eenheden. Neem een tiental mee of wissel één tiental als dat nodig is.",
+          "38 + 17 = 55"
+        ],
+        "answer": "55 stuks",
+        "hint": "Zet tientallen onder tientallen en eenheden onder eenheden.",
+        "visual": null,
+        "model": {
+          "kind": "column",
+          "a": 38,
+          "b": 17,
+          "add": true
+        },
+        "result": 55,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-1-ma",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "columnSub",
+      "title": "Aftrekken onder elkaar",
+      "visual": "column",
+      "n": 2,
+      "example": {
+        "question": "Reken 38 − 29 onder elkaar uit.",
+        "facts": [
+          {
+            "label": "Eerste aantal",
+            "value": "38 stuks"
+          },
+          {
+            "label": "Tweede aantal",
+            "value": "29 stuks"
+          }
+        ],
+        "steps": [
+          "Zet eenheden onder eenheden en tientallen onder tientallen.",
+          "Begin bij de eenheden. Neem een tiental mee of wissel één tiental als dat nodig is.",
+          "38 − 29 = 9"
+        ],
+        "answer": "9 stuks",
+        "hint": "Zet tientallen onder tientallen en eenheden onder eenheden.",
+        "visual": null,
+        "model": {
+          "kind": "column",
+          "a": 38,
+          "b": 29,
+          "add": false
+        },
+        "result": 9,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-1-ma",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "diff",
+      "title": "Het verschil tussen aantallen",
+      "visual": "numbers",
+      "n": 2,
+      "example": {
+        "verb": "vergelijken",
+        "question": "Waar zijn er meer? Hoeveel stuks is het verschil?",
+        "facts": [
+          {
+            "label": "Plek A",
+            "value": "36 stuks"
+          },
+          {
+            "label": "Plek B",
+            "value": "17 stuks"
+          }
+        ],
+        "steps": [
+          "36 is groter dan 17.",
+          "36 − 17 = 19"
+        ],
+        "answer": "Op plek A zijn er 19 stuks meer.",
+        "hint": "Wijs eerst het grootste aantal aan. Haal daarna het kleinste aantal daarvan af.",
+        "visual": null,
+        "explain": "Kun je het verschil ook vinden door door te tellen?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "1-3-di",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "estimate",
+      "title": "Schatten en precies rekenen",
+      "visual": "numbers",
+      "n": 2,
+      "example": {
+        "verb": "schatten en controleren",
+        "question": "Rond beide aantallen af op tientallen. Wat is je schatting en wat is het precieze totaal?",
+        "facts": [
+          {
+            "label": "Eerste hoeveelheid",
+            "value": "46 stuks"
+          },
+          {
+            "label": "Tweede hoeveelheid",
+            "value": "17 stuks"
+          }
+        ],
+        "steps": [
+          "46 ≈ 50 en 17 ≈ 20",
+          "Schatting 50 + 20 = 70",
+          "Precies 46 + 17 = 63"
+        ],
+        "answer": "Geschat 70, precies 63 stuks.",
+        "hint": "Maak beide getallen eerst rond op tientallen. Reken met de oorspronkelijke aantallen voor de controle.",
+        "visual": null,
+        "explain": "Waarom is de precieze berekening belangrijk als je schatting dicht bij het doel ligt?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "een randstuk",
+        "photoLesson": "2-3-di",
+        "context": "Je werkt in een bestratingsbedrijf. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "pack",
+      "title": "Verpakkingen met een rest",
+      "visual": "groups",
+      "n": 2,
+      "example": {
+        "verb": "inpakken met een rest",
+        "question": "Hoeveel bakken zijn nodig als alle stuks mee moeten?",
+        "facts": [
+          {
+            "label": "Totaal",
+            "value": "16 stuks"
+          },
+          {
+            "label": "Per volle bak",
+            "value": "5 stuks"
+          }
+        ],
+        "steps": [
+          "3 × 5 = 15",
+          "16 − 15 = 1 stuks over.",
+          "Voor de rest gebruik je nog één bak. Samen 4 bakken."
+        ],
+        "answer": "4 bakken nodig.",
+        "hint": "Maak zoveel mogelijk volle bakken. Kijk wat er met de laatste stuks moet gebeuren.",
+        "visual": null,
+        "explain": "Waarom heb je soms een extra bak nodig?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "2-6-di",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "percentPart",
+      "title": "50% en 25% · Oefenen",
+      "visual": "percent",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel stuks is 25% van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "40 stuks"
+          },
+          {
+            "label": "Apart leggen",
+            "value": "25%"
+          }
+        ],
+        "steps": [
+          "40 ÷ 4 = 10"
+        ],
+        "answer": "10 stuks",
+        "hint": "Gebruik voor 50% de helft, voor 25% een kwart, voor 10% delen door tien.",
+        "visual": null,
+        "model": {
+          "kind": "percent",
+          "percent": 25
+        },
+        "result": 10,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-6-di",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "refill",
+      "title": "Aanvullen tot een doel",
+      "visual": "numbers",
+      "n": 2,
+      "example": {
+        "verb": "aanvullen",
+        "question": "Hoeveel stuks moet je aanvullen tot het aantal dat je nodig hebt?",
+        "facts": [
+          {
+            "label": "Je hebt",
+            "value": "48 stuks"
+          },
+          {
+            "label": "Je hebt nodig",
+            "value": "69 stuks"
+          }
+        ],
+        "steps": [
+          "69 − 48 = 21"
+        ],
+        "answer": "21 stuks aanvullen.",
+        "hint": "Het aantal dat je nodig hebt is je doel. Hoeveel ontbreekt er nog?",
+        "visual": null,
+        "explain": "Hoe controleer je dat je na het aanvullen precies genoeg hebt?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "1-1-di",
+        "context": "Je werkt in een bestratingsbedrijf. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stock",
+      "title": "Voorraad na levering en gebruik",
+      "visual": "numbers",
+      "n": 2,
+      "example": {
+        "verb": "voorraad bijwerken",
+        "question": "Hoeveel stuks blijven over na levering en gebruik?",
+        "facts": [
+          {
+            "label": "Beginvoorraad",
+            "value": "52 stuks"
+          },
+          {
+            "label": "Er komt bij",
+            "value": "19 stuks"
+          },
+          {
+            "label": "Gebruikt",
+            "value": "14 stuks"
+          }
+        ],
+        "steps": [
+          "52 + 19 = 71",
+          "71 − 14 = 57"
+        ],
+        "answer": "57 stuks over.",
+        "hint": "Werk op volgorde. Schrijf de voorraad na de levering apart op.",
+        "visual": null,
+        "explain": "Bij welke stap tel je erbij en bij welke stap haal je eraf?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-di",
+        "context": "Je werkt in een boerderij met plantenteelt. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stockTable",
+      "title": "Een tabel met meerdere kolommen lezen · Toepassen",
+      "visual": "data",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel stuks moeten op plek A worden aangevuld?",
+        "facts": [],
+        "steps": [
+          "45 − 15 = 30"
+        ],
+        "answer": "Vul A aan met 30 stuks.",
+        "hint": "Kijk hoeveel stuks nodig zijn. Haal eraf wat er al ligt.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              15,
+              45
+            ],
+            [
+              "B",
+              25,
+              45
+            ],
+            [
+              "C",
+              20,
+              45
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker tuinaanleg",
+        "place": "een hoveniersbedrijf",
+        "material": "een plantenbak",
+        "photoLesson": "2-3-do",
+        "context": "Je werkt in een hoveniersbedrijf. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tableDifference",
+      "title": "Een tabel lezen · Toepassen",
+      "visual": "data",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel stuks verschillen A en B?",
+        "facts": [],
+        "steps": [
+          "30 − 20 = 10"
+        ],
+        "answer": "10 stuks",
+        "hint": "Lees de twee getallen. Haal het kleinste getal van het grootste af.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              20,
+              50
+            ],
+            [
+              "B",
+              30,
+              50
+            ],
+            [
+              "C",
+              25,
+              50
+            ]
+          ]
+        },
+        "result": 10,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "1-4-do",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tallyRead",
+      "title": "Turven en totalen · Oefenen",
+      "visual": "data",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel stuks geven de turfstreepjes aan?",
+        "facts": [],
+        "steps": [
+          "2 × 5 = 10",
+          "10 + 2 = 12"
+        ],
+        "answer": "12 stuks",
+        "hint": "Vier streepjes met een streep erdoor zijn samen vijf.",
+        "visual": null,
+        "model": {
+          "kind": "tally",
+          "total": 12
+        },
+        "result": 12,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker dierverzorging",
+        "place": "een dierenverzorgingsbedrijf",
+        "material": "voerbakjes",
+        "photoLesson": "1-2-di",
+        "context": "Je werkt in een dierenverzorgingsbedrijf. Je telt de spullen. Gebruik de turfstreepjes op de lijst."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "add",
+      "title": "Optellen met tientallen en eenheden",
+      "visual": "column",
+      "n": 1,
+      "example": {
+        "verb": "bij elkaar tellen",
+        "question": "Hoeveel stuks zet je in totaal klaar?",
+        "facts": [
+          {
+            "label": "Groep A",
+            "value": "36 stuks"
+          },
+          {
+            "label": "Groep B",
+            "value": "17 stuks"
+          }
+        ],
+        "steps": [
+          "30 + 10 = 40",
+          "6 + 7 = 13",
+          "40 + 13 = 53"
+        ],
+        "answer": "53 stuks",
+        "hint": "Splits elk getal in tientallen en losse stuks.",
+        "visual": null,
+        "explain": "Welke cijfers vertellen je hoeveel tientallen er zijn?",
+        "model": {
+          "kind": "column",
+          "a": 36,
+          "b": 17,
+          "add": true
+        }
+      },
+      "context": {
+        "role": "winkelmedewerker",
+        "place": "een boerderijwinkel",
+        "material": "zakjes zaad",
+        "photoLesson": "1-3-ma",
+        "context": "Je werkt in een boerderijwinkel. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "average",
+      "title": "Een gemiddelde berekenen · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn er gemiddeld per dag klaar?",
+        "facts": [],
+        "steps": [
+          "21 + 27 = 48",
+          "48 + 33 = 81",
+          "81 ÷ 3 = 27"
+        ],
+        "answer": "27 stuks per dag",
+        "hint": "Tel alle getallen op en deel door het aantal meetdagen.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Dag",
+            "Aantal (stuks)"
+          ],
+          "rows": [
+            [
+              "Maandag",
+              21
+            ],
+            [
+              "Dinsdag",
+              27
+            ],
+            [
+              "Woensdag",
+              33
+            ]
+          ]
+        },
+        "result": 27,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-di",
+        "context": "Je werkt in een boerderij met plantenteelt. Je kijkt hoeveel spullen er per dag klaar zijn. Bekijk de tabel."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "averageDecision",
+      "title": "Een gemiddelde berekenen · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Het doel is gemiddeld 32 stuks per dag. Is dat gehaald?",
+        "facts": [],
+        "steps": [
+          "24 + 30 = 54",
+          "54 + 36 = 90",
+          "90 ÷ 3 = 30"
+        ],
+        "answer": "Nee, gemiddeld 30 stuks per dag, 2 onder het doel.",
+        "hint": "Tel alle getallen op en deel door het aantal meetdagen.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Dag",
+            "Aantal (stuks)"
+          ],
+          "rows": [
+            [
+              "Maandag",
+              24
+            ],
+            [
+              "Dinsdag",
+              30
+            ],
+            [
+              "Woensdag",
+              36
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-6-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je kijkt hoeveel spullen er per dag klaar zijn. Bekijk de tabel."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "barMinimum",
+      "title": "Een staafdiagram lezen · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Welke plek heeft de kleinste voorraad?",
+        "facts": [],
+        "steps": [
+          "Vergelijk de drie staafhoogten.",
+          "A is de laagste staaf."
+        ],
+        "answer": "Plek A.",
+        "hint": "Lees de aantallen van alle plekken af.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            25,
+            35,
+            30
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 25,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "barRead",
+      "title": "Een staafdiagram lezen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks staan op plek B?",
+        "facts": [],
+        "steps": [
+          "Zoek B.",
+          "Lees de hoogte af met de schaalverdeling."
+        ],
+        "answer": "25 stuks",
+        "hint": "Lees het getal op de lijn links van de grafiek.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            15,
+            25,
+            20
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 25,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "winkelmedewerker",
+        "place": "een boerderijwinkel",
+        "material": "zakjes zaad",
+        "photoLesson": "1-3-ma",
+        "context": "Je werkt in een boerderijwinkel. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "barScale",
+      "title": "Staafdiagram met stappen van vijf of tien · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks stelt één stap op de lijn links van de grafiek voor?",
+        "facts": [],
+        "steps": [
+          "Lees twee getallen naast elkaar op de as.",
+          "Het verschil tussen twee streepjes is 5 stuks."
+        ],
+        "answer": "5 stuks",
+        "hint": "Vergelijk twee getallen naast elkaar op de schaal.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            10,
+            20,
+            15
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 5,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "2-2-ma",
+        "context": "Je werkt in een kwekerij. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "barStock",
+      "title": "Staafdiagram met stappen van vijf of tien · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Elke plek heeft 50 stuks nodig. Waar moet het meeste bij?",
+        "facts": [],
+        "steps": [
+          "50 − 20 = 30",
+          "50 − 30 = 20",
+          "50 − 25 = 25"
+        ],
+        "answer": "Bij A, 30 stuks.",
+        "hint": "Bereken bij elke staaf het verschil met hetzelfde doel.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            20,
+            30,
+            25
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "2-4-do",
+        "context": "Je werkt in een kwekerij. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "both",
+      "title": "Volle verpakkingen en nodige verpakkingen",
+      "visual": "groups",
+      "n": 1,
+      "example": {
+        "verb": "inpakken met een rest",
+        "question": "Hoeveel bakken worden vol? Hoeveel bakken zijn nodig als alle stuks mee moeten?",
+        "facts": [
+          {
+            "label": "Totaal",
+            "value": "25 stuks"
+          },
+          {
+            "label": "Per volle bak",
+            "value": "6 stuks"
+          }
+        ],
+        "steps": [
+          "4 × 6 = 24",
+          "25 − 24 = 1 stuks over.",
+          "Voor de rest gebruik je nog één bak. Samen 5 bakken."
+        ],
+        "answer": "4 volle bakken. In totaal 5 bakken nodig.",
+        "hint": "Maak zoveel mogelijk volle bakken. Kijk wat er met de laatste stuks moet gebeuren.",
+        "visual": null,
+        "explain": "Waarom heb je soms een extra bak nodig?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "2-1-do",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "checkBar",
+      "title": "Van tabel naar staafdiagram · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Vergelijk de staven met de tabel. Welke staaf klopt niet?",
+        "facts": [],
+        "steps": [
+          "C hoort bij 35 stuks.",
+          "Gebruik de schaal van 5 stuks per stap."
+        ],
+        "answer": "C is 5 stuks te hoog.",
+        "hint": "Vergelijk de hoogte van de staaf met het getal in de tabel.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            30,
+            40,
+            40
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek",
+          "missing": null,
+          "sourceValues": [
+            30,
+            40,
+            35
+          ]
+        },
+        "result": 35,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-6-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "countCheck",
+      "title": "Een telling controleren",
+      "visual": "count",
+      "n": 1,
+      "example": {
+        "verb": "tellen",
+        "question": "Hoeveel stuks tel je? Klopt de telling met de lijst?",
+        "facts": [
+          {
+            "label": "Op de lijst",
+            "value": "57 stuks"
+          }
+        ],
+        "steps": [
+          "5 × 10 = 50",
+          "50 + 5 = 55",
+          "57 − 55 = 2"
+        ],
+        "answer": "55 stuks. Dat zijn 2 stuks minder dan op de lijst.",
+        "hint": "Tel eerst 10, 20, 30 … Tel de losse stuks daarna verder.",
+        "visual": {
+          "type": "groups",
+          "groups": 5,
+          "size": 10,
+          "loose": 5
+        },
+        "explain": "Hoeveel hoef je te tellen als je één vol groepje ziet?"
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-3-do",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "dataDecision",
+      "title": "Een beslissing onderbouwen met gegevens · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks moet je op plek A bijvullen?",
+        "facts": [],
+        "steps": [
+          "65 − 35 = 30"
+        ],
+        "answer": "Vul A aan met 30 stuks.",
+        "hint": "Kijk hoeveel stuks nodig zijn. Haal eraf wat er al ligt.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              35,
+              65
+            ],
+            [
+              "B",
+              45,
+              65
+            ],
+            [
+              "C",
+              40,
+              65
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "2-1-do",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "decimalCompare",
+      "title": "Kommagetallen vergelijken",
+      "visual": "numberline",
+      "n": 1,
+      "example": {
+        "verb": "kommagetallen vergelijken",
+        "question": "Welke maat is het grootst?",
+        "facts": [
+          {
+            "label": "Maat A",
+            "value": "1,4 m"
+          },
+          {
+            "label": "Maat B",
+            "value": "1,35 m"
+          }
+        ],
+        "steps": [
+          "1,4 m = 1,40 m en 1,35 m = 1,35 m",
+          "1,40 m > 1,35 m"
+        ],
+        "answer": "Maat A is het grootst.",
+        "hint": "Schrijf beide maten met twee cijfers achter de komma.",
+        "visual": {
+          "type": "decimal",
+          "a": 140,
+          "b": 135
+        },
+        "explain": "Waarom helpt een nul achteraan bij het vergelijken?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "2-4-di",
+        "context": "Je werkt in een bloemenwinkel. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "decimalEqual",
+      "title": "Kommagetallen met dezelfde waarde",
+      "visual": "numberline",
+      "n": 1,
+      "example": {
+        "verb": "kommagetallen lezen",
+        "question": "Zijn deze twee maten even lang? Leg uit hoe je dat ziet.",
+        "facts": [
+          {
+            "label": "Maat A",
+            "value": "1,4 m"
+          },
+          {
+            "label": "Maat B",
+            "value": "1,40 m"
+          }
+        ],
+        "steps": [
+          "1,4 m = 1,40 m",
+          "Een nul achteraan bij de decimalen verandert het getal niet."
+        ],
+        "answer": "Beide maten zijn 140 cm.",
+        "hint": "Zet beide maten op dezelfde getallenlijn. Waar liggen ze?",
+        "visual": {
+          "type": "decimal",
+          "a": 140,
+          "b": 140
+        },
+        "explain": "Wat verandert er aan de lengte als je achteraan een nul schrijft?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "een randstuk",
+        "photoLesson": "2-3-ma",
+        "context": "Je werkt in een bestratingsbedrijf. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "decimalLimit",
+      "title": "Een maat binnen de grens kiezen",
+      "visual": "numberline",
+      "n": 1,
+      "example": {
+        "verb": "een passende maat kiezen",
+        "question": "Welke maat past binnen de opgegeven maximummaat?",
+        "facts": [
+          {
+            "label": "Maximum",
+            "value": "1,9 m"
+          },
+          {
+            "label": "Maat A",
+            "value": "1,88 m"
+          },
+          {
+            "label": "Maat B",
+            "value": "1,95 m"
+          }
+        ],
+        "steps": [
+          "1,88 m < 1,90 m",
+          "1,95 m > 1,90 m"
+        ],
+        "answer": "Maat A past.",
+        "hint": "Vergelijk elke maat apart met het maximum. Zet de cijfers netjes onder elkaar.",
+        "visual": null,
+        "explain": "Hoe weet je dat jouw keuze binnen de maximummaat valt?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "deviation",
+      "title": "Een beslissing onderbouwen met gegevens · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks moeten op plek A worden aangevuld?",
+        "facts": [],
+        "steps": [
+          "60 − 30 = 30"
+        ],
+        "answer": "Vul A aan met 30 stuks.",
+        "hint": "Kijk hoeveel stuks nodig zijn. Haal eraf wat er al ligt.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              30,
+              60
+            ],
+            [
+              "B",
+              40,
+              60
+            ],
+            [
+              "C",
+              35,
+              60
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "2-6-di",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "double",
+      "title": "Verdubbelen en halveren · Begrijpen",
+      "visual": "fraction",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel heb je voor twee keer zoveel nodig?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "36 stuks"
+          }
+        ],
+        "steps": [
+          "36 × 2 = 72"
+        ],
+        "answer": "72 stuks",
+        "hint": "Neem dezelfde hoeveelheid nog een keer.",
+        "visual": null,
+        "model": {
+          "kind": "fraction",
+          "total": 36,
+          "parts": 2,
+          "filled": 1
+        },
+        "result": 72,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-1-ma",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "doubleList",
+      "title": "Hoeveelheden vergroten en verkleinen · Begrijpen",
+      "visual": "fraction",
+      "n": 1,
+      "example": {
+        "question": "Pas beide hoeveelheden aan voor 2 keer zoveel sets.",
+        "facts": [
+          {
+            "label": "Materiaal A",
+            "value": "36 stuks"
+          },
+          {
+            "label": "Materiaal B",
+            "value": "44 stuks"
+          }
+        ],
+        "steps": [
+          "36 × 2 = 72",
+          "44 × 2 = 88"
+        ],
+        "answer": "A 72 stuks; B 88 stuks.",
+        "hint": "Gebruik bij beide materialen dezelfde factor.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Materiaal",
+            "Oud",
+            "Nieuw"
+          ],
+          "rows": [
+            [
+              "A",
+              36,
+              "?"
+            ],
+            [
+              "B",
+              44,
+              "?"
+            ]
+          ]
+        },
+        "result": [
+          72,
+          88
+        ],
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "2-1-ma",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "drawBar",
+      "title": "Van tabel naar staafdiagram · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Teken de ontbrekende staaf C op de juiste hoogte.",
+        "facts": [],
+        "steps": [
+          "C hoort bij 30 stuks.",
+          "Gebruik de schaal van 5 stuks per stap."
+        ],
+        "answer": "Staaf C moet tot 30 stuks komen.",
+        "hint": "Vergelijk de hoogte van de staaf met het getal in de tabel.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            25,
+            35,
+            30
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek",
+          "missing": "C",
+          "sourceValues": [
+            25,
+            35,
+            30
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-di",
+        "context": "Je werkt in een boerderij met plantenteelt. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "estimateEnough",
+      "title": "Met een schatting de voorraad controleren",
+      "visual": "numbers",
+      "n": 1,
+      "example": {
+        "verb": "schatten en controleren",
+        "question": "Schat of je genoeg hebt. Reken daarna precies uit of je het aantal dat je nodig hebt haalt.",
+        "facts": [
+          {
+            "label": "Eerste hoeveelheid",
+            "value": "41 stuks"
+          },
+          {
+            "label": "Tweede hoeveelheid",
+            "value": "50 stuks"
+          },
+          {
+            "label": "Benodigd",
+            "value": "98 stuks"
+          }
+        ],
+        "steps": [
+          "41 ≈ 40 en 50 ≈ 50",
+          "Schatting 40 + 50 = 90",
+          "Precies 41 + 50 = 91. 98 − 91 = 7 tekort."
+        ],
+        "answer": "Geschat 90, precies 91 stuks. 7 tekort.",
+        "hint": "Maak beide getallen eerst rond op tientallen. Reken met de oorspronkelijke aantallen voor de controle.",
+        "visual": null,
+        "explain": "Waarom is de precieze berekening belangrijk als je schatting dicht bij het doel ligt?"
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "2-4-do",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "fractionPicture",
+      "title": "Halven en kwarten · Begrijpen",
+      "visual": "fraction",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks stelt het gekleurde deel van de voorraad voor?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "24 stuks"
+          }
+        ],
+        "steps": [
+          "24 ÷ 2 = 12"
+        ],
+        "answer": "12 stuks",
+        "hint": "Verdeel de hoeveelheid in 2 gelijke delen.",
+        "visual": null,
+        "model": {
+          "kind": "fraction",
+          "total": 24,
+          "parts": 4,
+          "filled": 2
+        },
+        "result": 12,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "1-2-ma",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "halfList",
+      "title": "Hoeveelheden vergroten en verkleinen · Oefenen",
+      "visual": "fraction",
+      "n": 1,
+      "example": {
+        "question": "Pas beide hoeveelheden aan voor half zoveel sets.",
+        "facts": [
+          {
+            "label": "Materiaal A",
+            "value": "24 stuks"
+          },
+          {
+            "label": "Materiaal B",
+            "value": "32 stuks"
+          }
+        ],
+        "steps": [
+          "24 × 0,5 = 12",
+          "32 × 0,5 = 16"
+        ],
+        "answer": "A 12 stuks; B 16 stuks.",
+        "hint": "Gebruik bij beide materialen dezelfde factor.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Materiaal",
+            "Oud",
+            "Nieuw"
+          ],
+          "rows": [
+            [
+              "A",
+              24,
+              "?"
+            ],
+            [
+              "B",
+              32,
+              "?"
+            ]
+          ]
+        },
+        "result": [
+          12,
+          16
+        ],
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker dierverzorging",
+        "place": "een dierenverzorgingsbedrijf",
+        "material": "voerbakjes",
+        "photoLesson": "2-2-di",
+        "context": "Je werkt in een dierenverzorgingsbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "line",
+      "title": "Getallen op een getallenlijn",
+      "visual": "numberline",
+      "n": 1,
+      "example": {
+        "verb": "op de getallenlijn zetten",
+        "question": "Waar liggen beide aantallen ongeveer op de getallenlijn? Welk aantal ligt het verst naar rechts?",
+        "facts": [
+          {
+            "label": "Plek A",
+            "value": "33 stuks"
+          },
+          {
+            "label": "Plek B",
+            "value": "16 stuks"
+          }
+        ],
+        "steps": [
+          "33 ligt tussen 30 en 40.",
+          "16 ligt tussen 10 en 20.",
+          "33 is het grootste aantal."
+        ],
+        "answer": "33 ligt het verst naar rechts.",
+        "hint": "Zoek voor elk getal eerst de twee tientallen eromheen.",
+        "visual": {
+          "type": "line",
+          "start": 0,
+          "end": 40,
+          "step": 10
+        },
+        "explain": "Hoe helpt de getallenlijn je bij het vergelijken?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "1-2-ma",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "lineChange",
+      "title": "Een lijndiagram lezen · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn er op dinsdag meer dan op maandag?",
+        "facts": [],
+        "steps": [
+          "18 − 12 = 6"
+        ],
+        "answer": "6 stuks",
+        "hint": "Haal het eerste getal van het laatste getal af.",
+        "visual": null,
+        "model": {
+          "kind": "lineChart",
+          "labels": [
+            "Maandag",
+            "Dinsdag",
+            "Woensdag"
+          ],
+          "values": [
+            12,
+            18,
+            22
+          ],
+          "unit": "stuks",
+          "title": "Voorraad per meetdag"
+        },
+        "result": 6,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "2-4-di",
+        "context": "Je werkt in een bloemenwinkel. Je collega heeft de voorraad op drie dagen geteld. Bekijk de grafiek."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "lineMost",
+      "title": "Een lijndiagram lezen · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Tussen welke dagen komen de meeste stuks erbij?",
+        "facts": [],
+        "steps": [
+          "20 − 13 = 7",
+          "25 − 20 = 5"
+        ],
+        "answer": "Van maandag op dinsdag; 7 stuks.",
+        "hint": "Reken voor elke stap uit hoeveel erbij komt. Vergelijk de twee antwoorden.",
+        "visual": null,
+        "model": {
+          "kind": "lineChart",
+          "labels": [
+            "Maandag",
+            "Dinsdag",
+            "Woensdag"
+          ],
+          "values": [
+            13,
+            20,
+            25
+          ],
+          "unit": "stuks",
+          "title": "Voorraad per meetdag"
+        },
+        "result": 7,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je collega heeft de voorraad op drie dagen geteld. Bekijk de grafiek."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "lineRead",
+      "title": "Een lijndiagram lezen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Welk aantal lees je op dinsdag af?",
+        "facts": [],
+        "steps": [
+          "Zoek dinsdag op de lijn onder de grafiek.",
+          "Lees het aantal bij het meetpunt af."
+        ],
+        "answer": "16 stuks",
+        "hint": "Ga vanaf de dag recht omhoog naar het meetpunt.",
+        "visual": null,
+        "model": {
+          "kind": "lineChart",
+          "labels": [
+            "Maandag",
+            "Dinsdag",
+            "Woensdag"
+          ],
+          "values": [
+            11,
+            16,
+            19
+          ],
+          "unit": "stuks",
+          "title": "Voorraad per meetdag"
+        },
+        "result": 16,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "een randstuk",
+        "photoLesson": "2-3-ma",
+        "context": "Je werkt in een bestratingsbedrijf. Je collega heeft de voorraad op drie dagen geteld. Bekijk de grafiek."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "multiply",
+      "title": "Vermenigvuldigen met gelijke groepen",
+      "visual": "groups",
+      "n": 1,
+      "example": {
+        "verb": "in gelijke groepen tellen",
+        "question": "Hoeveel stuks tel je in alle groepjes samen? Noem ook de keersom.",
+        "facts": [
+          {
+            "label": "Aantal groepjes",
+            "value": "5"
+          },
+          {
+            "label": "Per groepje",
+            "value": "4 stuks"
+          }
+        ],
+        "steps": [
+          "4 + 4 + 4 + 4 + 4 = 20",
+          "5 × 4 = 20"
+        ],
+        "answer": "20 stuks",
+        "hint": "Tel in sprongen. Elk groepje is even groot.",
+        "visual": {
+          "type": "groups",
+          "groups": 5,
+          "size": 4,
+          "loose": 0
+        },
+        "explain": "Wat vertelt het eerste getal van de keersom?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "need",
+      "title": "Een tekort berekenen",
+      "visual": "numbers",
+      "n": 1,
+      "example": {
+        "verb": "klaarzetten",
+        "question": "Zijn er genoeg stuks voor de werktaak? Hoeveel moet je zo nodig aanvullen?",
+        "facts": [
+          {
+            "label": "Plek A",
+            "value": "46 stuks"
+          },
+          {
+            "label": "Plek B",
+            "value": "17 stuks"
+          },
+          {
+            "label": "Benodigd",
+            "value": "72 stuks"
+          }
+        ],
+        "steps": [
+          "46 + 17 = 63",
+          "72 − 63 = 9"
+        ],
+        "answer": "9 stuks aanvullen.",
+        "hint": "Tel eerst op wat er is. Vergelijk het totaal daarna met wat je nodig hebt.",
+        "visual": null,
+        "explain": "Waarom tel je de twee voorraden eerst bij elkaar op?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker tuinaanleg",
+        "place": "een hoveniersbedrijf",
+        "material": "een plantenbak",
+        "photoLesson": "2-3-do",
+        "context": "Je werkt in een hoveniersbedrijf. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "percentPicture",
+      "title": "50% en 25% · Begrijpen",
+      "visual": "fraction",
+      "n": 1,
+      "example": {
+        "question": "Welk percentage van de voorraad is gekleurd?",
+        "facts": [],
+        "steps": [
+          "Het geheel bestaat uit vier gelijke delen.",
+          "Er zijn 1 van de vier delen gekleurd."
+        ],
+        "answer": "25%",
+        "hint": "Het hele plaatje is 100%.",
+        "visual": null,
+        "model": {
+          "kind": "fraction",
+          "total": 180,
+          "parts": 4,
+          "filled": 1
+        },
+        "result": 25,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "perSet",
+      "title": "Rekenen met ‘per’ · Begrijpen",
+      "visual": "ratio",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks horen bij één set?",
+        "facts": [],
+        "steps": [
+          "28 ÷ 4 = 7"
+        ],
+        "answer": "7 stuks per set.",
+        "hint": "Zoek de kolom voor één set.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            1,
+            4
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              7,
+              28
+            ]
+          ]
+        },
+        "result": 7,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "winkelmedewerker",
+        "place": "een boerderijwinkel",
+        "material": "zakjes zaad",
+        "photoLesson": "1-3-ma",
+        "context": "Je werkt in een boerderijwinkel. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "ratioRead",
+      "title": "Een verhoudingstabel gebruiken · Begrijpen",
+      "visual": "ratio",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks horen bij één set?",
+        "facts": [],
+        "steps": [
+          "32 ÷ 4 = 8"
+        ],
+        "answer": "8 stuks per set.",
+        "hint": "Zoek de kolom voor één set.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            1,
+            4
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              8,
+              32
+            ]
+          ]
+        },
+        "result": 8,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "1-4-ma",
+        "context": "Je werkt in een bestratingsbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "ratioUnit",
+      "title": "Rekenen via één · Begrijpen",
+      "visual": "ratio",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks horen bij één set?",
+        "facts": [
+          {
+            "label": "Sets",
+            "value": "4"
+          },
+          {
+            "label": "Totaal",
+            "value": "24 stuks"
+          }
+        ],
+        "steps": [
+          "24 ÷ 4 = 6"
+        ],
+        "answer": "6 stuks per set.",
+        "hint": "Deel de totale hoeveelheid door het aantal sets.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Sets",
+            4,
+            1
+          ],
+          "rows": [
+            [
+              "Materiaal (stuks)",
+              24,
+              "?"
+            ]
+          ]
+        },
+        "result": 6,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "2-2-ma",
+        "context": "Je werkt in een kwekerij. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "reservePercent",
+      "title": "10% en 20% berekenen · Toepassen",
+      "visual": "percent",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks is 20% van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "40 stuks"
+          },
+          {
+            "label": "Apart leggen",
+            "value": "20%"
+          }
+        ],
+        "steps": [
+          "40 ÷ 10 = 4",
+          "4 × 2 = 8"
+        ],
+        "answer": "8 stuks",
+        "hint": "Gebruik voor 50% de helft, voor 25% een kwart, voor 10% delen door tien.",
+        "visual": null,
+        "model": {
+          "kind": "percent",
+          "percent": 20
+        },
+        "result": 8,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-6-do",
+        "context": "Je werkt in een boerderij met plantenteelt. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "rest",
+      "title": "Delen met een rest",
+      "visual": "groups",
+      "n": 1,
+      "example": {
+        "verb": "inpakken met een rest",
+        "question": "Hoeveel volle bakken maak je? Hoeveel stuks blijven over?",
+        "facts": [
+          {
+            "label": "Totaal",
+            "value": "21 stuks"
+          },
+          {
+            "label": "Per volle bak",
+            "value": "4 stuks"
+          }
+        ],
+        "steps": [
+          "5 × 4 = 20",
+          "21 − 20 = 1 stuks over."
+        ],
+        "answer": "5 volle bakken en 1 stuks over.",
+        "hint": "Maak zoveel mogelijk volle bakken. Kijk wat er met de laatste stuks moet gebeuren.",
+        "visual": null,
+        "explain": "Waarom heb je soms een extra bak nodig?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "round",
+      "title": "Afronden op tientallen",
+      "visual": "numberline",
+      "n": 1,
+      "example": {
+        "verb": "op tientallen afronden",
+        "question": "Tussen welke tientallen ligt het aantal? Rond af op het dichtstbijzijnde tiental.",
+        "facts": [
+          {
+            "label": "Geteld",
+            "value": "43 stuks"
+          }
+        ],
+        "steps": [
+          "43 ligt tussen 40 en 50.",
+          "De afstanden zijn 3 en 7.",
+          "Het dichtstbijzijnde tiental is 40."
+        ],
+        "answer": "Ongeveer 40 stuks.",
+        "hint": "Tel vanaf het getal naar beide tientallen. Welke afstand is korter?",
+        "visual": {
+          "type": "line",
+          "start": 40,
+          "end": 50,
+          "step": 1,
+          "point": 43
+        },
+        "explain": "Hoe kun je aan de getallenlijn zien welk tiental dichterbij ligt?",
+        "model": null
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "2-2-ma",
+        "context": "Je werkt in een kwekerij. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "selectData",
+      "title": "Een beslissing onderbouwen met gegevens · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn op plek B aanwezig?",
+        "facts": [],
+        "steps": [
+          "Zoek rij B.",
+          "Lees het getal in de kolom Voorraad (stuks)."
+        ],
+        "answer": "35 stuks",
+        "hint": "Wijs eerst de rij en dan de juiste kolom aan.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              25,
+              55
+            ],
+            [
+              "B",
+              35,
+              55
+            ],
+            [
+              "C",
+              30,
+              55
+            ]
+          ]
+        },
+        "result": 35,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stockDifference",
+      "title": "Een voorraadlijst gebruiken · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks moeten op plek A worden aangevuld?",
+        "facts": [],
+        "steps": [
+          "60 − 30 = 30"
+        ],
+        "answer": "Vul A aan met 30 stuks.",
+        "hint": "Kijk hoeveel stuks nodig zijn. Haal eraf wat er al ligt.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              30,
+              60
+            ],
+            [
+              "B",
+              40,
+              60
+            ],
+            [
+              "C",
+              35,
+              60
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-6-di",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stockOrder",
+      "title": "Een voorraadlijst gebruiken · Toepassen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks moeten op plek A worden aangevuld?",
+        "facts": [],
+        "steps": [
+          "65 − 35 = 30"
+        ],
+        "answer": "Vul A aan met 30 stuks.",
+        "hint": "Kijk hoeveel stuks nodig zijn. Haal eraf wat er al ligt.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              35,
+              65
+            ],
+            [
+              "B",
+              45,
+              65
+            ],
+            [
+              "C",
+              40,
+              65
+            ]
+          ]
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bloem",
+        "place": "een bloemenwinkel",
+        "material": "bloemstelen",
+        "photoLesson": "1-1-do",
+        "context": "Je werkt in een bloemenwinkel. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stockRead",
+      "title": "Een voorraadlijst gebruiken · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn op plek B aanwezig?",
+        "facts": [],
+        "steps": [
+          "Zoek rij B.",
+          "Lees het getal in de kolom Voorraad (stuks)."
+        ],
+        "answer": "35 stuks",
+        "hint": "Wijs eerst de rij en dan de juiste kolom aan.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              25,
+              55
+            ],
+            [
+              "B",
+              35,
+              55
+            ],
+            [
+              "C",
+              30,
+              55
+            ]
+          ]
+        },
+        "result": 35,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "stockShortage",
+      "title": "Voorraad en tekort berekenen",
+      "visual": "numbers",
+      "n": 1,
+      "example": {
+        "verb": "voorraad bijwerken",
+        "question": "Wat is de eindvoorraad en hoeveel moet je aanvullen?",
+        "facts": [
+          {
+            "label": "Beginvoorraad",
+            "value": "42 stuks"
+          },
+          {
+            "label": "Er komt bij",
+            "value": "31 stuks"
+          },
+          {
+            "label": "Gebruikt",
+            "value": "24 stuks"
+          },
+          {
+            "label": "Aantal dat je nodig hebt",
+            "value": "82 stuks"
+          }
+        ],
+        "steps": [
+          "42 + 31 = 73",
+          "73 − 24 = 49",
+          "82 − 49 = 33 tekort."
+        ],
+        "answer": "49 stuks over. Vul 33 stuks aan.",
+        "hint": "Werk op volgorde. Schrijf de voorraad na de levering apart op.",
+        "visual": null,
+        "explain": "Bij welke stap tel je erbij en bij welke stap haal je eraf?"
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-6-do",
+        "context": "Je werkt in een boerderij met plantenteelt. Je controleert een levering en geeft door wat je collega kan klaarzetten."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "sumValues",
+      "title": "Een gemiddelde berekenen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn er in de drie dagen samen klaar?",
+        "facts": [],
+        "steps": [
+          "18 + 24 = 42",
+          "42 + 30 = 72"
+        ],
+        "answer": "72 stuks",
+        "hint": "Tel de drie dagtotalen op.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Dag",
+            "Aantal (stuks)"
+          ],
+          "rows": [
+            [
+              "Maandag",
+              18
+            ],
+            [
+              "Dinsdag",
+              24
+            ],
+            [
+              "Woensdag",
+              30
+            ]
+          ]
+        },
+        "result": 72,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "2-4-ma",
+        "context": "Je werkt in een bestratingsbedrijf. Je kijkt hoeveel spullen er per dag klaar zijn. Bekijk de tabel."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tableBar",
+      "title": "Van tabel naar staafdiagram · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks staan op plek B?",
+        "facts": [],
+        "steps": [
+          "Zoek B.",
+          "Lees de hoogte af met de schaalverdeling."
+        ],
+        "answer": "30 stuks",
+        "hint": "Lees het getal op de lijn links van de grafiek.",
+        "visual": null,
+        "model": {
+          "kind": "bars",
+          "labels": [
+            "A",
+            "B",
+            "C"
+          ],
+          "values": [
+            20,
+            30,
+            25
+          ],
+          "step": 5,
+          "unit": "stuks",
+          "title": "Voorraad per plek"
+        },
+        "result": 30,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "1-4-ma",
+        "context": "Je werkt in een bestratingsbedrijf. Je collega heeft de aantallen in een grafiek gezet. Bekijk de staven."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tableCompare",
+      "title": "Een tabel lezen · Oefenen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Welke plek heeft meer voorraad, A of B?",
+        "facts": [],
+        "steps": [
+          "Vergelijk 15 met 25."
+        ],
+        "answer": "B heeft meer voorraad.",
+        "hint": "Lees beide getallen in dezelfde kolom.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              15,
+              45
+            ],
+            [
+              "B",
+              25,
+              45
+            ],
+            [
+              "C",
+              20,
+              45
+            ]
+          ]
+        },
+        "result": 25,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "1-3-di",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tableRead",
+      "title": "Een tabel lezen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks zijn op plek B aanwezig?",
+        "facts": [],
+        "steps": [
+          "Zoek rij B.",
+          "Lees het getal in de kolom Voorraad (stuks)."
+        ],
+        "answer": "20 stuks",
+        "hint": "Wijs eerst de rij en dan de juiste kolom aan.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              10,
+              40
+            ],
+            [
+              "B",
+              20,
+              40
+            ],
+            [
+              "C",
+              15,
+              40
+            ]
+          ]
+        },
+        "result": 20,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "bamboestokken",
+        "photoLesson": "1-2-ma",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tableUnit",
+      "title": "Een tabel met meerdere kolommen lezen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "In welke kolom staat hoeveel stuks nodig zijn?",
+        "facts": [],
+        "steps": [
+          "Lees de woorden boven de kolommen.",
+          "Gebruik de kolom Nodig (stuks)."
+        ],
+        "answer": "Nodig, in stuks.",
+        "hint": "Lees ook wat tussen haakjes achter de woorden boven de kolom staat.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Plek",
+            "Voorraad (stuks)",
+            "Nodig (stuks)"
+          ],
+          "rows": [
+            [
+              "A",
+              45,
+              75
+            ],
+            [
+              "B",
+              55,
+              75
+            ],
+            [
+              "C",
+              50,
+              75
+            ]
+          ]
+        },
+        "result": "stuks",
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "2-1-ma",
+        "context": "Je werkt in een kwekerij. Bekijk de aantallen op de lijst. Hoeveel ligt er? Hoeveel heb je nodig?"
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tallyMake",
+      "title": "Turven en totalen · Begrijpen",
+      "visual": "data",
+      "n": 1,
+      "example": {
+        "question": "Noteer het aantal dat je hebt geteld met turfstreepjes.",
+        "facts": [
+          {
+            "label": "Geteld",
+            "value": "33 stuks"
+          }
+        ],
+        "steps": [
+          "6 × 5 = 30",
+          "30 + 3 = 33"
+        ],
+        "answer": "33 stuks",
+        "hint": "Vier streepjes met een streep erdoor zijn samen vijf.",
+        "visual": null,
+        "model": null,
+        "result": 33,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "stekpotjes",
+        "photoLesson": "1-1-ma",
+        "context": "Je werkt in een kwekerij. Je telt de spullen. Gebruik de turfstreepjes op de lijst."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tenPercent",
+      "title": "10% en 20% berekenen · Begrijpen",
+      "visual": "percent",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks is 10% van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "160 stuks"
+          },
+          {
+            "label": "Apart leggen",
+            "value": "10%"
+          }
+        ],
+        "steps": [
+          "160 ÷ 10 = 16"
+        ],
+        "answer": "16 stuks",
+        "hint": "Gebruik voor 50% de helft, voor 25% een kwart, voor 10% delen door tien.",
+        "visual": null,
+        "model": {
+          "kind": "percent",
+          "percent": 10
+        },
+        "result": 16,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "klinkers",
+        "photoLesson": "2-4-ma",
+        "context": "Je werkt in een bestratingsbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "tripleList",
+      "title": "Hoeveelheden vergroten en verkleinen · Toepassen",
+      "visual": "ratio",
+      "n": 1,
+      "example": {
+        "question": "Pas beide hoeveelheden aan voor 3 keer zoveel sets.",
+        "facts": [
+          {
+            "label": "Materiaal A",
+            "value": "28 stuks"
+          },
+          {
+            "label": "Materiaal B",
+            "value": "36 stuks"
+          }
+        ],
+        "steps": [
+          "28 × 3 = 84",
+          "36 × 3 = 108"
+        ],
+        "answer": "A 84 stuks; B 108 stuks.",
+        "hint": "Gebruik bij beide materialen dezelfde factor.",
+        "visual": null,
+        "model": {
+          "kind": "ratio",
+          "head": [
+            "Materiaal",
+            "Oud",
+            "Nieuw"
+          ],
+          "rows": [
+            [
+              "A",
+              28,
+              "?"
+            ],
+            [
+              "B",
+              36,
+              "?"
+            ]
+          ]
+        },
+        "result": [
+          84,
+          108
+        ],
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker tuinaanleg",
+        "place": "een hoveniersbedrijf",
+        "material": "een plantenbak",
+        "photoLesson": "2-3-do",
+        "context": "Je werkt in een hoveniersbedrijf. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "twentyPercent",
+      "title": "10% en 20% berekenen · Oefenen",
+      "visual": "percent",
+      "n": 1,
+      "example": {
+        "question": "Hoeveel stuks is 20% van de voorraad?",
+        "facts": [
+          {
+            "label": "Voorraad",
+            "value": "180 stuks"
+          },
+          {
+            "label": "Apart leggen",
+            "value": "20%"
+          }
+        ],
+        "steps": [
+          "180 ÷ 10 = 18",
+          "18 × 2 = 36"
+        ],
+        "answer": "36 stuks",
+        "hint": "Gebruik voor 50% de helft, voor 25% een kwart, voor 10% delen door tien.",
+        "visual": null,
+        "model": {
+          "kind": "percent",
+          "percent": 20
+        },
+        "result": 36,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "2-5-di",
+        "context": "Je werkt in een boerderij met plantenteelt. De bestelling verandert. Pas de hoeveelheid aan voor het gevraagde aantal sets."
+      },
+      "priority": 1
+    },
+    {
+      "kind": "priceAdd",
+      "title": "Prijzen optellen · Oefenen",
+      "visual": "money",
+      "n": 5,
+      "example": {
+        "question": "Wat is de prijs van alles samen?",
+        "facts": [
+          {
+            "label": "Artikel A",
+            "value": "€ 5,50"
+          },
+          {
+            "label": "Artikel B",
+            "value": "€ 3,20"
+          }
+        ],
+        "steps": [
+          "5,5 + 3,2 = 8,7"
+        ],
+        "answer": "€ 8,70",
+        "hint": "Zet euro's onder euro's en centen onder centen.",
+        "visual": null,
+        "model": {
+          "kind": "price",
+          "cents": 550
+        },
+        "result": 870,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "1-3-di",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "budget",
+      "title": "Binnen een budget blijven · Oefenen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel geld houd je over?",
+        "facts": [
+          {
+            "label": "Budget",
+            "value": "€ 20,00"
+          },
+          {
+            "label": "Kosten A",
+            "value": "€ 5,50"
+          },
+          {
+            "label": "Kosten B",
+            "value": "€ 3,20"
+          }
+        ],
+        "steps": [
+          "5,5 + 3,2 = 8,7",
+          "20 − 8,7 = 11,3"
+        ],
+        "answer": "€ 11,30 over.",
+        "hint": "Tel eerst de kosten op. Trek ze daarna af van het budget.",
+        "visual": null,
+        "model": null,
+        "result": 1130,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "2-3-di",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "change",
+      "title": "Wisselgeld · Toepassen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel wisselgeld geef je terug?",
+        "facts": [
+          {
+            "label": "Prijs",
+            "value": "€ 5,65"
+          },
+          {
+            "label": "Betaald",
+            "value": "€ 20,00"
+          }
+        ],
+        "steps": [
+          "20 − 5,65 = 14,35",
+          "5,65 + 14,35 = 20"
+        ],
+        "answer": "€ 14,35 terug.",
+        "hint": "Bereken het verschil tussen betaald en de prijs.",
+        "visual": null,
+        "model": {
+          "kind": "price",
+          "cents": 565
+        },
+        "result": 1435,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "1-5-do",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "discountFinal",
+      "title": "Prijs na korting · Toepassen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Wat betaal je na 20% korting?",
+        "facts": [
+          {
+            "label": "Prijs",
+            "value": "€ 25,00"
+          },
+          {
+            "label": "Korting",
+            "value": "20%"
+          }
+        ],
+        "steps": [
+          "25 ÷ 10 = 2,5",
+          "2,5 × 2 = 5",
+          "25 − 5 = 20"
+        ],
+        "answer": "€ 20,00",
+        "hint": "Bereken eerst 10%, verdubbel voor 20% en trek zo nodig de korting af.",
+        "visual": null,
+        "model": {
+          "kind": "percent",
+          "percent": 20
+        },
+        "result": 2000,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "2-1-do",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "duration",
+      "title": "Rekenen met tijdsduur · Begrijpen",
+      "visual": "time",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel minuten werk je?",
+        "facts": [
+          {
+            "label": "Begin",
+            "value": "09.05 uur"
+          },
+          {
+            "label": "Eind",
+            "value": "09.17 uur"
+          }
+        ],
+        "steps": [
+          "Tel minuten vanaf 09.05 tot 09.17.",
+          "12 minuten."
+        ],
+        "answer": "12 minuten",
+        "hint": "Een uur heeft 60 minuten. Tel zo nodig via het hele uur.",
+        "visual": null,
+        "model": {
+          "kind": "timeline",
+          "start": 545,
+          "end": 557
+        },
+        "result": 12,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een boerderij met plantenteelt",
+        "material": "jonge planten",
+        "photoLesson": "1-5-ma",
+        "context": "Je werkt in een boerderij met plantenteelt. Je collega vraagt je de werktijden op de planning te controleren."
+      },
+      "priority": 2
+    },
+    {
+      "kind": "gridDistance",
+      "title": "Plattegrond met een legenda · Oefenen",
+      "visual": "route",
+      "n": 2,
+      "example": {
+        "question": "Hoeveel meter is de hele route?",
+        "facts": [
+          {
+            "label": "Legenda",
+            "value": "1 vakje = 1 m"
+          }
+        ],
+        "steps": [
+          "5 + 2 = 7",
+          "7 × 1 = 7"
+        ],
+        "answer": "7 m",
+        "hint": "Tel de stukken naar rechts en omhoog. Gebruik daarna de legenda.",
+        "visual": null,
+        "model": {
+          "kind": "grid",
+          "east": 5,
+          "north": 2,
+          "scale": 1
+        },
+        "result": 7,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker bestrating",
+        "place": "een bestratingsbedrijf",
+        "material": "een randstuk",
+        "photoLesson": "1-7-di",
+        "context": "Je werkt in een bestratingsbedrijf. Je controleert de maten en hoeveel materiaal je nodig hebt voor de klus."
+      },
+      "priority": 2
+    },
+    {
+      "kind": "offerCompare",
+      "title": "Twee aanbiedingen vergelijken · Toepassen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Welke aanbieding is goedkoper en hoeveel scheelt het?",
+        "facts": [
+          {
+            "label": "Aanbieding A",
+            "value": "€ 6,60"
+          },
+          {
+            "label": "Verzending A",
+            "value": "€ 1,50"
+          },
+          {
+            "label": "Aanbieding B, met verzending",
+            "value": "€ 7,35"
+          }
+        ],
+        "steps": [
+          "6,6 + 1,5 = 8,1",
+          "8,1 − 7,35 = 0,75"
+        ],
+        "answer": "B is € 0,75 goedkoper.",
+        "hint": "Vergelijk beide prijzen met alle kosten erbij.",
+        "visual": null,
+        "model": null,
+        "result": 75,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "2-5-do",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "priceMultiply",
+      "title": "Aantal × prijs per stuk · Oefenen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Wat kost de bestelling?",
+        "facts": [
+          {
+            "label": "Aantal",
+            "value": "5"
+          },
+          {
+            "label": "Prijs per stuk",
+            "value": "€ 5,25"
+          }
+        ],
+        "steps": [
+          "5 × 5,25 = 26,25"
+        ],
+        "answer": "€ 26,25",
+        "hint": "Vermenigvuldig het aantal met de prijs per stuk.",
+        "visual": null,
+        "model": {
+          "kind": "table",
+          "head": [
+            "Aantal",
+            "Prijs per stuk"
+          ],
+          "rows": [
+            [
+              5,
+              "€ 5,25"
+            ]
+          ]
+        },
+        "result": 2625,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "2-2-di",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    },
+    {
+      "kind": "scaleLength",
+      "title": "Een eenvoudige schaal gebruiken · Oefenen",
+      "visual": "route",
+      "n": 2,
+      "example": {
+        "question": "Op de tekening is het 5 cm. Hoeveel meter is dat in het echt?",
+        "facts": [
+          {
+            "label": "Schaal",
+            "value": "1 cm = 2 m"
+          }
+        ],
+        "steps": [
+          "5 × 2 = 10"
+        ],
+        "answer": "10 m",
+        "hint": "Vermenigvuldig met het aantal meters per centimeter.",
+        "visual": null,
+        "model": {
+          "kind": "grid",
+          "east": 4,
+          "north": 4,
+          "scale": 2
+        },
+        "result": 10,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "droge bonen",
+        "photoLesson": "2-8-di",
+        "context": "Je werkt in een boerderijwinkel. Je controleert de maten en hoeveel materiaal je nodig hebt voor de klus."
+      },
+      "priority": 2
+    },
+    {
+      "kind": "startTimePrep",
+      "title": "Terugplannen vanaf een eindtijd · Toepassen",
+      "visual": "time",
+      "n": 2,
+      "example": {
+        "question": "Hoe laat moet je beginnen om op tijd klaar te zijn?",
+        "facts": [
+          {
+            "label": "Klaar om",
+            "value": "14.30 uur"
+          },
+          {
+            "label": "Taak",
+            "value": "45 minuten"
+          },
+          {
+            "label": "Volgende taak",
+            "value": "20 minuten"
+          },
+          {
+            "label": "Voorbereiden",
+            "value": "10 minuten"
+          }
+        ],
+        "steps": [
+          "45 + 30 = 75",
+          "Reken vanaf 14.30 uur 75 minuten terug."
+        ],
+        "answer": "13.15 uur",
+        "hint": "Tel de minuten die je nodig hebt bij elkaar en werk terug vanaf de eindtijd.",
+        "visual": null,
+        "model": {
+          "kind": "timeline",
+          "start": 795,
+          "end": 870
+        },
+        "result": 795,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker plantenteelt",
+        "place": "een kwekerij",
+        "material": "plantlabels",
+        "photoLesson": "2-1-do",
+        "context": "Je werkt in een kwekerij. Je collega vraagt je de werktijden op de planning te controleren."
+      },
+      "priority": 2
+    },
+    {
+      "kind": "unitPriceCompare",
+      "title": "Eenheidsprijzen vergelijken · Oefenen",
+      "visual": "money",
+      "n": 2,
+      "example": {
+        "question": "Welke verpakking is voordeliger per stuk?",
+        "facts": [
+          {
+            "label": "Pak A, aantal",
+            "value": "4"
+          },
+          {
+            "label": "Pak A, prijs",
+            "value": "€ 6,20"
+          },
+          {
+            "label": "Pak B, aantal",
+            "value": "6"
+          },
+          {
+            "label": "Pak B, prijs",
+            "value": "€ 8,70"
+          }
+        ],
+        "steps": [
+          "6,2 ÷ 4 = 1,55",
+          "8,7 ÷ 6 = 1,45"
+        ],
+        "answer": "B is € 0,10 per stuk voordeliger.",
+        "hint": "Vergelijk prijzen voor één stuk.",
+        "visual": null,
+        "model": null,
+        "result": 10,
+        "explain": "Welke tussenstap bewijst je antwoord? Controleer met een andere berekening of met het materiaal."
+      },
+      "context": {
+        "role": "medewerker van een boerderijwinkel",
+        "place": "een boerderijwinkel",
+        "material": "groente en fruit",
+        "photoLesson": "2-4-di",
+        "context": "Je werkt in een boerderijwinkel. Een klant koopt groente en fruit. Je helpt bij het afrekenen.",
+        "photoKey": null,
+        "measurementGroup": null
+      },
+      "priority": 2
+    }
+  ]
+}

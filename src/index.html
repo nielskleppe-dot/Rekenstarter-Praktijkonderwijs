@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#522776">
+<meta name="description" content="Rekenstart voor CSG Prins Maurits. Drie korte rekenlessen per week, in vijf praktijkcontexten.">
+<title>Rekenstart · CSG Prins Maurits</title>
+<style>/* REKENSTART_STYLES */</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Naar de lesstarters</a>
+<header class="topbar">
+  <div class="shell topbar-inner">
+    <a class="brand" href="#" id="home-link" aria-label="Rekenstart, weekoverzicht">
+      <span class="brand-copy"><strong>Rekenstart</strong><small>Praktijkonderwijs</small></span>
+    </a>
+    <nav class="nav" aria-label="Hoofdnavigatie">
+      <button type="button" data-page="overview" aria-current="page">Start</button>
+      <button type="button" data-page="lessen">Lessen</button>
+      <button type="button" data-page="workcards">Werkkaarten</button>
+      <button type="button" data-page="curriculum">Leerlijn</button>
+      <button type="button" data-page="admin">Beheer</button>
+      <a class="btn" id="teacher-session" target="_top" href="/signin-with-chatgpt?return_to=%2F">Docentenlogin</a>
+    </nav>
+    
+    <img class="school-logo" src="/* SCHOOL_LOGO */" alt="CSG Prins Maurits – Praktijkonderwijs" width="190" height="95">
+  </div>
+</header>
+<main class="shell" id="main">
+  <div class="period-line" id="learning-toolbar">
+    <div><span class="eyebrow">Praktijkonderwijs</span><p>Herfst tot kerst <span class="dot">·</span> 2026</p></div>
+    <div id="year-picker" class="year-picker" aria-label="Schooljaar"></div>
+  </div>
+  <section id="overview" aria-label="Weekoverzicht">
+    <div id="hero" class="hero"></div>
+    <section class="home-choice-panel" aria-labelledby="home-choice-title"><div class="home-choice-heading"><span class="eyebrow">Jouw les, jouw werkplek</span><h2 id="home-choice-title">Kies wat bij je groep past</h2></div><div class="home-choice-row"><span class="choice-step">1</span><div><h3>Schooljaar</h3><div class="year-picker" id="home-year-picker" role="group" aria-label="Schooljaar kiezen"></div></div></div>
+    <section class="home-sector-section" aria-labelledby="sector-title">
+      <div class="home-choice-row home-sector-heading"><span class="choice-step">2</span><div><h3 id="sector-title">Sector</h3><p>Hetzelfde rekendoel, toegepast op jouw werkplek.</p></div></div>
+      <div class="sector-grid" id="sectors"></div>
+      </section><div class="home-choice-row home-day-row"><span class="choice-step">3</span><div><h3>Lesmoment</h3><div id="home-day-picker" role="group" aria-label="Lesmoment kiezen"></div></div></div></section><div id="week-nav" class="week-nav"></div>
+    <section class="sect" aria-labelledby="lessons-title">
+      <div class="section-head"><h2 id="lessons-title">Lesstarters</h2><p id="lessons-caption">Drie dia’s per les · 6 tot 8 minuten</p></div>
+      <div class="lesson-grid" id="lessons"></div>
+    </section>
+    
+    <section id="home-assistant" class="home-assistant" aria-label="Hulp bij je praktijkles"></section>
+    <div class="phase-view" id="phase-view"></div>
+  </section>
+  <section id="lessen" hidden aria-labelledby="catalog-title"></section>
+  <section id="metrieklessen" hidden aria-label="Metrieklessen"><div id="metric-overview" class="metric-overview"></div></section>
+  <section id="curriculum" hidden aria-labelledby="curriculum-title"></section>
+  <section id="workcards" hidden aria-label="Werkkaarten"></section>
+  <section id="admin" hidden aria-labelledby="admin-title"></section>
+  <footer class="footer"><span>Rekenstart · PrO · CSG Prins Maurits</span><button type="button" data-action="about" class="text-btn">Over deze periode en bronnen</button></footer>
+</main>
+<dialog id="presentation" class="presentation" aria-label="Lesstarter presenteren">
+  <div class="presentation-frame" id="deck"></div>
+</dialog>
+<dialog id="details" class="details" aria-label="Les voorbereiden"><div id="details-body"></div></dialog>
+<dialog id="wc-assistant" class="wc-assistant" aria-label="Praktijkassistent"><div id="wc-assistant-body"></div></dialog>
+<dialog id="ai-connection" class="wc-assistant ai-connection" aria-labelledby="ai-connection-title"><div id="ai-connection-body"></div></dialog>
+<div id="wc-print-root"></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<script type="application/json" id="rekenstart-data">/* REKENSTART_DATA */</script>
+<script type="application/json" id="catalog-data">/* CATALOG_DATA */</script>
+<script type="application/json" id="workcard-assets">/* WORKCARD_ASSETS */</script>
+<script type="application/json" id="workcard-examples">/* WORKCARD_EXAMPLES */</script>
+<script>/* WORKCARD_VENDOR */</script>
+<script>/* REKENSTART_APP */</script>
+</body>
+</html>

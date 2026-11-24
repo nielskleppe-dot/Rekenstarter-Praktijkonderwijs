@@ -1,0 +1,15 @@
+dist/
+site.tar.gz
+.env
+.env.local
+.env.*.local
+assets/photo-bank/*.b64
+node_modules/
+.netlify/
+netlify/generated/
+*.zip
+# Image sources are restored from asset-packs during the Netlify build.
+assets/**/*.webp
+assets/**/*.png
+assets/**/*.jpg
+assets/**/*.jpeg
